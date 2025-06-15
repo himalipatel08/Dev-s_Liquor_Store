@@ -1,0 +1,1001 @@
+Transaction_ID,Date,Month,Day_of_Week,Category,Brand,Quantity,Unit_Price,Discount_Rate,Gross_Amount,Discount_Amount,Net_Amount,Payment_Method,Customer_Age,Customer_Gender,Weather,Is_Holiday_Month,Revenue_per_unit,Age_Group,Is_Weekend
+fb72d756-4d90-44f4-8f50-626a22337af3,2024-09-04,September,Wednesday,Whiskey,Jack Daniels,6,16.87,0.25,101.22,25.3,75.91,Credit Card,58,Male,Sunny,0,4.499703615886188,51-60,False
+87f68f50-8798-49fd-aac8-e37fd62226cb,2024-06-18,June,Tuesday,Vodka,Smirnoff,3,119.36,0.12,358.08,42.97,315.11,Mobile Payment,22,Female,Rainy,0,2.639996648793566,21-30,False
+3a90ac59-0ae8-4a81-b7db-18ba5c168dd3,2025-05-24,May,Saturday,Whiskey,Jack Daniels,4,60.79,0.03,243.16,7.29,235.87,Mobile Payment,52,Other,Snowy,0,3.8800789603553216,51-60,True
+45752cd2-ff05-49a3-a7a2-61163d64c227,2025-03-13,March,Thursday,Gin,Tanqueray,3,12.19,0.12,36.57,4.39,32.18,Credit Card,53,Male,Cloudy,0,2.639868744872847,51-60,False
+7061a5a6-1135-4959-887c-3b8bee7bd200,2025-01-14,January,Tuesday,Brandy,Hennessy,3,98.74,0.16,296.22,47.4,248.82,Mobile Payment,64,Female,Cloudy,0,2.5199513874822768,61-70,False
+d52b4569-1a48-44ab-a778-49f23039c688,2024-07-10,July,Wednesday,Whiskey,Jack Daniels,5,81.15,0.12,405.75,48.69,357.06,Debit Card,62,Male,Rainy,1,4.3999999999999995,61-70,False
+4364c6f7-7db2-4eb6-b975-8215f21b8f48,2024-10-24,October,Thursday,Gin,Bombay Sapphire,3,23.24,0.16,69.72,11.16,58.56,Cash,39,Male,Sunny,0,2.519793459552496,31-40,False
+4fd7a585-ee7e-4d83-9a5d-d5193c73fd1a,2024-10-20,October,Sunday,Vodka,Grey Goose,2,62.02,0.1,124.04,12.4,111.64,Debit Card,56,Other,Snowy,0,1.800064495324089,51-60,True
+edd2e7bc-ba9d-4c88-b92d-8730d41ef7b2,2024-10-20,October,Sunday,Whiskey,Jameson,6,61.89,0.17,371.34,63.13,308.21,Debit Card,45,Female,Sunny,0,4.979964453061884,41-50,True
+b42b69cd-29af-45de-bd21-4abeb8bbd63b,2025-05-16,May,Friday,Whiskey,Jack Daniels,2,52.03,0.13,104.06,13.53,90.53,Credit Card,62,Female,Cloudy,0,1.7399577167019027,61-70,False
+90452746-8e93-4d3f-b990-aa8e19c81b6f,2024-12-27,December,Friday,Vodka,Absolut,6,92.41,0.19,554.46,105.35,449.11,Cash,21,Other,Rainy,1,4.859971864516828,21-30,False
+c6ce1ef1-e23a-4ce0-b1fd-40977944a5bb,2024-06-18,June,Tuesday,Wine,Sutter Home,1,104.88,0.04,104.88,4.2,100.68,Mobile Payment,22,Other,Sunny,0,0.9599542334096111,21-30,False
+78ff7ba1-f05b-4f5c-85b5-ffc24e0025c2,2024-08-27,August,Tuesday,Tequila,Don Julio,4,91.2,0.04,364.8,14.59,350.21,Cash,30,Female,Cloudy,0,3.840021929824561,21-30,False
+1df36f4c-6894-4f24-b731-854c1725ccb7,2024-11-02,November,Saturday,Rum,Captain Morgan,1,53.95,0.23,53.95,12.41,41.54,Cash,33,Other,Sunny,1,0.7699721964782206,31-40,True
+6ac7abfe-0e13-4293-af2c-86916c5a0ec6,2024-08-28,August,Wednesday,Tequila,Patron,2,104.94,0.18,209.88,37.78,172.1,Credit Card,58,Other,Rainy,0,1.6399847531923004,51-60,False
+c9c41205-166f-4204-840e-76a7fbf02df0,2025-05-14,May,Wednesday,Whiskey,Jack Daniels,2,110.26,0.16,220.52,35.28,185.24,Mobile Payment,52,Female,Cloudy,0,1.6800290223109016,51-60,False
+c5572b5d-3f43-4426-bdca-dc263a0189a1,2025-02-14,February,Friday,Whiskey,Jack Daniels,4,45.33,0.23,181.32,41.7,139.62,Mobile Payment,40,Female,Snowy,0,3.0800794176042356,31-40,False
+f5bb5a76-0322-457a-bd60-d297e3bbe8b0,2025-01-11,January,Saturday,Brandy,Hennessy,3,82.24,0.21,246.72,51.81,194.91,Cash,45,Male,Cloudy,0,2.3700145914396886,41-50,True
+c6892130-822b-4315-bb83-1428bf6bd74f,2024-08-15,August,Thursday,Tequila,Patron,4,53.7,0.2,214.8,42.96,171.84,Debit Card,42,Other,Cloudy,0,3.1999999999999997,41-50,False
+acf1fa31-517a-4d6e-8460-7c115380f153,2025-04-20,April,Sunday,Tequila,Don Julio,6,25.68,0.08,154.08,12.33,141.75,Credit Card,34,Other,Sunny,0,5.519859813084112,31-40,True
+4e314aa2-2547-473f-a0cf-490633036ea5,2024-07-02,July,Tuesday,Gin,Bombay Sapphire,4,22.4,0.23,89.6,20.61,68.99,Debit Card,34,Female,Cloudy,1,3.079910714285714,31-40,False
+11ed9dc1-fbf9-4211-a247-f1ae2832ed61,2024-12-23,December,Monday,Whiskey,Jameson,2,78.85,0.01,157.7,1.58,156.12,Debit Card,47,Female,Cloudy,1,1.97996195307546,41-50,False
+d3231555-fb28-4807-ba21-d36f8ab4a9cc,2025-03-09,March,Sunday,Vodka,Absolut,3,93.17,0.23,279.51,64.29,215.22,Debit Card,45,Other,Snowy,0,2.3099710207148223,41-50,True
+968df0aa-52a7-4f2a-ac2c-11fa8537c85c,2025-05-29,May,Thursday,Wine,Barefoot,6,79.63,0.15,477.78,71.67,406.11,Mobile Payment,27,Male,Cloudy,0,5.099962325756625,21-30,False
+f6e28bd5-bf16-4a8a-9da5-41b705539cc6,2025-03-29,March,Saturday,Vodka,Smirnoff,1,107.73,0.04,107.73,4.31,103.42,Debit Card,45,Male,Rainy,0,0.9599925740276617,41-50,True
+9b5f9c78-5401-4015-a643-22deb582d70b,2024-08-19,August,Monday,Rum,Captain Morgan,5,79.4,0.07,397.0,27.79,369.21,Debit Card,43,Female,Rainy,0,4.6499999999999995,41-50,False
+2a16fbf5-4fb1-4cf0-91e9-920741c4347f,2025-04-15,April,Tuesday,Tequila,Don Julio,3,113.85,0.2,341.55,68.31,273.24,Mobile Payment,39,Male,Rainy,0,2.4000000000000004,31-40,False
+83963bc4-7d93-480f-99c6-1be91d9ff186,2024-06-24,June,Monday,Beer,Heineken,6,82.99,0.19,497.94,94.61,403.33,Cash,37,Female,Cloudy,0,4.859983130497651,31-40,False
+16068f06-2c95-41db-a93c-32bbb99ba097,2025-02-18,February,Tuesday,Vodka,Smirnoff,4,56.5,0.24,226.0,54.24,171.76,Mobile Payment,63,Female,Sunny,0,3.04,61-70,False
+3469b56d-4092-4bb3-8055-112e1b3a79d2,2025-02-03,February,Monday,Whiskey,Chivas Regal,2,55.69,0.0,111.38,0.0,111.38,Credit Card,27,Female,Sunny,0,2.0,21-30,False
+b564a84a-cdc3-4d2b-b317-f360129b6a90,2025-05-16,May,Friday,Gin,Tanqueray,6,115.74,0.06,694.44,41.67,652.77,Cash,41,Male,Sunny,0,5.6399688958009335,41-50,False
+df9560f0-e4fd-449f-a2f5-337af828455d,2024-08-12,August,Monday,Vodka,Grey Goose,4,77.13,0.07,308.52,21.6,286.92,Credit Card,42,Male,Sunny,0,3.7199533255542594,41-50,False
+f57d2e8c-83a0-41c8-af05-9e49ab14e149,2025-01-20,January,Monday,Rum,Captain Morgan,1,94.56,0.11,94.56,10.4,84.16,Credit Card,53,Other,Cloudy,0,0.8900169204737732,51-60,False
+2f2a14cd-ef64-47aa-81fe-3ab7893ff70a,2025-04-22,April,Tuesday,Rum,Captain Morgan,5,30.43,0.25,152.15,38.04,114.11,Mobile Payment,41,Female,Snowy,0,3.749917844232665,41-50,False
+060d6abd-2b7f-47c6-b26c-f2abd27c6c5a,2024-10-15,October,Tuesday,Brandy,Hennessy,2,95.47,0.22,190.94,42.01,148.93,Cash,55,Other,Sunny,0,1.559966481617262,51-60,False
+36fcb6d5-c500-4f53-b223-5faedfe58d3b,2024-09-27,September,Friday,Brandy,E&J,2,53.01,0.06,106.02,6.36,99.66,Mobile Payment,37,Other,Sunny,0,1.880022637238257,31-40,False
+38181730-4678-4758-afd7-3aa72f1301d8,2024-10-06,October,Sunday,Tequila,Patron,2,68.94,0.09,137.88,12.41,125.47,Mobile Payment,63,Female,Snowy,0,1.8199883957064114,61-70,True
+1b2c1b91-ffe6-41de-9840-27f9f94dd629,2024-10-15,October,Tuesday,Whiskey,Jameson,1,82.39,0.23,82.39,18.95,63.44,Credit Card,49,Other,Cloudy,0,0.7699963587814055,41-50,False
+d42d1896-9c9c-487b-819a-11ad4a381696,2024-12-04,December,Wednesday,Wine,Sutter Home,2,71.72,0.15,143.44,21.52,121.92,Cash,41,Female,Sunny,1,1.6999442275515895,41-50,False
+e4eaa61c-f5fe-4e4d-ab30-12bceada1539,2025-04-05,April,Saturday,Wine,Yellow Tail,6,112.83,0.24,676.98,162.48,514.5,Credit Card,47,Male,Rainy,0,4.55995745812284,41-50,True
+c6bdd312-1e74-4366-a51a-c98be7308361,2025-04-23,April,Wednesday,Brandy,Paul Masson,3,46.12,0.03,138.36,4.15,134.21,Mobile Payment,58,Other,Rainy,0,2.910017346053773,51-60,False
+8fefbc18-812f-4646-99d4-c8509d115bd9,2024-07-05,July,Friday,Vodka,Grey Goose,3,72.16,0.12,216.48,25.98,190.5,Credit Card,39,Male,Cloudy,1,2.639966740576497,31-40,False
+77e1ced4-32a8-437f-b58a-ab39bc8f414e,2025-04-20,April,Sunday,Whiskey,Jameson,4,10.17,0.12,40.68,4.88,35.8,Mobile Payment,29,Male,Snowy,0,3.5201573254670597,21-30,True
+808babc9-ae28-4a8d-a445-fa4006a8e425,2025-05-27,May,Tuesday,Brandy,Paul Masson,3,100.05,0.11,300.15,33.02,267.13,Cash,49,Female,Rainy,0,2.6699650174912546,41-50,False
+450ffbcb-8e33-4bc4-8ba8-02da416f9948,2025-03-26,March,Wednesday,Vodka,Grey Goose,1,85.8,0.02,85.8,1.72,84.08,Cash,63,Male,Snowy,0,0.9799533799533799,61-70,False
+72371167-9b6f-449f-bdd3-f67441d3b80c,2024-12-18,December,Wednesday,Brandy,Hennessy,2,90.53,0.25,181.06,45.27,135.8,Mobile Payment,27,Other,Cloudy,1,1.5000552303103944,21-30,False
+d6d3f8f3-7e4b-4b78-acf0-d353ebaa7d5e,2024-06-08,June,Saturday,Rum,Bacardi,6,13.3,0.02,79.8,1.6,78.2,Credit Card,23,Female,Sunny,0,5.879699248120301,21-30,True
+bfb0e7e1-11cd-420e-8a1c-4306384ce039,2025-04-27,April,Sunday,Rum,Bacardi,5,24.16,0.15,120.8,18.12,102.68,Credit Card,45,Male,Snowy,0,4.25,41-50,True
+a017f6ea-a73b-4d5a-adaa-689268afee3d,2024-07-20,July,Saturday,Tequila,Don Julio,1,36.02,0.17,36.02,6.12,29.9,Debit Card,42,Male,Rainy,1,0.8300943920044419,41-50,True
+a35ec725-6a5d-440b-a248-48c518c23aec,2024-09-01,September,Sunday,Vodka,Grey Goose,5,42.32,0.04,211.6,8.46,203.14,Credit Card,37,Male,Snowy,0,4.800094517958412,31-40,True
+24f35672-39ec-4bc9-857e-492017aad6f3,2024-10-13,October,Sunday,Vodka,Grey Goose,4,30.54,0.08,122.16,9.77,112.39,Debit Card,28,Male,Cloudy,0,3.680091683038638,21-30,True
+374e7cc4-f336-43c3-87cf-6bb6e5094337,2025-02-21,February,Friday,Beer,Corona,3,108.09,0.08,324.27,25.94,298.33,Cash,22,Male,Cloudy,0,2.760014802479415,21-30,False
+5c53f37d-ddc7-4f4a-a6c1-000af93e6a4e,2025-01-17,January,Friday,Wine,Barefoot,2,83.61,0.01,167.22,1.67,165.55,Debit Card,39,Male,Sunny,0,1.9800263126420286,31-40,False
+a780d70a-7efb-4af0-a6a0-7311f88cc227,2025-01-31,January,Friday,Tequila,Jose Cuervo,2,78.71,0.25,157.42,39.35,118.06,Mobile Payment,34,Other,Snowy,0,1.4999364756701818,31-40,False
+c7376ce4-988a-45da-90bb-0904a5249149,2024-11-26,November,Tuesday,Beer,Budweiser,4,47.3,0.15,189.2,28.38,160.82,Cash,61,Other,Rainy,1,3.4,61-70,False
+b68eb936-043e-47d5-b98e-180ba0d9e667,2024-06-07,June,Friday,Whiskey,Chivas Regal,6,14.33,0.21,85.98,18.06,67.92,Debit Card,58,Female,Cloudy,0,4.739706908583392,51-60,False
+4bfc2cd5-bf6a-45a3-b729-110fb4b74279,2024-11-13,November,Wednesday,Whiskey,Jack Daniels,5,85.65,0.01,428.25,4.28,423.97,Mobile Payment,46,Other,Rainy,1,4.950029188558085,41-50,False
+8c2ecc41-6cca-456a-a88b-c17dba717a49,2025-05-12,May,Monday,Wine,Sutter Home,1,119.31,0.25,119.31,29.83,89.48,Mobile Payment,26,Male,Sunny,0,0.7499790461822144,21-30,False
+24d419d0-82d9-425b-814c-d798f40f589b,2025-01-30,January,Thursday,Brandy,Paul Masson,6,89.12,0.03,534.72,16.04,518.68,Credit Card,64,Other,Rainy,0,5.820017953321363,61-70,False
+8c25a9b9-742b-4305-b051-b2303e3622ef,2024-10-26,October,Saturday,Gin,Bombay Sapphire,3,104.84,0.08,314.52,25.16,289.36,Mobile Payment,50,Male,Rainy,0,2.7600152613506297,41-50,True
+b33c9983-6c43-4f44-af75-03b5218be2e9,2024-08-18,August,Sunday,Wine,Sutter Home,4,105.06,0.08,420.24,33.62,386.62,Cash,61,Male,Sunny,0,3.679992385303636,61-70,True
+fa7af373-7991-4e54-9eab-c6dc71f8f3c5,2024-08-30,August,Friday,Rum,Bacardi,2,117.5,0.04,235.0,9.4,225.6,Debit Card,46,Other,Rainy,0,1.92,41-50,False
+4683f7e5-e681-44e7-8f43-fc71bf7ead6b,2024-12-31,December,Tuesday,Wine,Yellow Tail,3,110.16,0.09,330.48,29.74,300.74,Credit Card,32,Male,Sunny,1,2.7300290486564998,31-40,False
+bc3bc8aa-1e7a-4601-904b-cdeb30b5b1bf,2024-10-25,October,Friday,Brandy,Paul Masson,5,94.41,0.2,472.05,94.41,377.64,Mobile Payment,28,Other,Snowy,0,4.0,21-30,False
+b040e910-864f-475e-9b41-73a04e45023c,2024-10-13,October,Sunday,Tequila,Patron,6,53.85,0.15,323.1,48.47,274.63,Credit Card,41,Other,Rainy,0,5.099907149489322,41-50,True
+c222f4a7-0eb5-4ac3-ba0c-fc58a585047c,2025-02-21,February,Friday,Vodka,Grey Goose,2,69.34,0.06,138.68,8.32,130.36,Credit Card,29,Male,Rainy,0,1.8800115373521777,21-30,False
+626a4fee-c86d-4a89-9d82-55230ac8f551,2025-01-20,January,Monday,Wine,Yellow Tail,1,119.65,0.07,119.65,8.38,111.27,Mobile Payment,26,Other,Sunny,0,0.9299623903050563,21-30,False
+a252ede6-97ff-42cd-bc06-5c870c59efd2,2025-04-19,April,Saturday,Whiskey,Jameson,1,48.87,0.01,48.87,0.49,48.38,Mobile Payment,36,Female,Snowy,0,0.9899733988131779,31-40,True
+46e40b36-7370-4203-888e-a3bfbc0aab90,2024-06-29,June,Saturday,Beer,Corona,3,63.72,0.23,191.16,43.97,147.19,Mobile Payment,30,Other,Snowy,0,2.3099497802887634,21-30,True
+77ab8aea-b614-4bbe-b3d5-2b59c5789ecd,2024-12-07,December,Saturday,Rum,Malibu,2,30.91,0.16,61.82,9.89,51.93,Cash,48,Male,Rainy,1,1.6800388223875768,41-50,True
+89df69e6-3652-4363-8417-66bea914a206,2024-12-22,December,Sunday,Vodka,Smirnoff,3,26.13,0.03,78.39,2.35,76.04,Credit Card,37,Male,Sunny,1,2.910065059318791,31-40,True
+88ca67ea-4853-4db2-b3a6-3919348b43a3,2025-03-05,March,Wednesday,Whiskey,Chivas Regal,5,75.82,0.23,379.1,87.19,291.91,Credit Card,49,Female,Cloudy,0,3.850039567396466,41-50,False
+7deb5d9a-65ea-4765-b2c6-7fdffd3f20d9,2024-12-08,December,Sunday,Rum,Captain Morgan,2,69.01,0.07,138.02,9.66,128.36,Credit Card,30,Female,Rainy,1,1.8600202869149398,21-30,True
+d2c348da-c540-4672-90aa-4e52e32bc338,2024-09-14,September,Saturday,Gin,Tanqueray,1,72.98,0.08,72.98,5.84,67.14,Debit Card,26,Other,Snowy,0,0.9199780761852562,21-30,True
+cb3baba6-4fe3-4a0c-84b5-84146cbf3eff,2024-06-12,June,Wednesday,Wine,Yellow Tail,5,104.72,0.17,523.6,89.01,434.59,Mobile Payment,42,Female,Sunny,0,4.15001909854851,41-50,False
+c8fb705e-3967-4bd5-be31-1259bc7efe53,2024-06-24,June,Monday,Wine,Yellow Tail,1,50.33,0.12,50.33,6.04,44.29,Cash,63,Other,Sunny,0,0.8799920524538049,61-70,False
+a70e1708-e96c-4794-84fc-1f09964a94ed,2024-12-31,December,Tuesday,Gin,Bombay Sapphire,3,59.96,0.06,179.88,10.79,169.09,Mobile Payment,21,Female,Cloudy,1,2.8200466977985323,21-30,False
+15004f59-31e7-40c8-b1bb-2c11879f1a1e,2024-11-30,November,Saturday,Whiskey,Jameson,6,62.83,0.04,376.98,15.08,361.9,Mobile Payment,58,Female,Sunny,1,5.759987267229031,51-60,True
+9084caf3-3fc5-490c-bd12-3754d8a3c3b2,2024-08-06,August,Tuesday,Rum,Captain Morgan,1,17.8,0.2,17.8,3.56,14.24,Mobile Payment,27,Female,Cloudy,0,0.7999999999999999,21-30,False
+a1110503-2831-460b-a455-3c6d5187f56d,2024-07-27,July,Saturday,Brandy,E&J,3,64.3,0.08,192.9,15.43,177.47,Mobile Payment,45,Female,Cloudy,1,2.760031104199067,41-50,True
+a97e0827-8212-4fac-8cde-5be2d751b3cb,2024-08-16,August,Friday,Brandy,Hennessy,5,91.59,0.09,457.95,41.22,416.73,Credit Card,24,Female,Rainy,0,4.54995086799869,21-30,False
+f1df65da-c7c2-4ee1-8c69-b2b12176a902,2025-05-14,May,Wednesday,Gin,Bombay Sapphire,4,108.99,0.17,435.96,74.11,361.85,Debit Card,42,Other,Snowy,0,3.3200293604917888,41-50,False
+54100652-b5b7-4d4c-9620-a89c4865f53a,2025-05-23,May,Friday,Tequila,Don Julio,1,48.14,0.24,48.14,11.55,36.59,Cash,62,Other,Sunny,0,0.7600747818861654,61-70,False
+97a71202-1bb5-4642-b22c-4acc13b58834,2025-01-08,January,Wednesday,Whiskey,Jack Daniels,6,40.54,0.06,243.24,14.59,228.65,Mobile Payment,63,Male,Rainy,0,5.640108534780464,61-70,False
+32e31e54-0f34-4056-b19d-dbd249d69c15,2025-01-10,January,Friday,Whiskey,Jameson,5,34.7,0.12,173.5,20.82,152.68,Mobile Payment,33,Male,Snowy,0,4.3999999999999995,31-40,False
+2dea6ac1-df90-4596-a162-9ca7ba005413,2024-06-18,June,Tuesday,Vodka,Smirnoff,2,111.87,0.04,223.74,8.95,214.79,Debit Card,61,Female,Sunny,0,1.919996424421203,61-70,False
+576415f2-518f-48bb-88d3-f25d2131856d,2024-12-22,December,Sunday,Rum,Captain Morgan,1,84.97,0.09,84.97,7.65,77.32,Credit Card,57,Other,Snowy,1,0.9099682240790866,51-60,True
+13ab7068-63cc-47d7-930a-64968f6ffd78,2024-09-02,September,Monday,Gin,Beefeater,2,50.73,0.15,101.46,15.22,86.24,Debit Card,59,Female,Rainy,0,1.6999802877981471,51-60,False
+9db73db6-4fca-40f1-b22d-227705cd0f3f,2025-04-13,April,Sunday,Gin,Tanqueray,5,41.73,0.04,208.65,8.35,200.3,Mobile Payment,31,Other,Snowy,0,4.799904145698539,31-40,True
+4c19a4b9-b271-401c-9cba-a094270bb54c,2024-06-22,June,Saturday,Beer,Budweiser,5,85.47,0.07,427.35,29.91,397.44,Debit Card,48,Other,Snowy,0,4.6500526500526504,41-50,True
+c0c5141e-efbd-4a1d-9d8a-8a808d30a4e5,2025-03-22,March,Saturday,Brandy,Paul Masson,5,65.24,0.08,326.2,26.1,300.1,Cash,55,Male,Snowy,0,4.599938687921521,51-60,True
+90cda104-65f1-450d-966b-40d94c524fba,2025-03-23,March,Sunday,Rum,Bacardi,4,21.87,0.09,87.48,7.87,79.61,Debit Card,42,Other,Snowy,0,3.6401463191586645,41-50,True
+d6dcf197-9680-45f9-954c-6c043203d134,2024-11-25,November,Monday,Wine,Barefoot,3,17.2,0.13,51.6,6.71,44.89,Cash,22,Other,Sunny,1,2.609883720930233,21-30,False
+b7985652-aeb8-402b-b500-555bb8fdd283,2025-04-13,April,Sunday,Vodka,Absolut,2,31.46,0.23,62.92,14.47,48.45,Debit Card,51,Male,Rainy,0,1.5400508582326764,51-60,True
+8bc4813e-06fe-4f6e-a37d-f8c7068d570d,2025-02-01,February,Saturday,Wine,Yellow Tail,5,29.63,0.21,148.15,31.11,117.04,Debit Card,46,Male,Rainy,0,3.950050624367196,41-50,True
+4fa25496-6953-4f27-9522-2aeb81ba0deb,2024-09-20,September,Friday,Rum,Captain Morgan,4,119.38,0.24,477.52,114.6,362.92,Credit Card,35,Female,Rainy,0,3.0400402077399904,31-40,False
+9e3d47b4-6e7d-4dc9-8d9e-74b365963d44,2025-05-06,May,Tuesday,Vodka,Smirnoff,5,30.38,0.11,151.9,16.71,135.19,Mobile Payment,53,Male,Snowy,0,4.449967083607636,51-60,False
+e5719f8c-8e8f-4d6a-8391-aaf56910bd20,2025-04-05,April,Saturday,Beer,Heineken,2,34.56,0.01,69.12,0.69,68.43,Mobile Payment,30,Other,Rainy,0,1.9800347222222223,21-30,True
+7cf6825c-0b24-44a5-9553-7373465ee1d4,2024-06-19,June,Wednesday,Rum,Malibu,5,94.53,0.13,472.65,61.44,411.21,Debit Card,41,Other,Snowy,0,4.350047603935258,41-50,False
+4ddffea4-7bdd-40da-b948-7b6b220d5fb9,2025-02-20,February,Thursday,Whiskey,Jameson,1,97.82,0.13,97.82,12.72,85.1,Mobile Payment,21,Female,Rainy,0,0.869965242281742,21-30,False
+03743c73-0d26-47a2-a513-c71a51c9bb96,2024-09-17,September,Tuesday,Gin,Tanqueray,2,106.66,0.04,213.32,8.53,204.79,Credit Card,33,Male,Sunny,0,1.9200262516407276,31-40,False
+31370ba6-de5d-42f9-b936-52f9ffe4ce69,2024-08-05,August,Monday,Tequila,Patron,5,26.45,0.09,132.25,11.9,120.35,Mobile Payment,61,Male,Cloudy,0,4.550094517958412,61-70,False
+91613009-6482-4628-8a77-50a3bd762fc3,2025-06-01,June,Sunday,Whiskey,Chivas Regal,1,30.44,0.03,30.44,0.91,29.53,Mobile Payment,22,Male,Sunny,0,0.9701051248357424,21-30,True
+93550912-eec4-44e1-b7e9-733e27fe0d03,2025-04-26,April,Saturday,Rum,Malibu,2,52.27,0.09,104.54,9.41,95.13,Cash,63,Female,Cloudy,0,1.8199732159938777,61-70,True
+48de8c76-00d3-469c-b892-321419343f34,2024-11-16,November,Saturday,Gin,Tanqueray,3,43.44,0.08,130.32,10.43,119.89,Cash,40,Other,Cloudy,1,2.7598987108655617,31-40,True
+234b75f7-786d-4903-8ed2-18e214333e80,2025-01-15,January,Wednesday,Wine,Barefoot,3,116.74,0.24,350.22,84.05,266.17,Cash,24,Male,Snowy,0,2.2800239849237625,21-30,False
+cbe2c977-ae23-4de5-a4d2-cc1f44d02b70,2024-10-28,October,Monday,Brandy,E&J,5,109.33,0.04,546.65,21.87,524.78,Credit Card,65,Female,Snowy,0,4.799963413518705,61-70,False
+0c8ad296-af10-413d-bd04-0722830c8bd7,2025-01-28,January,Tuesday,Beer,Corona,3,45.76,0.06,137.28,8.24,129.04,Mobile Payment,52,Male,Sunny,0,2.81993006993007,51-60,False
+081f9e6b-6ce0-43a3-acbb-dfb56955fae7,2024-09-27,September,Friday,Vodka,Grey Goose,6,13.17,0.19,79.02,15.01,64.01,Debit Card,21,Other,Snowy,0,4.860288534548216,21-30,False
+9d99e29f-21bc-49a3-92cd-83030fa9a969,2024-09-25,September,Wednesday,Gin,Tanqueray,2,50.36,0.1,100.72,10.07,90.65,Cash,42,Male,Sunny,0,1.800039714058777,41-50,False
+dc62111c-a19e-4440-9e18-eea8524bbdb5,2025-05-29,May,Thursday,Wine,Sutter Home,2,52.52,0.17,105.04,17.86,87.18,Debit Card,22,Female,Snowy,0,1.65993907083016,21-30,False
+1c45617b-536b-43f4-992d-8823f35a3c03,2024-08-11,August,Sunday,Beer,Corona,4,17.94,0.24,71.76,17.22,54.54,Mobile Payment,29,Other,Rainy,0,3.0401337792642136,21-30,True
+9f5e14de-f7b7-4b42-99c1-c78d211d7e35,2024-08-04,August,Sunday,Brandy,Hennessy,4,38.45,0.2,153.8,30.76,123.04,Debit Card,32,Other,Rainy,0,3.1999999999999997,31-40,True
+cfdb02a4-d9f2-42fb-b6de-5fab2a15f747,2024-12-13,December,Friday,Whiskey,Chivas Regal,1,38.61,0.13,38.61,5.02,33.59,Debit Card,27,Male,Rainy,1,0.8699818699818701,21-30,False
+0a200e05-d3a4-4e2f-ba58-8e65fd23ad89,2024-11-14,November,Thursday,Gin,Bombay Sapphire,5,10.32,0.22,51.6,11.35,40.25,Debit Card,25,Other,Cloudy,1,3.9001937984496124,21-30,False
+bc97ec5e-9903-45c2-afdf-0ae538fb9883,2024-11-08,November,Friday,Wine,Yellow Tail,6,111.75,0.02,670.5,13.41,657.09,Mobile Payment,48,Other,Rainy,1,5.88,41-50,False
+a2ba02d8-cdea-4d5c-9b68-a3753ecade00,2025-01-12,January,Sunday,Whiskey,Chivas Regal,2,66.0,0.22,132.0,29.04,102.96,Credit Card,32,Female,Rainy,0,1.5599999999999998,31-40,True
+9f77b45e-bfed-4234-b74e-1e8f3bc73333,2025-03-20,March,Thursday,Whiskey,Jameson,5,113.2,0.17,566.0,96.22,469.78,Debit Card,57,Female,Snowy,0,4.1499999999999995,51-60,False
+b8a433b4-1472-42b1-b841-299515c18e13,2024-11-09,November,Saturday,Vodka,Grey Goose,1,104.22,0.22,104.22,22.93,81.29,Debit Card,54,Female,Sunny,1,0.7799846478602956,51-60,True
+6a512e65-bd17-43fd-8dd2-8c3b27676d0e,2024-12-24,December,Tuesday,Whiskey,Chivas Regal,4,50.91,0.14,203.64,28.51,175.13,Debit Card,40,Female,Rainy,1,3.4399921429974465,31-40,False
+0e266001-5a79-4788-a08a-20aea9339952,2025-01-14,January,Tuesday,Wine,Sutter Home,2,15.97,0.09,31.94,2.87,29.07,Credit Card,47,Female,Cloudy,0,1.820288040075141,41-50,False
+c491dd49-6583-40a9-8f80-8a6411af99be,2025-05-26,May,Monday,Tequila,Patron,3,12.59,0.11,37.77,4.15,33.62,Credit Card,43,Male,Rainy,0,2.6703733121525017,41-50,False
+4473140b-4ef5-4c9c-9d14-225ceeabe446,2025-03-31,March,Monday,Vodka,Smirnoff,5,27.81,0.1,139.05,13.9,125.14,Cash,40,Other,Rainy,0,4.499820208558073,31-40,False
+5714276b-aa41-491d-838e-17a8049f3956,2024-06-15,June,Saturday,Rum,Bacardi,6,93.62,0.23,561.72,129.2,432.52,Cash,46,Male,Snowy,0,4.619953001495406,41-50,True
+fdde37b7-c66e-497a-936f-d4f40c43cfca,2025-02-20,February,Thursday,Vodka,Smirnoff,5,39.5,0.13,197.5,25.68,171.82,Credit Card,28,Other,Sunny,0,4.349873417721519,21-30,False
+9b4b18cd-538d-4074-b4ce-7af055977bc9,2025-05-05,May,Monday,Gin,Tanqueray,1,109.78,0.15,109.78,16.47,93.31,Credit Card,54,Male,Rainy,0,0.8499726726179632,51-60,False
+8817cdf7-4ce9-4b68-b407-d92f4258d637,2024-08-02,August,Friday,Wine,Yellow Tail,1,113.87,0.02,113.87,2.28,111.59,Credit Card,30,Female,Cloudy,0,0.9799771669447616,21-30,False
+46217bf2-008e-4ff6-80da-2411fcf34401,2024-06-09,June,Sunday,Whiskey,Jack Daniels,2,73.33,0.24,146.66,35.2,111.46,Credit Card,33,Female,Rainy,0,1.5199781808264012,31-40,True
+1d0c600e-1995-45d1-80ea-a4569e4d9583,2024-12-11,December,Wednesday,Beer,Heineken,4,83.86,0.09,335.44,30.19,305.25,Debit Card,60,Other,Snowy,1,3.6399952301454808,51-60,False
+70f860c6-b373-4814-b977-10e89c37722f,2024-06-11,June,Tuesday,Wine,Yellow Tail,5,87.57,0.13,437.85,56.92,380.93,Mobile Payment,25,Female,Sunny,0,4.350005709717941,21-30,False
+57ec8514-7a8d-4f5f-b5c7-02c96dbc39c5,2025-05-14,May,Wednesday,Rum,Malibu,3,24.68,0.02,74.04,1.48,72.56,Cash,43,Female,Rainy,0,2.940032414910859,41-50,False
+9232f138-2484-4177-b81d-4ec5ecce390a,2024-08-12,August,Monday,Rum,Bacardi,3,31.76,0.23,95.28,21.91,73.37,Cash,43,Female,Sunny,0,2.3101385390428213,41-50,False
+86b0a89a-9bc1-4840-a036-3e635b9a0bd5,2024-10-14,October,Monday,Tequila,Jose Cuervo,5,38.16,0.04,190.8,7.63,183.17,Cash,39,Other,Snowy,0,4.8000524109014675,31-40,False
+612dec43-ceb8-4ec9-8ba6-7f6d291387fc,2025-01-07,January,Tuesday,Brandy,E&J,1,35.42,0.03,35.42,1.06,34.36,Debit Card,42,Female,Rainy,0,0.9700734048560135,41-50,False
+e12c659f-7752-4156-9116-e8f99c3b8473,2025-04-19,April,Saturday,Tequila,Jose Cuervo,6,114.03,0.09,684.18,61.58,622.6,Credit Card,58,Male,Sunny,0,5.459966675436289,51-60,True
+e7c6f17a-35db-4a87-8efd-d9ec4fb155ab,2024-10-19,October,Saturday,Gin,Beefeater,1,21.25,0.15,21.25,3.19,18.06,Debit Card,51,Female,Snowy,0,0.8498823529411764,51-60,True
+50e38643-304f-4564-ad83-db674839b22e,2024-12-31,December,Tuesday,Wine,Sutter Home,1,16.98,0.12,16.98,2.04,14.94,Mobile Payment,61,Female,Sunny,1,0.8798586572438162,61-70,False
+3f675a02-839f-4915-b4bb-166a8e113d35,2025-04-08,April,Tuesday,Rum,Bacardi,1,91.81,0.21,91.81,19.28,72.53,Debit Card,47,Male,Cloudy,0,0.7900010892059688,41-50,False
+4dfd9da2-2c80-4b94-8ea9-d7855ed641ff,2024-06-16,June,Sunday,Rum,Bacardi,5,119.18,0.09,595.9,53.63,542.27,Cash,24,Male,Sunny,0,4.550008390669575,21-30,True
+3093aca5-1daa-4c1b-af03-49ecc751119c,2025-01-16,January,Thursday,Brandy,E&J,3,49.04,0.17,147.12,25.01,122.11,Credit Card,62,Other,Cloudy,0,2.4900081566068515,61-70,False
+22dfdb1a-865c-4b99-8d49-730bc37b6802,2024-07-19,July,Friday,Tequila,Jose Cuervo,6,74.68,0.04,448.08,17.92,430.16,Credit Card,41,Male,Rainy,1,5.760042849491162,41-50,False
+22bfd64b-2783-4344-bf46-fa8eae5fb4cb,2024-09-13,September,Friday,Gin,Tanqueray,3,10.38,0.04,31.14,1.25,29.89,Debit Card,55,Male,Snowy,0,2.879576107899807,51-60,False
+b70f5446-8157-4cf3-b7d4-10a8cb131214,2025-05-12,May,Monday,Brandy,E&J,5,108.72,0.24,543.6,130.46,413.14,Mobile Payment,23,Female,Sunny,0,3.800036791758646,21-30,False
+cbd95592-21cc-4050-a914-42fe3eb3a4fb,2025-03-08,March,Saturday,Whiskey,Jameson,2,38.55,0.07,77.1,5.4,71.7,Debit Card,26,Female,Cloudy,0,1.8599221789883271,21-30,True
+aa5e02c4-299d-46ef-90f8-2652ebf9d5fd,2025-05-10,May,Saturday,Tequila,Jose Cuervo,3,10.57,0.07,31.71,2.22,29.49,Cash,52,Male,Snowy,0,2.789971617786187,51-60,True
+43698b6c-2422-4d1a-a81c-2b599f38b45b,2025-03-04,March,Tuesday,Wine,Yellow Tail,3,54.81,0.24,164.43,39.46,124.97,Cash,53,Male,Rainy,0,2.2800583835066592,51-60,False
+0005ad61-4d59-4429-bb10-a5b929ae130f,2024-08-11,August,Sunday,Vodka,Absolut,3,18.83,0.11,56.49,6.21,50.28,Debit Card,57,Other,Cloudy,0,2.670207116303771,51-60,True
+04d82751-0881-4971-aa39-80978b8e3f50,2024-09-18,September,Wednesday,Whiskey,Jameson,6,95.54,0.14,573.24,80.25,492.99,Cash,30,Other,Cloudy,0,5.160037680552648,21-30,False
+e1b62b97-a2f5-4395-9d7e-6f6d48925349,2025-01-19,January,Sunday,Brandy,Paul Masson,2,112.32,0.04,224.64,8.99,215.65,Cash,32,Male,Rainy,0,1.9199608262108263,31-40,True
+686d35f5-736b-4091-ad62-a9c1caea6a35,2024-12-22,December,Sunday,Tequila,Patron,6,67.35,0.22,404.1,88.9,315.2,Mobile Payment,30,Female,Rainy,1,4.680029695619896,21-30,True
+23f1573f-818b-4099-b346-18a9b1b6a4b4,2024-11-08,November,Friday,Rum,Malibu,2,12.76,0.02,25.52,0.51,25.01,Cash,50,Male,Rainy,1,1.9600313479623825,41-50,False
+8a47b9a2-a001-409c-a5a5-9b0762c3f6c6,2024-06-29,June,Saturday,Brandy,Hennessy,2,78.98,0.23,157.96,36.33,121.63,Mobile Payment,57,Female,Cloudy,0,1.5400101291466193,51-60,True
+d96ff672-ce44-4e61-9e22-81d933b429ba,2024-09-27,September,Friday,Whiskey,Jameson,1,66.21,0.12,66.21,7.95,58.26,Cash,40,Other,Cloudy,0,0.8799275033982783,31-40,False
+bf039e39-8b01-46e7-8f59-9f8be412caba,2024-08-11,August,Sunday,Beer,Heineken,4,53.22,0.1,212.88,21.29,191.59,Cash,24,Female,Snowy,0,3.5999624201428038,21-30,True
+761baf22-9844-445a-8ac4-173552c29922,2024-09-16,September,Monday,Tequila,Patron,5,98.03,0.08,490.15,39.21,450.94,Credit Card,36,Female,Rainy,0,4.600020401917781,31-40,False
+136f8e82-5c17-4fb0-8afe-709247674850,2025-04-14,April,Monday,Tequila,Don Julio,3,67.76,0.1,203.28,20.33,182.95,Credit Card,22,Male,Snowy,0,2.6999704840613927,21-30,False
+8d4cfc97-175b-4de7-a5f4-8bc60d978522,2024-06-26,June,Wednesday,Vodka,Smirnoff,2,75.81,0.11,151.62,16.68,134.94,Mobile Payment,50,Female,Snowy,0,1.77997625643055,41-50,False
+d340183b-e8db-4aa2-9f95-4909825e7086,2025-03-29,March,Saturday,Wine,Yellow Tail,5,24.22,0.21,121.1,25.43,95.67,Debit Card,29,Female,Snowy,0,3.9500412881915774,21-30,True
+d64cb055-4acd-4bbb-a22b-987298ec2fc1,2024-10-10,October,Thursday,Wine,Barefoot,1,48.51,0.14,48.51,6.79,41.72,Credit Card,53,Female,Rainy,0,0.86002886002886,51-60,False
+6c0b8e42-81a6-4437-beb5-af2261b941a4,2025-01-05,January,Sunday,Rum,Malibu,4,64.17,0.17,256.68,43.64,213.04,Cash,35,Female,Rainy,0,3.3199314321333953,31-40,True
+432f0a00-f76d-4ff3-852a-27f5c3471b17,2025-04-29,April,Tuesday,Tequila,Patron,4,71.4,0.01,285.6,2.86,282.74,Credit Card,43,Other,Rainy,0,3.959943977591036,41-50,False
+dae02323-a019-4a23-b434-ae02c2aa1cd0,2024-07-16,July,Tuesday,Gin,Tanqueray,6,48.41,0.06,290.46,17.43,273.03,Credit Card,47,Female,Snowy,1,5.639950423466225,41-50,False
+bdd70ee3-385d-4524-8a4d-3f8b80f1e5b8,2025-02-27,February,Thursday,Tequila,Patron,2,79.03,0.15,158.06,23.71,134.35,Debit Card,23,Female,Sunny,0,1.699987346577249,21-30,False
+a0916b75-869e-4e84-b75b-288e69a086aa,2025-02-21,February,Friday,Brandy,E&J,5,48.92,0.07,244.6,17.12,227.48,Debit Card,37,Other,Cloudy,0,4.650040883074407,31-40,False
+8db78cd0-c39a-4cf7-a65f-da0396797f28,2025-02-24,February,Monday,Beer,Heineken,2,28.98,0.15,57.96,8.69,49.27,Credit Card,26,Female,Cloudy,0,1.7001380262249828,21-30,False
+efd6d7ae-5f5b-4de0-a6bb-45da85eacc84,2025-04-28,April,Monday,Wine,Barefoot,1,87.48,0.23,87.48,20.12,67.36,Credit Card,29,Female,Sunny,0,0.7700045724737082,21-30,False
+1f046aa4-3f41-4c36-9d2f-1bb12c9cd44d,2025-05-05,May,Monday,Gin,Bombay Sapphire,6,63.27,0.06,379.62,22.78,356.84,Cash,42,Other,Snowy,0,5.639955745218902,41-50,False
+ee8be9ad-a3ab-49f6-8658-82f22aa57abe,2025-05-16,May,Friday,Whiskey,Jameson,6,73.64,0.05,441.84,22.09,419.75,Credit Card,51,Female,Rainy,0,5.700027159152635,51-60,False
+15861b3b-2cca-4283-9738-894ee353c246,2024-10-11,October,Friday,Wine,Barefoot,4,70.14,0.12,280.56,33.67,246.89,Debit Card,63,Female,Cloudy,0,3.519960079840319,61-70,False
+48d317dd-ad4a-470b-b7a5-755e1431965f,2025-06-01,June,Sunday,Gin,Bombay Sapphire,6,62.52,0.17,375.12,63.77,311.35,Credit Card,56,Female,Sunny,0,4.980006397952655,51-60,True
+fff49e95-1ca3-4ff7-a905-bfa04a17530f,2025-05-13,May,Tuesday,Brandy,Paul Masson,6,89.49,0.04,536.94,21.48,515.46,Cash,50,Male,Rainy,0,5.759973181361047,41-50,False
+a3951f3c-4564-4867-a452-b18563b50894,2025-04-19,April,Saturday,Vodka,Absolut,3,117.15,0.05,351.45,17.57,333.88,Cash,51,Male,Cloudy,0,2.850021340162185,51-60,True
+9d147d19-90cb-4125-ae2c-f6af70608845,2025-04-02,April,Wednesday,Wine,Yellow Tail,1,23.34,0.22,23.34,5.13,18.21,Mobile Payment,56,Female,Sunny,0,0.7802056555269923,51-60,False
+52ad5550-c5d5-41e7-a1bd-3b149afb39f0,2025-01-23,January,Thursday,Whiskey,Chivas Regal,3,13.71,0.19,41.13,7.81,33.32,Cash,44,Other,Sunny,0,2.4303428154631654,41-50,False
+7ef7700b-85ad-4398-8f5b-d23296a7a9cf,2025-04-23,April,Wednesday,Gin,Beefeater,6,62.43,0.23,374.58,86.15,288.43,Mobile Payment,47,Male,Snowy,0,4.620054460996316,41-50,False
+9645f0b4-519c-4ed1-a144-17fc4860a85c,2024-12-12,December,Thursday,Vodka,Absolut,1,39.41,0.14,39.41,5.52,33.89,Debit Card,62,Other,Rainy,1,0.8599340268967268,61-70,False
+30dad6a2-37bc-4c74-ad91-7039106aadc1,2024-06-20,June,Thursday,Whiskey,Jameson,6,54.78,0.07,328.68,23.01,305.67,Credit Card,65,Male,Rainy,0,5.579956188389923,61-70,False
+1fbb6726-59b7-4d3d-a475-2c100f29b579,2024-10-25,October,Friday,Brandy,E&J,1,37.91,0.2,37.91,7.58,30.33,Credit Card,52,Other,Cloudy,0,0.8000527565286204,51-60,False
+9be6a9ce-1ddc-44c1-a657-704c863b7a5f,2024-06-11,June,Tuesday,Wine,Sutter Home,6,87.61,0.01,525.66,5.26,520.4,Cash,36,Male,Rainy,0,5.939961191644789,31-40,False
+945e2c05-f449-40d4-ba0d-9cf10ebd914c,2025-03-06,March,Thursday,Whiskey,Jameson,3,13.63,0.08,40.89,3.27,37.62,Credit Card,43,Male,Cloudy,0,2.7600880410858397,41-50,False
+5d851b09-62f1-4ad7-aafa-e9b2a8622196,2025-04-25,April,Friday,Brandy,Paul Masson,4,20.27,0.19,81.08,15.41,65.67,Cash,43,Other,Cloudy,0,3.239763196842625,41-50,False
+36649e50-c0d1-42be-a62e-677debc5e03b,2024-11-26,November,Tuesday,Brandy,Hennessy,2,114.06,0.2,228.12,45.62,182.5,Credit Card,38,Male,Cloudy,1,1.600035069261792,31-40,False
+ab452038-4c00-4378-9b0c-6f7f08dabd24,2025-05-07,May,Wednesday,Whiskey,Chivas Regal,4,55.02,0.19,220.08,41.82,178.26,Debit Card,63,Male,Rainy,0,3.239912758996728,61-70,False
+eb3b3f74-9b08-46ae-bba8-48293ee62457,2025-05-02,May,Friday,Rum,Bacardi,3,60.19,0.1,180.57,18.06,162.51,Credit Card,61,Other,Cloudy,0,2.699950157833527,61-70,False
+9cec4306-5e76-41c9-9acb-b595c6dd56dd,2024-11-25,November,Monday,Tequila,Patron,1,24.75,0.23,24.75,5.69,19.06,Credit Card,26,Male,Snowy,1,0.7701010101010101,21-30,False
+9c045159-8787-410c-886d-bb3a672891bd,2024-12-25,December,Wednesday,Beer,Budweiser,3,14.93,0.08,44.79,3.58,41.21,Debit Card,34,Male,Sunny,1,2.7602143335565974,31-40,False
+0c24517d-3cc3-4749-9920-bf2fc3185f8d,2025-05-14,May,Wednesday,Tequila,Patron,4,28.71,0.03,114.84,3.45,111.39,Cash,23,Other,Snowy,0,3.8798328108672937,21-30,False
+728b1e6b-1c19-4ceb-b23d-479938345293,2024-09-27,September,Friday,Vodka,Absolut,1,112.16,0.21,112.16,23.55,88.61,Cash,62,Female,Sunny,0,0.7900320970042796,61-70,False
+80c8c4c9-a436-43fd-b933-ea7527967878,2024-08-04,August,Sunday,Rum,Captain Morgan,3,48.62,0.18,145.86,26.25,119.61,Mobile Payment,59,Male,Rainy,0,2.4600987248046073,51-60,True
+aa143439-8f92-45dd-bb69-25cf78072e67,2024-12-04,December,Wednesday,Brandy,E&J,4,58.43,0.0,233.72,0.0,233.72,Debit Card,55,Male,Cloudy,1,4.0,51-60,False
+c2487d75-f917-4aba-89cb-97bf2eecf9af,2024-07-22,July,Monday,Whiskey,Jack Daniels,3,47.13,0.07,141.39,9.9,131.49,Debit Card,50,Male,Cloudy,1,2.7899427116486315,41-50,False
+b703f171-877b-4986-af5d-f2d7ef972ad1,2025-05-18,May,Sunday,Beer,Budweiser,6,114.4,0.22,686.4,151.01,535.39,Credit Card,64,Female,Sunny,0,4.679982517482517,61-70,True
+e60ad5b7-0186-4cb2-aa6f-171a4254a7a7,2024-06-10,June,Monday,Vodka,Absolut,4,107.48,0.11,429.92,47.29,382.63,Credit Card,47,Other,Snowy,0,3.5600111648678823,41-50,False
+d7920ccc-2d8a-41a4-b89f-3e9f4eaf1a84,2025-05-08,May,Thursday,Vodka,Smirnoff,2,44.14,0.2,88.28,17.66,70.62,Debit Card,59,Female,Sunny,0,1.5999093792478478,51-60,False
+fa931303-e27c-4cc1-8d77-f6c455ac6c69,2024-06-13,June,Thursday,Rum,Bacardi,5,55.9,0.09,279.5,25.15,254.34,Debit Card,42,Female,Cloudy,0,4.549910554561717,41-50,False
+6c9f1124-0680-42d7-b93a-244763de017c,2025-03-06,March,Thursday,Brandy,Paul Masson,6,70.56,0.08,423.36,33.87,389.49,Mobile Payment,27,Other,Snowy,0,5.519982993197279,21-30,False
+2f455513-f48e-4970-9871-a5f40dba6d47,2024-06-30,June,Sunday,Rum,Captain Morgan,5,62.08,0.23,310.4,71.39,239.01,Cash,58,Female,Cloudy,0,3.8500322164948453,51-60,True
+96b2c0f1-e2c2-4d36-84ed-8d837bec72f6,2024-11-01,November,Friday,Wine,Yellow Tail,5,85.3,0.03,426.5,12.79,413.7,Credit Card,50,Female,Sunny,1,4.849941383352872,41-50,False
+22f38fb5-b828-45fe-b40f-e3829d7b8f00,2024-12-08,December,Sunday,Brandy,Paul Masson,4,33.79,0.18,135.16,24.33,110.83,Mobile Payment,49,Male,Cloudy,1,3.2799644865344777,41-50,True
+38807e77-7baf-4684-8a74-8d6ba0b6808a,2025-03-20,March,Thursday,Vodka,Grey Goose,6,62.57,0.17,375.42,63.82,311.6,Mobile Payment,33,Other,Cloudy,0,4.980022374940067,31-40,False
+3d5aeb92-e865-4b44-92b5-d43cd67066fd,2024-10-17,October,Thursday,Rum,Malibu,6,67.32,0.15,403.92,60.59,343.33,Mobile Payment,35,Female,Cloudy,0,5.099970291146762,31-40,False
+d403cd78-dd36-490f-8911-dba26ff8eaac,2024-08-17,August,Saturday,Whiskey,Jack Daniels,1,51.06,0.12,51.06,6.13,44.93,Mobile Payment,37,Other,Snowy,0,0.8799451625538581,31-40,True
+023afdcb-6b9d-40c3-907d-3c84ee46b21e,2025-03-29,March,Saturday,Whiskey,Jack Daniels,6,38.65,0.17,231.9,39.42,192.48,Credit Card,26,Other,Snowy,0,4.980077619663648,21-30,True
+7a2c3d34-b40a-4dab-8768-ddd79a874e2c,2024-12-30,December,Monday,Tequila,Jose Cuervo,3,92.89,0.15,278.67,41.8,236.87,Credit Card,25,Other,Snowy,1,2.550005382710733,21-30,False
+a2434b67-a751-47c5-9419-faf0f5e15861,2024-10-14,October,Monday,Beer,Heineken,4,18.12,0.14,72.48,10.15,62.33,Mobile Payment,45,Other,Cloudy,0,3.439845474613686,41-50,False
+4cefd592-ab6c-4775-9859-636b87675b4d,2025-03-04,March,Tuesday,Wine,Sutter Home,4,40.19,0.12,160.76,19.29,141.47,Mobile Payment,36,Other,Rainy,0,3.5200298581736753,31-40,False
+a8d55c7b-a0a9-4281-b385-bf8ccb0f42f9,2025-04-01,April,Tuesday,Gin,Bombay Sapphire,4,89.56,0.07,358.24,25.08,333.16,Mobile Payment,57,Female,Cloudy,0,3.7199642697632873,51-60,False
+e4d9c43b-9336-499b-afe4-be6dde8dbacd,2024-08-11,August,Sunday,Vodka,Grey Goose,5,37.41,0.05,187.05,9.35,177.7,Cash,38,Male,Cloudy,0,4.75006682705159,31-40,True
+7cd09059-1333-494d-a6d2-2743a4cd853f,2025-03-25,March,Tuesday,Rum,Bacardi,4,15.33,0.15,61.32,9.2,52.12,Mobile Payment,56,Female,Cloudy,0,3.3998695368558383,51-60,False
+0f44828c-58da-4e1a-ab36-17009bbdcdae,2025-02-21,February,Friday,Wine,Sutter Home,3,55.1,0.19,165.3,31.41,133.89,Mobile Payment,50,Female,Cloudy,0,2.4299455535390195,41-50,False
+3716bc4e-f23b-46f3-bbf7-daf9191115b8,2024-07-16,July,Tuesday,Rum,Bacardi,3,12.38,0.06,37.14,2.23,34.91,Credit Card,60,Male,Sunny,1,2.819870759289176,51-60,False
+2545db78-1052-46b6-94c1-13f9b4854d3f,2024-10-30,October,Wednesday,Wine,Yellow Tail,6,34.4,0.18,206.4,37.15,169.25,Debit Card,45,Female,Snowy,0,4.920058139534884,41-50,False
+02041fe1-1f13-4e5f-8713-03299911033f,2025-04-03,April,Thursday,Gin,Tanqueray,5,96.23,0.24,481.15,115.48,365.67,Cash,38,Other,Cloudy,0,3.7999584329211267,31-40,False
+336fb789-59db-4ab2-b35c-679c29033d17,2025-04-02,April,Wednesday,Rum,Malibu,1,36.45,0.15,36.45,5.47,30.98,Credit Card,32,Other,Rainy,0,0.8499314128943758,31-40,False
+f4269d7f-325d-4aa4-b72b-b3ea8cbec4c3,2024-06-12,June,Wednesday,Whiskey,Chivas Regal,3,105.41,0.05,316.23,15.81,300.42,Debit Card,32,Male,Sunny,0,2.8500142301489424,31-40,False
+bc10be0c-0012-477b-ac64-fe7779cc24cb,2024-08-01,August,Thursday,Rum,Captain Morgan,1,45.14,0.0,45.14,0.0,45.14,Mobile Payment,45,Male,Cloudy,0,1.0,41-50,False
+8a0efcae-9c2d-474c-aaee-9efc56b9fde5,2025-05-21,May,Wednesday,Whiskey,Chivas Regal,3,74.31,0.05,222.93,11.15,211.78,Mobile Payment,49,Female,Rainy,0,2.849952900013457,41-50,False
+1ef88f9b-d8f5-4eaa-b4aa-7bdcb510150e,2025-05-21,May,Wednesday,Beer,Budweiser,4,49.02,0.01,196.08,1.96,194.12,Cash,52,Female,Cloudy,0,3.9600163198694407,51-60,False
+0558cb0e-0611-4e0f-9b1a-e9fbc4f7504c,2025-01-23,January,Thursday,Wine,Barefoot,1,101.28,0.14,101.28,14.18,87.1,Mobile Payment,65,Female,Sunny,0,0.8599921011058451,61-70,False
+d601a37e-d70c-4d82-ba10-48f5fd6afaa8,2025-01-29,January,Wednesday,Tequila,Patron,2,50.16,0.21,100.32,21.07,79.25,Debit Card,65,Female,Snowy,0,1.5799441786283892,61-70,False
+1c2550ff-335b-4e81-a415-7d37b8c4731d,2025-05-13,May,Tuesday,Rum,Malibu,4,81.56,0.19,326.24,61.99,264.25,Mobile Payment,63,Male,Snowy,0,3.2399460519862675,61-70,False
+a77aad96-16e6-433f-aac0-23a7ac34616f,2025-01-19,January,Sunday,Brandy,Hennessy,2,55.58,0.22,111.16,24.46,86.7,Credit Card,37,Other,Cloudy,0,1.5599136379992804,31-40,True
+2d5a4c78-aed7-4b5e-8f6b-2b185d1003de,2024-08-17,August,Saturday,Gin,Tanqueray,6,72.03,0.23,432.18,99.4,332.78,Mobile Payment,29,Male,Cloudy,0,4.620019436345967,21-30,True
+2bd29e99-9b22-49b6-931b-e362f46d8454,2024-10-04,October,Friday,Whiskey,Chivas Regal,5,71.96,0.18,359.8,64.76,295.04,Debit Card,27,Female,Cloudy,0,4.10005558643691,21-30,False
+88100ed9-7592-406a-9345-25f12cce42e5,2025-01-15,January,Wednesday,Rum,Captain Morgan,6,15.65,0.0,93.9,0.0,93.9,Mobile Payment,62,Other,Snowy,0,6.0,61-70,False
+00cf3325-bfb3-4b27-be56-62f15e2eb6c8,2025-03-30,March,Sunday,Vodka,Absolut,2,39.02,0.24,78.04,18.73,59.31,Credit Card,26,Female,Snowy,0,1.519989748846745,21-30,True
+cdaa1d60-5634-4049-9c5a-f3ceac79db76,2024-12-19,December,Thursday,Tequila,Patron,6,105.38,0.14,632.28,88.52,543.76,Cash,30,Other,Sunny,1,5.159992408426646,21-30,False
+abae8f91-b8e7-43d1-a6e4-44e333bd3c72,2024-11-14,November,Thursday,Whiskey,Chivas Regal,3,101.46,0.01,304.38,3.04,301.34,Debit Card,51,Female,Sunny,1,2.9700374531835205,51-60,False
+8acb6853-4146-4058-9dc3-8ea9ddc86f5e,2025-04-19,April,Saturday,Beer,Heineken,2,31.97,0.12,63.94,7.67,56.27,Credit Card,36,Female,Snowy,0,1.7600875821082267,31-40,True
+09fd549b-ac2c-48eb-aa0d-eebe432c624e,2025-02-08,February,Saturday,Beer,Budweiser,3,36.53,0.14,109.59,15.34,94.25,Cash,44,Female,Snowy,0,2.580071174377224,41-50,True
+625495b2-8d26-4a76-90a1-7de9a9d5823d,2024-11-06,November,Wednesday,Whiskey,Chivas Regal,1,61.08,0.13,61.08,7.94,53.14,Debit Card,30,Female,Sunny,1,0.8700065487884742,21-30,False
+f31f6eaa-f22b-41be-9523-7a2dc58db9b6,2025-05-28,May,Wednesday,Tequila,Jose Cuervo,1,46.71,0.03,46.71,1.4,45.31,Cash,29,Other,Cloudy,0,0.9700278312995076,21-30,False
+3484db24-dde4-455b-8845-1d6c045ef4bb,2024-10-22,October,Tuesday,Tequila,Don Julio,1,63.74,0.13,63.74,8.29,55.45,Debit Card,27,Other,Snowy,0,0.869940382805146,21-30,False
+b11c3f35-f582-4b2e-8544-99d218c26ce3,2025-02-02,February,Sunday,Wine,Sutter Home,6,25.85,0.1,155.1,15.51,139.59,Mobile Payment,39,Female,Snowy,0,5.3999999999999995,31-40,True
+898c478a-c6f4-4e85-8dc0-efc7cf57174d,2024-08-23,August,Friday,Brandy,Hennessy,4,22.57,0.1,90.28,9.03,81.25,Debit Card,26,Other,Sunny,0,3.5999113867966326,21-30,False
+fefce3b6-17ee-4d78-aecc-c02e6bcea3f6,2025-01-03,January,Friday,Whiskey,Jack Daniels,3,47.71,0.19,143.13,27.19,115.94,Debit Card,61,Male,Snowy,0,2.430098511842381,61-70,False
+04ebc15a-e900-4dbe-80e2-d306b100efc6,2024-06-08,June,Saturday,Gin,Tanqueray,1,19.5,0.04,19.5,0.78,18.72,Mobile Payment,24,Other,Snowy,0,0.96,21-30,True
+05c3debe-7bfd-4d2e-ac05-c2b713120155,2024-11-11,November,Monday,Tequila,Jose Cuervo,3,44.52,0.15,133.56,20.03,113.53,Credit Card,42,Female,Cloudy,1,2.5500898472596583,41-50,False
+bd215de6-a0af-40a7-9e79-52b97dd42f74,2025-03-21,March,Friday,Rum,Malibu,3,18.05,0.23,54.15,12.45,41.7,Mobile Payment,35,Male,Cloudy,0,2.3102493074792245,31-40,False
+421d0485-217a-4035-ae92-4c353c4cf61c,2025-03-13,March,Thursday,Rum,Captain Morgan,1,71.88,0.06,71.88,4.31,67.57,Cash,23,Other,Snowy,0,0.9400389538119087,21-30,False
+e3925adf-0e13-41ce-afde-5db6875bcf7a,2025-02-17,February,Monday,Wine,Barefoot,6,104.7,0.2,628.2,125.64,502.56,Credit Card,47,Male,Snowy,0,4.8,41-50,False
+919c0847-3576-4ab1-8f9b-1ec906adc05d,2025-04-26,April,Saturday,Brandy,Paul Masson,1,29.18,0.04,29.18,1.17,28.01,Credit Card,30,Female,Snowy,0,0.9599040438656615,21-30,True
+afce52a1-1722-4880-8d76-fc9466c9f7e3,2024-06-16,June,Sunday,Rum,Captain Morgan,2,47.71,0.2,95.42,19.08,76.34,Cash,42,Female,Snowy,0,1.6000838398658563,41-50,True
+2e34c267-b139-4d9b-a523-5344268d81bf,2024-10-08,October,Tuesday,Rum,Captain Morgan,4,61.23,0.05,244.92,12.25,232.67,Cash,53,Female,Snowy,0,3.7999346725461374,51-60,False
+655efff6-8c4a-4e3d-be17-4f05805aa95c,2025-04-21,April,Monday,Tequila,Patron,1,20.04,0.09,20.04,1.8,18.24,Mobile Payment,63,Other,Cloudy,0,0.9101796407185628,61-70,False
+bf836b5c-7419-43ac-8651-064e279f581f,2024-09-07,September,Saturday,Gin,Tanqueray,4,37.76,0.12,151.04,18.12,132.92,Debit Card,46,Male,Cloudy,0,3.5201271186440675,41-50,True
+327bf342-2e1c-408c-847d-0d67ab4e964e,2024-09-11,September,Wednesday,Whiskey,Jameson,4,56.51,0.19,226.04,42.95,183.09,Credit Card,41,Male,Snowy,0,3.2399575296407717,41-50,False
+a75a4ac5-d42b-436a-9ebf-ce1d85dbb4c9,2024-07-29,July,Monday,Whiskey,Jack Daniels,2,73.29,0.01,146.58,1.47,145.11,Debit Card,58,Male,Sunny,1,1.9799426934097422,51-60,False
+f187a187-d331-4a95-aa8d-89282a2cf58d,2024-08-20,August,Tuesday,Gin,Bombay Sapphire,2,34.13,0.15,68.26,10.24,58.02,Cash,24,Other,Rainy,0,1.6999707002636977,21-30,False
+403f4d03-082a-446a-9513-fb0e70d478ba,2025-01-27,January,Monday,Rum,Captain Morgan,1,76.96,0.01,76.96,0.77,76.19,Mobile Payment,55,Female,Rainy,0,0.9899948024948025,51-60,False
+ea423102-2672-4774-819d-c86e95880ceb,2024-12-29,December,Sunday,Gin,Beefeater,1,83.11,0.18,83.11,14.96,68.15,Mobile Payment,55,Female,Rainy,1,0.819997593550716,51-60,True
+970b1751-d716-419a-8a2d-41dcb59519a7,2025-01-18,January,Saturday,Vodka,Smirnoff,3,65.93,0.14,197.79,27.69,170.1,Mobile Payment,59,Other,Cloudy,0,2.580009100561201,51-60,True
+67eeb615-74e0-4ca9-b024-13f0bd217de9,2024-10-16,October,Wednesday,Gin,Tanqueray,2,94.81,0.0,189.62,0.0,189.62,Cash,51,Other,Snowy,0,2.0,51-60,False
+46f9accc-9c23-4539-b9ed-6852bdf29575,2024-06-05,June,Wednesday,Tequila,Patron,6,110.72,0.07,664.32,46.5,617.82,Cash,48,Female,Cloudy,0,5.5800216763005785,41-50,False
+ace5fae2-875f-42d3-af69-5df87a3de1d1,2025-03-05,March,Wednesday,Brandy,Paul Masson,2,82.79,0.17,165.58,28.15,137.43,Cash,33,Other,Cloudy,0,1.6599830897451382,31-40,False
+22e98953-5301-4f97-b077-341e235f3081,2025-06-01,June,Sunday,Rum,Malibu,1,31.45,0.01,31.45,0.31,31.14,Mobile Payment,38,Other,Snowy,0,0.9901430842607314,31-40,True
+0f34538d-b67a-4600-a65f-86073c6fd3d6,2024-08-22,August,Thursday,Beer,Heineken,5,52.13,0.06,260.65,15.64,245.01,Credit Card,27,Other,Snowy,0,4.699980817187799,21-30,False
+d4d18236-4702-490a-8dca-ffe459aa5f6d,2024-12-18,December,Wednesday,Gin,Bombay Sapphire,4,87.06,0.14,348.24,48.75,299.49,Credit Card,51,Other,Snowy,1,3.4400413507925567,51-60,False
+f5d7859d-5f53-4496-b6b5-dcd915650a97,2025-05-18,May,Sunday,Brandy,Hennessy,6,107.91,0.08,647.46,51.8,595.66,Mobile Payment,28,Other,Rainy,0,5.519970345658419,21-30,True
+c67df761-d0a3-461c-b4c2-c0d540ae6bf6,2024-09-28,September,Saturday,Vodka,Smirnoff,6,65.95,0.1,395.7,39.57,356.13,Credit Card,39,Male,Cloudy,0,5.3999999999999995,31-40,True
+f64932cc-3890-4bbf-9dca-8b69d35d19c0,2025-01-09,January,Thursday,Beer,Heineken,6,80.45,0.21,482.7,101.37,381.33,Mobile Payment,23,Other,Rainy,0,4.739962709757613,21-30,False
+a59ed37f-9413-42b0-b7dc-9f9e0e145fd1,2024-10-09,October,Wednesday,Wine,Sutter Home,4,58.85,0.13,235.4,30.6,204.8,Mobile Payment,61,Male,Snowy,0,3.480033984706882,61-70,False
+de326a1a-c2df-4e03-9c3c-1f981fe120f6,2024-07-05,July,Friday,Tequila,Patron,4,18.74,0.18,74.96,13.49,61.47,Mobile Payment,43,Female,Sunny,1,3.2801494130202777,41-50,False
+f707280f-e82e-470b-9b70-7c884777fa67,2025-03-27,March,Thursday,Vodka,Smirnoff,6,65.41,0.08,392.46,31.4,361.06,Mobile Payment,34,Other,Cloudy,0,5.519951077816848,31-40,False
+29bc7ec5-de75-4b34-8cd8-ad05b24286b3,2025-01-02,January,Thursday,Brandy,Hennessy,6,119.15,0.04,714.9,28.6,686.3,Cash,24,Female,Rainy,0,5.75996642887117,21-30,False
+21ddb5d5-54ae-45c3-bef0-f52084e26f90,2025-04-04,April,Friday,Gin,Beefeater,4,85.81,0.14,343.24,48.05,295.19,Mobile Payment,28,Other,Snowy,0,3.440041953152313,21-30,False
+92fc1dd7-2102-45d0-a984-a31c82f3d833,2024-11-01,November,Friday,Tequila,Patron,5,35.99,0.05,179.95,9.0,170.95,Debit Card,26,Other,Snowy,1,4.749930536260072,21-30,False
+6f3aafd8-6bb5-45af-95b1-1027108f8aa5,2024-07-14,July,Sunday,Brandy,E&J,2,66.28,0.11,132.56,14.58,117.98,Credit Card,54,Male,Cloudy,1,1.78002414001207,51-60,True
+564ce121-ec2a-4a33-a55e-d33b5ffe96d2,2024-09-18,September,Wednesday,Tequila,Patron,1,102.77,0.13,102.77,13.36,89.41,Credit Card,43,Female,Snowy,0,0.870000973046609,41-50,False
+c89b7e48-93d8-4489-a925-ecbe469c8ef8,2024-11-29,November,Friday,Rum,Bacardi,5,81.26,0.2,406.3,81.26,325.04,Debit Card,49,Other,Cloudy,1,4.0,41-50,False
+53717cd0-9b9d-4551-a986-64598918beca,2025-04-11,April,Friday,Tequila,Jose Cuervo,3,104.18,0.16,312.54,50.01,262.53,Credit Card,60,Other,Sunny,0,2.5199654444231134,51-60,False
+ca291ac2-f91a-4078-b444-65411c3beb4f,2024-06-20,June,Thursday,Gin,Bombay Sapphire,4,113.96,0.03,455.84,13.68,442.16,Mobile Payment,59,Male,Cloudy,0,3.8799578799578804,51-60,False
+3b7c25b2-b056-42c3-b54d-78fed76a4507,2024-09-29,September,Sunday,Vodka,Absolut,5,52.04,0.07,260.2,18.21,241.99,Mobile Payment,37,Male,Rainy,0,4.650076863950807,31-40,True
+3d80c9e4-9973-47c8-b884-3b4daef2d82f,2025-05-30,May,Friday,Vodka,Smirnoff,3,105.93,0.16,317.79,50.85,266.94,Debit Card,37,Male,Sunny,0,2.519966015293118,31-40,False
+bea19c43-f54e-4300-98b2-bf77da0ec770,2024-08-09,August,Friday,Wine,Sutter Home,6,78.54,0.14,471.24,65.97,405.27,Debit Card,44,Male,Rainy,0,5.160045836516424,41-50,False
+17e2767d-1966-495f-8d3e-f8521e804918,2024-10-25,October,Friday,Beer,Budweiser,3,116.0,0.16,348.0,55.68,292.32,Debit Card,61,Female,Snowy,0,2.52,61-70,False
+73bcfac4-fa1b-4acc-9178-a87c1a57404d,2024-11-08,November,Friday,Wine,Sutter Home,6,41.49,0.02,248.94,4.98,243.96,Mobile Payment,62,Other,Sunny,1,5.87997107736804,61-70,False
+ac47b039-fcd7-4af2-a9c4-2f53354f2dab,2024-11-12,November,Tuesday,Gin,Bombay Sapphire,3,110.84,0.03,332.52,9.98,322.54,Credit Card,41,Female,Rainy,1,2.909960303139661,41-50,False
+f0f28284-e515-46b3-b930-397b1415e202,2024-06-06,June,Thursday,Tequila,Jose Cuervo,3,104.12,0.05,312.36,15.62,296.74,Mobile Payment,34,Male,Cloudy,0,2.8499807913945445,31-40,False
+0ca352c9-bc29-4d49-a73e-7375a75ef145,2024-09-29,September,Sunday,Brandy,Paul Masson,3,37.77,0.08,113.31,9.06,104.25,Credit Card,32,Other,Sunny,0,2.7601270849880857,31-40,True
+c9ed7c06-fc57-4f54-a2bf-e9e3eaf62a8b,2024-12-29,December,Sunday,Whiskey,Jack Daniels,5,38.71,0.14,193.55,27.1,166.45,Debit Card,47,Female,Rainy,1,4.2999225006458275,41-50,True
+916ad982-dd74-4a09-8d94-876cef28d641,2025-01-11,January,Saturday,Tequila,Don Julio,6,109.01,0.15,654.06,98.11,555.95,Debit Card,27,Male,Cloudy,0,5.099990826529677,21-30,True
+ba4bbbb8-1975-45f6-aeec-17dbe87ac0cb,2025-01-16,January,Thursday,Vodka,Absolut,5,58.45,0.14,292.25,40.92,251.33,Cash,58,Other,Sunny,0,4.299914456800685,51-60,False
+20596427-9f60-4e7e-8ea7-dd142371a27d,2024-06-24,June,Monday,Vodka,Absolut,5,20.49,0.12,102.45,12.29,90.16,Cash,49,Male,Cloudy,0,4.400195217179112,41-50,False
+2ce9f236-7876-4982-8157-bb85baae9f48,2025-02-21,February,Friday,Vodka,Grey Goose,2,97.35,0.16,194.7,31.15,163.55,Debit Card,26,Male,Snowy,0,1.6800205444273244,21-30,False
+303b04c8-5baf-4368-9257-a3535afda7e2,2025-05-06,May,Tuesday,Beer,Heineken,6,58.56,0.18,351.36,63.24,288.12,Credit Card,25,Female,Cloudy,0,4.920081967213115,21-30,False
+6dc01f79-6411-4aca-b0c0-92fba842f4a6,2024-08-05,August,Monday,Tequila,Don Julio,6,119.02,0.01,714.12,7.14,706.98,Mobile Payment,51,Female,Cloudy,0,5.940010082339103,51-60,False
+d5884ce0-6dba-4135-8a4f-170edea57ec4,2024-07-19,July,Friday,Wine,Yellow Tail,5,70.93,0.14,354.65,49.65,305.0,Credit Card,32,Other,Snowy,1,4.30001409840688,31-40,False
+256c2efd-af8e-4fd9-9ede-c850146e2011,2024-06-06,June,Thursday,Rum,Bacardi,3,16.65,0.07,49.95,3.5,46.45,Mobile Payment,64,Male,Cloudy,0,2.7897897897897903,61-70,False
+b12b8b98-adb4-4991-946c-58ebdf48df17,2025-01-24,January,Friday,Whiskey,Jameson,5,14.18,0.16,70.9,11.34,59.56,Credit Card,40,Female,Snowy,0,4.200282087447109,31-40,False
+9b83edb1-f4d9-426e-b6be-3040f89a41c0,2024-07-05,July,Friday,Tequila,Don Julio,6,97.1,0.22,582.6,128.17,454.43,Mobile Payment,43,Female,Rainy,1,4.680020597322349,41-50,False
+769250ef-528d-445b-a95d-66021b6c5849,2024-06-21,June,Friday,Tequila,Patron,3,33.32,0.2,99.96,19.99,79.97,Debit Card,54,Male,Cloudy,0,2.400060024009604,51-60,False
+55196ff4-c244-4103-b9c5-32de9bc1e611,2025-04-14,April,Monday,Whiskey,Jack Daniels,6,85.89,0.06,515.34,30.92,484.42,Debit Card,42,Male,Cloudy,0,5.640004657119571,41-50,False
+1cbbb3c7-91f1-42fb-b69e-18c2c5ae13d9,2024-09-11,September,Wednesday,Tequila,Patron,5,92.07,0.11,460.35,50.64,409.71,Mobile Payment,65,Male,Sunny,0,4.449983708048224,61-70,False
+4abc84ed-3585-48db-a5be-0034cade9396,2024-06-06,June,Thursday,Rum,Bacardi,3,89.81,0.15,269.43,40.41,229.02,Credit Card,55,Other,Snowy,0,2.5500501057788667,51-60,False
+f4272fdb-f48d-4bc4-a194-dfef21d99ad6,2025-04-06,April,Sunday,Brandy,Paul Masson,3,37.21,0.02,111.63,2.23,109.4,Debit Card,61,Female,Cloudy,0,2.9400698736898683,61-70,True
+3b9b8396-e66d-47f4-aec6-3a668348c627,2024-12-28,December,Saturday,Brandy,E&J,4,40.9,0.02,163.6,3.27,160.33,Cash,36,Male,Snowy,1,3.9200488997555016,31-40,True
+cb0337c3-f7cd-44da-9d9e-9450acadc571,2024-07-15,July,Monday,Brandy,Paul Masson,2,100.4,0.05,200.8,10.04,190.76,Credit Card,32,Other,Sunny,1,1.9,31-40,False
+8afe18b4-7b38-4ffd-be12-dc2d6e4409c6,2024-12-14,December,Saturday,Tequila,Jose Cuervo,3,90.25,0.15,270.75,40.61,230.14,Cash,28,Female,Sunny,1,2.550027700831025,21-30,True
+839a76e9-0e22-4ee9-9904-f230fc68eab3,2024-12-17,December,Tuesday,Tequila,Patron,6,77.64,0.12,465.84,55.9,409.94,Mobile Payment,50,Other,Snowy,1,5.280010303967027,41-50,False
+6bafe571-e352-4834-843d-d9e15f47b207,2024-06-18,June,Tuesday,Wine,Barefoot,2,75.14,0.13,150.28,19.54,130.74,Credit Card,61,Male,Rainy,0,1.7399520894330585,61-70,False
+746b9e6b-f23f-4116-8048-3a521a03c388,2024-12-07,December,Saturday,Beer,Heineken,1,118.71,0.08,118.71,9.5,109.21,Debit Card,26,Female,Rainy,1,0.9199730435515121,21-30,True
+15d41852-3645-4904-847e-50feaa8f46b8,2025-04-20,April,Sunday,Vodka,Grey Goose,6,59.1,0.1,354.6,35.46,319.14,Mobile Payment,50,Other,Sunny,0,5.3999999999999995,41-50,True
+fce05f42-3f57-496f-9934-7be22129e562,2025-01-22,January,Wednesday,Wine,Barefoot,1,112.49,0.01,112.49,1.12,111.37,Cash,39,Other,Snowy,0,0.9900435594275048,31-40,False
+b75245d1-1210-4a26-9196-acc65ff716e0,2024-07-12,July,Friday,Brandy,Paul Masson,5,18.97,0.23,94.85,21.82,73.03,Debit Card,30,Male,Rainy,1,3.8497627833421193,21-30,False
+126f446d-b46d-49c9-8f7d-0277d64afbc0,2024-07-06,July,Saturday,Rum,Bacardi,5,78.1,0.04,390.5,15.62,374.88,Cash,35,Other,Sunny,1,4.800000000000001,31-40,True
+6d5c340a-7108-4c2a-9ab2-b1a78dc23727,2024-12-14,December,Saturday,Brandy,Paul Masson,4,84.55,0.05,338.2,16.91,321.29,Debit Card,51,Male,Rainy,1,3.8000000000000003,51-60,True
+24ca3ab1-1b6c-48e3-84ac-bad6e7897ac4,2024-06-06,June,Thursday,Beer,Budweiser,1,27.46,0.05,27.46,1.37,26.09,Cash,43,Male,Rainy,0,0.9501092498179169,41-50,False
+1f0372ca-dd4e-4f8a-bec3-52fe27936a0e,2025-05-02,May,Friday,Vodka,Absolut,2,79.7,0.02,159.4,3.19,156.21,Cash,49,Female,Cloudy,0,1.9599749058971143,41-50,False
+16ceb4ac-2d20-405d-8eb7-b8a9cbe45ecc,2024-10-19,October,Saturday,Vodka,Absolut,5,36.27,0.2,181.35,36.27,145.08,Cash,38,Male,Snowy,0,4.0,31-40,True
+e7f7e75b-e6b2-4231-894d-d4ab3e723c53,2024-07-01,July,Monday,Tequila,Don Julio,6,33.88,0.1,203.28,20.33,182.95,Mobile Payment,56,Other,Sunny,1,5.3999409681227855,51-60,False
+4b613a81-826b-41ea-be89-b55638a8b847,2024-11-03,November,Sunday,Vodka,Absolut,6,104.77,0.08,628.62,50.29,578.33,Cash,23,Female,Cloudy,1,5.519996182113201,21-30,True
+7c1ea1b8-980a-49fc-8d50-e1a4698a5e84,2024-12-18,December,Wednesday,Brandy,Paul Masson,6,53.57,0.22,321.42,70.71,250.71,Credit Card,27,Other,Cloudy,1,4.680044801194699,21-30,False
+e36bd0e8-7d04-4c79-b812-ffe756f02019,2025-03-26,March,Wednesday,Gin,Tanqueray,5,41.77,0.19,208.85,39.68,169.17,Cash,32,Female,Sunny,0,4.050035910940866,31-40,False
+b17aa59a-e4f2-41dc-8a8a-2d65f09861d7,2024-07-10,July,Wednesday,Beer,Budweiser,6,107.54,0.15,645.24,96.79,548.45,Credit Card,55,Other,Sunny,1,5.099962804537847,51-60,False
+8b065ba8-8c33-47ac-b890-f2ab58d59fc1,2025-05-21,May,Wednesday,Wine,Yellow Tail,6,25.67,0.09,154.02,13.86,140.16,Cash,25,Female,Cloudy,0,5.460070120763537,21-30,False
+9ce63433-fa89-4d03-9eb3-9dfbf3a096b4,2024-11-10,November,Sunday,Beer,Heineken,5,58.75,0.17,293.75,49.94,243.81,Credit Card,35,Female,Rainy,1,4.149957446808511,31-40,True
+4891c654-965c-41a9-9b56-3b540ca5c636,2025-03-15,March,Saturday,Tequila,Don Julio,6,58.62,0.24,351.72,84.41,267.31,Credit Card,65,Male,Cloudy,0,4.560047765267827,61-70,True
+84b11e1a-a70e-40b6-af3d-a72ed36fb6fe,2025-04-13,April,Sunday,Wine,Sutter Home,1,15.72,0.12,15.72,1.89,13.83,Mobile Payment,28,Other,Rainy,0,0.8797709923664122,21-30,True
+28272693-1b9c-4e26-b3a1-84082d8d81e2,2024-11-01,November,Friday,Gin,Beefeater,5,93.61,0.21,468.05,98.29,369.76,Debit Card,23,Other,Sunny,1,3.950005341309689,21-30,False
+3a619f2d-dbac-4bf3-adb7-66c1e4f69582,2025-01-31,January,Friday,Gin,Beefeater,3,77.8,0.13,233.4,30.34,203.06,Credit Card,22,Male,Cloudy,0,2.610025706940874,21-30,False
+971b5b43-4be7-4762-b46d-6a8f1b80b76a,2025-02-22,February,Saturday,Vodka,Absolut,2,34.17,0.14,68.34,9.57,58.77,Debit Card,34,Female,Snowy,0,1.7199297629499561,31-40,True
+490da4a5-c47c-411d-8259-73cf29e62dfd,2024-06-22,June,Saturday,Wine,Sutter Home,5,44.56,0.01,222.8,2.23,220.57,Cash,22,Female,Snowy,0,4.9499551166965885,21-30,True
+cfa2fc7d-b009-46f2-be33-b776584805e0,2025-05-04,May,Sunday,Beer,Corona,6,93.68,0.24,562.08,134.9,427.18,Credit Card,46,Female,Snowy,0,4.55999146029035,41-50,True
+2b1a031e-7d41-422c-8f22-a70b33c2e3b8,2025-03-07,March,Friday,Tequila,Patron,1,74.86,0.12,74.86,8.98,65.88,Debit Card,55,Male,Cloudy,0,0.8800427464600588,51-60,False
+0c0e9962-649f-4d1e-ae28-f95400a9514d,2024-10-30,October,Wednesday,Tequila,Patron,5,63.82,0.13,319.1,41.48,277.62,Debit Card,57,Female,Snowy,0,4.350047007207772,51-60,False
+136c9095-fd22-44a3-b44a-d9c290b0b26d,2024-10-17,October,Thursday,Beer,Budweiser,5,74.47,0.19,372.35,70.75,301.6,Credit Card,60,Male,Snowy,0,4.04995300120854,51-60,False
+c8bd82e1-ad97-4b1a-abff-a83ec4461a0b,2025-02-15,February,Saturday,Wine,Yellow Tail,2,57.06,0.21,114.12,23.97,90.15,Mobile Payment,60,Male,Rainy,0,1.5799158780231335,51-60,True
+7a4918d2-51e4-43b6-9950-eaf402182230,2024-08-06,August,Tuesday,Wine,Sutter Home,1,108.33,0.17,108.33,18.42,89.91,Credit Card,25,Female,Snowy,0,0.8299639988922736,21-30,False
+67ff75d6-0d27-46c4-b6fc-2e42ea33845e,2024-09-08,September,Sunday,Gin,Bombay Sapphire,4,89.03,0.13,356.12,46.3,309.82,Cash,27,Male,Sunny,0,3.4799505784567,21-30,True
+ed31e782-befb-4796-b444-f4907edb519d,2024-10-09,October,Wednesday,Beer,Corona,4,39.59,0.17,158.36,26.92,131.44,Debit Card,23,Female,Sunny,0,3.320030310684516,21-30,False
+2b71696f-5018-4042-a1b1-30b8ff8a7603,2024-09-25,September,Wednesday,Beer,Corona,2,89.09,0.16,178.18,28.51,149.67,Cash,37,Female,Snowy,0,1.6799865304748005,31-40,False
+fa74ec2b-708b-4200-8031-0aa854bf3ce5,2024-10-31,October,Thursday,Beer,Budweiser,1,90.47,0.03,90.47,2.71,87.76,Credit Card,45,Other,Rainy,0,0.9700453188902399,41-50,False
+a1b5fda8-a349-42db-bc90-0738f912a7b1,2024-08-04,August,Sunday,Wine,Barefoot,6,53.14,0.03,318.84,9.57,309.27,Cash,58,Other,Cloudy,0,5.819909672563041,51-60,True
+31838000-7127-49bc-b2da-740d128b7b98,2024-08-01,August,Thursday,Wine,Barefoot,4,93.63,0.2,374.52,74.9,299.62,Mobile Payment,33,Male,Sunny,0,3.2000427213499947,31-40,False
+4d11d95a-6434-45b6-b06b-122d4350506b,2024-08-14,August,Wednesday,Vodka,Grey Goose,5,93.94,0.12,469.7,56.36,413.34,Debit Card,50,Male,Rainy,0,4.4000425803704495,41-50,False
+9ff23e55-3aca-401e-8aa4-117fb3fb35fa,2025-04-07,April,Monday,Gin,Tanqueray,3,92.86,0.18,278.58,50.14,228.44,Credit Card,60,Other,Snowy,0,2.460047383157441,51-60,False
+2d072d2b-d29c-4121-9238-e644d1f37b14,2024-11-30,November,Saturday,Vodka,Absolut,2,115.24,0.05,230.48,11.52,218.96,Debit Card,48,Other,Sunny,1,1.90003471017008,41-50,True
+bf452d88-cd68-4b84-8ffc-fe94476eefb4,2024-09-26,September,Thursday,Brandy,E&J,5,66.47,0.01,332.35,3.32,329.03,Credit Card,62,Other,Snowy,0,4.9500526553332325,61-70,False
+3e7f967c-1896-47fa-95b5-7f7ac76a3ea4,2025-01-17,January,Friday,Vodka,Grey Goose,4,116.7,0.24,466.8,112.03,354.77,Cash,43,Other,Snowy,0,3.0400171379605823,41-50,False
+567adea0-a36e-44c6-b738-8c120619c78c,2024-12-17,December,Tuesday,Wine,Sutter Home,6,96.44,0.16,578.64,92.58,486.06,Cash,48,Other,Sunny,1,5.040024885939444,41-50,False
+f8647f91-da1e-4c70-8a1e-ab4b7b6d11a5,2025-03-20,March,Thursday,Gin,Bombay Sapphire,5,54.09,0.16,270.45,43.27,227.18,Credit Card,52,Other,Rainy,0,4.200036975411352,51-60,False
+8b7239a6-ec33-48dc-9704-e7da2350fcc2,2024-09-18,September,Wednesday,Vodka,Grey Goose,5,21.0,0.04,105.0,4.2,100.8,Cash,52,Female,Cloudy,0,4.8,51-60,False
+b38f717e-79d3-4d42-b4d0-fd2b9bc820c5,2024-07-13,July,Saturday,Vodka,Absolut,5,70.61,0.06,353.05,21.18,331.87,Mobile Payment,51,Female,Snowy,1,4.700042486899872,51-60,True
+7545a3a6-2c31-48c9-86e4-c6fa29280b08,2024-11-01,November,Friday,Whiskey,Jack Daniels,4,93.07,0.04,372.28,14.89,357.39,Credit Card,61,Female,Cloudy,1,3.840012893521006,61-70,False
+2ecc0fad-583e-435f-b2b7-532e15e5c26c,2025-05-05,May,Monday,Vodka,Smirnoff,2,45.35,0.1,90.7,9.07,81.63,Credit Card,38,Other,Rainy,0,1.7999999999999998,31-40,False
+01b1fb33-07f9-4529-89ab-8774a32fd83f,2025-02-13,February,Thursday,Tequila,Don Julio,4,110.57,0.01,442.28,4.42,437.86,Cash,26,Female,Snowy,0,3.960025323324591,21-30,False
+81cbb977-5119-4ffe-8c26-319e3f66b4b4,2024-08-09,August,Friday,Tequila,Patron,3,73.74,0.13,221.22,28.76,192.46,Credit Card,22,Other,Snowy,0,2.609981014374831,21-30,False
+4e9886f4-9329-4726-b58c-86ab49943d03,2025-02-25,February,Tuesday,Tequila,Patron,6,22.48,0.18,134.88,24.28,110.6,Cash,46,Other,Rainy,0,4.919928825622775,41-50,False
+5cc94a4a-a253-4b55-94ab-84cbc5de92cf,2024-09-19,September,Thursday,Rum,Bacardi,6,101.19,0.0,607.14,0.0,607.14,Cash,36,Female,Rainy,0,6.0,31-40,False
+5594c89d-6bd9-4009-99fd-e51bbede074e,2024-06-04,June,Tuesday,Tequila,Jose Cuervo,6,92.48,0.15,554.88,83.23,471.65,Credit Card,36,Male,Sunny,0,5.100021626297577,31-40,False
+c1a33a23-6810-43cc-a989-835414ac5ac1,2025-05-06,May,Tuesday,Gin,Bombay Sapphire,2,112.92,0.13,225.84,29.36,196.48,Cash,38,Female,Rainy,0,1.7399929153382925,31-40,False
+4c651898-c836-4d69-9c7b-11d3199a3d04,2024-12-20,December,Friday,Whiskey,Chivas Regal,3,26.85,0.06,80.55,4.83,75.72,Cash,42,Male,Rainy,1,2.8201117318435753,41-50,False
+1ac3b79e-e2a8-4061-a51c-d67bae32d4df,2025-01-30,January,Thursday,Brandy,Hennessy,3,20.33,0.1,60.99,6.1,54.89,Credit Card,60,Female,Sunny,0,2.6999508116084607,51-60,False
+5690a0d8-9f27-47c6-b371-5dc2b4b01846,2024-12-26,December,Thursday,Brandy,E&J,3,76.97,0.08,230.91,18.47,212.44,Credit Card,31,Female,Cloudy,1,2.760036377809536,31-40,False
+1f59caa6-d041-4f95-90d4-97f2866f3c87,2025-05-14,May,Wednesday,Wine,Sutter Home,3,93.19,0.2,279.57,55.91,223.66,Credit Card,44,Male,Sunny,0,2.4000429230604143,41-50,False
+d4fe3ccf-cb7c-4b89-8d75-06a2a7b53358,2025-05-18,May,Sunday,Vodka,Absolut,6,64.89,0.22,389.34,85.65,303.69,Debit Card,46,Female,Snowy,0,4.680073971336107,41-50,True
+d5013db3-56d3-4cbd-b89a-a9efcc924d65,2024-12-29,December,Sunday,Gin,Beefeater,3,103.96,0.24,311.88,74.85,237.03,Debit Card,61,Male,Snowy,1,2.280011542901116,61-70,True
+5a6c6e19-d0a0-4491-b67f-de3418ecbd6c,2024-09-09,September,Monday,Whiskey,Jack Daniels,5,44.74,0.21,223.7,46.98,176.72,Cash,59,Male,Rainy,0,3.9499329459097003,51-60,False
+b78f7f21-1a9a-4ef3-b324-700748878f4d,2025-01-02,January,Thursday,Vodka,Grey Goose,5,28.98,0.09,144.9,13.04,131.86,Debit Card,54,Female,Snowy,0,4.550034506556246,51-60,False
+dfc5d54c-996f-485c-b02b-33eb269a4230,2024-09-19,September,Thursday,Tequila,Jose Cuervo,2,20.71,0.21,41.42,8.7,32.72,Credit Card,53,Male,Cloudy,0,1.5799130854659584,51-60,False
+a1d02e38-9c40-418e-9c26-b3326b83cf1e,2025-04-24,April,Thursday,Wine,Barefoot,4,14.86,0.02,59.44,1.19,58.25,Debit Card,27,Male,Rainy,0,3.9199192462987886,21-30,False
+2e9afe0b-d90d-4373-b116-2acdbf3a3e6e,2024-09-19,September,Thursday,Brandy,Paul Masson,5,90.84,0.06,454.2,27.25,426.95,Cash,52,Other,Rainy,0,4.700022016732716,51-60,False
+c834b393-5679-4c70-a95a-bfe7c348b326,2024-06-27,June,Thursday,Whiskey,Jameson,3,57.79,0.19,173.37,32.94,140.43,Debit Card,38,Female,Sunny,0,2.430005191209552,31-40,False
+7672f911-2ae1-47ce-bebd-cba1076580bd,2024-08-03,August,Saturday,Wine,Yellow Tail,3,29.91,0.12,89.73,10.77,78.96,Cash,42,Male,Cloudy,0,2.6399197592778334,41-50,True
+975d827c-efcc-45ab-8032-4ae02bae8d05,2024-07-23,July,Tuesday,Beer,Corona,2,61.73,0.2,123.46,24.69,98.77,Mobile Payment,50,Female,Cloudy,1,1.600032399157622,41-50,False
+85101287-5eaf-4cc2-a62a-3f260c5b9d60,2024-11-10,November,Sunday,Vodka,Absolut,1,88.51,0.17,88.51,15.05,73.46,Mobile Payment,22,Male,Rainy,1,0.8299627160772793,21-30,True
+e2873f76-2ddb-4d99-b155-96c634d5889d,2024-07-05,July,Friday,Gin,Bombay Sapphire,4,55.45,0.09,221.8,19.96,201.84,Cash,48,Male,Sunny,1,3.640036068530207,41-50,False
+b636c370-9414-4a71-9e02-764cbc68eff4,2025-02-23,February,Sunday,Vodka,Smirnoff,1,49.61,0.14,49.61,6.95,42.66,Cash,35,Female,Cloudy,0,0.8599072767587179,31-40,True
+399cfde8-8dcc-4b26-8be1-7137913fcee6,2024-12-14,December,Saturday,Rum,Bacardi,1,117.23,0.01,117.23,1.17,116.06,Credit Card,44,Male,Snowy,1,0.9900196195513093,41-50,True
+46b20880-b023-4562-b5b2-b6f2d674a206,2025-04-21,April,Monday,Beer,Budweiser,1,102.87,0.23,102.87,23.66,79.21,Debit Card,30,Male,Snowy,0,0.7700009721007095,21-30,False
+bcf759e0-c1d4-4615-8643-df3252df5b57,2025-01-28,January,Tuesday,Vodka,Smirnoff,2,74.18,0.18,148.36,26.7,121.66,Debit Card,35,Male,Sunny,0,1.6400647074683201,31-40,False
+9056e12b-74db-4696-ad8f-cc6f407911b3,2024-07-24,July,Wednesday,Rum,Bacardi,4,37.76,0.08,151.04,12.08,138.96,Mobile Payment,50,Other,Snowy,1,3.6800847457627124,41-50,False
+5caccc2b-515a-48d9-8561-dda715bcfb23,2025-01-24,January,Friday,Brandy,Paul Masson,5,13.92,0.22,69.6,15.31,54.29,Credit Card,56,Female,Snowy,0,3.9001436781609193,51-60,False
+f437ac08-8bb7-4ac4-ba03-3130cb10ed7d,2024-10-25,October,Friday,Tequila,Don Julio,5,26.29,0.1,131.45,13.14,118.3,Debit Card,30,Female,Snowy,0,4.499809813617345,21-30,False
+ee12c370-b850-4f53-a71a-6b481480c583,2024-06-16,June,Sunday,Rum,Malibu,4,90.2,0.02,360.8,7.22,353.58,Credit Card,38,Female,Sunny,0,3.919955654101995,31-40,True
+d5ccc1a8-c3ca-487f-b0d3-41b15e1aa1a7,2025-05-08,May,Thursday,Wine,Sutter Home,4,53.17,0.07,212.68,14.89,197.79,Debit Card,59,Male,Cloudy,0,3.7199548617641525,51-60,False
+9c072872-a86e-4a94-88b9-e41d76c7a441,2024-08-10,August,Saturday,Whiskey,Chivas Regal,6,113.49,0.21,680.94,143.0,537.94,Mobile Payment,32,Female,Snowy,0,4.739977090492555,31-40,True
+d748953c-3104-40e0-b1c0-83b2d3e34a3c,2024-12-27,December,Friday,Rum,Malibu,6,44.58,0.07,267.48,18.72,248.76,Credit Card,44,Other,Cloudy,1,5.580080753701211,41-50,False
+54e65992-3768-4c47-b1f0-b1e26cac1218,2025-01-14,January,Tuesday,Vodka,Grey Goose,4,38.11,0.03,152.44,4.57,147.87,Cash,33,Female,Snowy,0,3.880083967462608,31-40,False
+cf700800-d593-475a-a941-13ed714564e7,2025-03-26,March,Wednesday,Tequila,Don Julio,2,67.89,0.15,135.78,20.37,115.41,Cash,43,Male,Cloudy,0,1.6999558108705257,41-50,False
+1d5f5324-b56d-4aba-93a9-d6a3c7198492,2025-02-12,February,Wednesday,Brandy,Paul Masson,2,85.93,0.02,171.86,3.44,168.42,Cash,32,Other,Sunny,0,1.9599674153380655,31-40,False
+1f752ebf-2ce1-4c6f-a37a-b930f6574ae5,2024-09-25,September,Wednesday,Rum,Captain Morgan,2,13.67,0.05,27.34,1.37,25.97,Credit Card,42,Female,Rainy,0,1.8997805413313824,41-50,False
+ac04027d-78ec-47ae-8636-dd2ba5b4cda9,2024-06-19,June,Wednesday,Beer,Budweiser,4,37.85,0.24,151.4,36.34,115.06,Cash,62,Male,Snowy,0,3.039894319682959,61-70,False
+e6cba34d-981a-428b-bd1c-748bb5ba72bc,2024-11-25,November,Monday,Whiskey,Jack Daniels,5,104.06,0.17,520.3,88.45,431.85,Mobile Payment,29,Male,Cloudy,1,4.150009609840477,21-30,False
+c8f3b763-ab4a-4d8b-9080-74783533ef03,2025-04-06,April,Sunday,Tequila,Jose Cuervo,1,49.52,0.02,49.52,0.99,48.53,Cash,52,Male,Sunny,0,0.9800080775444264,51-60,True
+acc3d191-8ff7-44f2-94e0-6484d351e20b,2024-09-05,September,Thursday,Rum,Bacardi,5,62.68,0.23,313.4,72.08,241.32,Mobile Payment,47,Female,Cloudy,0,3.8500319081046586,41-50,False
+a41bd3cc-33e0-4ac5-97de-2809691e7395,2024-06-16,June,Sunday,Beer,Corona,4,12.75,0.06,51.0,3.06,47.94,Cash,62,Female,Sunny,0,3.76,61-70,True
+ceb0bb8f-0395-4d34-99fa-b2d4dce82931,2025-01-08,January,Wednesday,Whiskey,Chivas Regal,2,56.39,0.16,112.78,18.04,94.74,Mobile Payment,27,Other,Sunny,0,1.6800851214754389,21-30,False
+409a7a49-53ae-4d0e-a81a-3adb889c3059,2025-03-05,March,Wednesday,Wine,Sutter Home,5,18.49,0.11,92.45,10.17,82.28,Cash,35,Male,Sunny,0,4.449972958355868,31-40,False
+73667b23-a4bb-41cb-a242-c97449980f2d,2024-12-21,December,Saturday,Gin,Bombay Sapphire,3,14.12,0.2,42.36,8.47,33.89,Credit Card,58,Female,Rainy,1,2.40014164305949,51-60,True
+f63210f3-8d8f-4345-ba89-35fe2c8ce455,2025-01-26,January,Sunday,Whiskey,Jameson,6,58.02,0.02,348.12,6.96,341.16,Credit Card,56,Female,Cloudy,0,5.8800413650465355,51-60,True
+3964ac9c-566d-400a-a773-14bd3120bf4a,2024-09-12,September,Thursday,Wine,Yellow Tail,2,15.34,0.02,30.68,0.61,30.07,Debit Card,22,Other,Sunny,0,1.9602346805736637,21-30,False
+1c2f9972-81c0-41ac-9128-4d58b50dd374,2024-08-28,August,Wednesday,Tequila,Jose Cuervo,1,84.92,0.08,84.92,6.79,78.13,Debit Card,53,Female,Rainy,0,0.9200423928403202,51-60,False
+1b9c49e2-6636-4a17-83f0-763b568f9550,2024-12-09,December,Monday,Brandy,Paul Masson,1,90.22,0.24,90.22,21.65,68.57,Cash,61,Male,Rainy,1,0.7600310352471735,61-70,False
+dd0372a1-8833-4df7-b658-66041d007bf2,2025-02-15,February,Saturday,Beer,Corona,6,83.9,0.1,503.4,50.34,453.06,Cash,36,Female,Sunny,0,5.3999999999999995,31-40,True
+1419ff7f-4354-400c-ba2a-1efdd5f21be8,2024-12-22,December,Sunday,Wine,Barefoot,1,53.4,0.12,53.4,6.41,46.99,Debit Card,36,Other,Snowy,1,0.8799625468164795,31-40,True
+ec4a2e5c-ae21-4fdb-a860-12773057b712,2024-10-27,October,Sunday,Gin,Beefeater,4,68.44,0.14,273.76,38.33,235.43,Mobile Payment,37,Male,Cloudy,0,3.439947399181765,31-40,True
+862c4e17-cba5-4ca2-8cb8-bad0f9da47ea,2024-08-01,August,Thursday,Wine,Yellow Tail,3,88.33,0.02,264.99,5.3,259.69,Debit Card,58,Female,Rainy,0,2.9399977357636136,51-60,False
+375c3714-e2e9-4dc6-90f8-49fa830137dd,2025-03-21,March,Friday,Beer,Corona,5,118.12,0.21,590.6,124.03,466.57,Cash,23,Male,Rainy,0,3.9499661361327463,21-30,False
+3fc2dcf3-3f7b-4b6f-8f68-b6c3be011ee2,2024-10-06,October,Sunday,Vodka,Smirnoff,4,12.51,0.1,50.04,5.0,45.04,Mobile Payment,55,Other,Rainy,0,3.6003197442046364,51-60,True
+46ec8bc7-57a3-4eb5-a8fd-f6fd2c405885,2025-01-24,January,Friday,Rum,Bacardi,5,92.45,0.05,462.25,23.11,439.14,Cash,50,Female,Rainy,0,4.750027041644132,41-50,False
+4349a26e-21c9-4c24-9ea3-08b4e8573fa7,2024-09-25,September,Wednesday,Rum,Malibu,3,59.82,0.18,179.46,32.3,147.16,Debit Card,51,Male,Rainy,0,2.4600468070879304,51-60,False
+024da8c3-d6a6-461a-9896-053ea627d676,2024-08-17,August,Saturday,Rum,Captain Morgan,3,65.27,0.03,195.81,5.87,189.94,Debit Card,44,Male,Sunny,0,2.9100658801899804,41-50,True
+f9c35569-8878-4dff-9de1-f5233bc2725a,2024-12-03,December,Tuesday,Beer,Budweiser,3,117.61,0.22,352.83,77.62,275.21,Credit Card,36,Male,Sunny,1,2.3400221069636933,31-40,False
+becd399e-3ba8-4588-a236-bcbe406fb247,2025-05-15,May,Thursday,Tequila,Jose Cuervo,3,87.82,0.02,263.46,5.27,258.19,Cash,36,Other,Rainy,0,2.9399908904577545,31-40,False
+46fa1a30-9d08-465f-bfd1-8d560c4bee37,2025-04-28,April,Monday,Rum,Captain Morgan,3,94.13,0.11,282.39,31.06,251.33,Cash,59,Female,Cloudy,0,2.6700308084563904,51-60,False
+f39259e5-629b-46f1-9e8f-691280e618e4,2024-12-02,December,Monday,Whiskey,Jameson,2,47.14,0.22,94.28,20.74,73.54,Debit Card,34,Other,Snowy,1,1.5600339414509972,31-40,False
+093a764e-01ab-4c58-b90f-20312bb4b4f6,2024-07-16,July,Tuesday,Brandy,Paul Masson,5,46.92,0.16,234.6,37.54,197.06,Cash,39,Other,Snowy,1,4.199914748508099,31-40,False
+13984e02-58d6-48a7-848b-35a5e1c921f3,2024-12-16,December,Monday,Tequila,Don Julio,2,101.41,0.05,202.82,10.14,192.68,Credit Card,41,Male,Cloudy,1,1.9000098609604577,41-50,False
+bb95bd4b-7338-4fda-8c5e-96bd015f8f82,2025-04-10,April,Thursday,Brandy,E&J,3,67.85,0.24,203.55,48.85,154.7,Cash,47,Other,Sunny,0,2.28002947678703,41-50,False
+d0c79814-be29-4d62-8bfd-d0c8d3670d04,2024-10-25,October,Friday,Brandy,E&J,5,63.0,0.05,315.0,15.75,299.25,Mobile Payment,44,Male,Cloudy,0,4.75,41-50,False
+ee08bbe4-156c-4696-ab67-15fb4b1aed3d,2024-12-27,December,Friday,Gin,Tanqueray,3,83.92,0.11,251.76,27.69,224.07,Credit Card,36,Other,Cloudy,1,2.6700428979980932,31-40,False
+64156586-4bba-4be9-b026-07652ebeb961,2025-03-28,March,Friday,Whiskey,Jack Daniels,1,86.77,0.05,86.77,4.34,82.43,Mobile Payment,23,Other,Snowy,0,0.9499827129192119,21-30,False
+9ba29344-2883-4cf5-b8ee-d5eda7585297,2024-10-07,October,Monday,Gin,Tanqueray,4,38.7,0.22,154.8,34.06,120.74,Debit Card,56,Other,Snowy,0,3.119896640826873,51-60,False
+5b3b8875-994c-4240-9eda-77c315ffc481,2025-04-13,April,Sunday,Brandy,Paul Masson,6,93.76,0.06,562.56,33.75,528.81,Credit Card,54,Male,Cloudy,0,5.640038395904436,51-60,True
+58bede49-c660-4f68-94ca-5142753dc376,2024-06-30,June,Sunday,Whiskey,Jameson,1,42.58,0.17,42.58,7.24,35.34,Debit Card,56,Male,Snowy,0,0.8299671207139503,51-60,True
+095fbf04-6c0c-4873-a87d-1cda5da4d4f0,2025-04-23,April,Wednesday,Tequila,Patron,5,37.68,0.1,188.4,18.84,169.56,Debit Card,52,Female,Snowy,0,4.5,51-60,False
+54b91022-03ae-4d34-a7ca-ca3b3d8aaa8f,2024-12-31,December,Tuesday,Rum,Captain Morgan,1,63.17,0.17,63.17,10.74,52.43,Debit Card,60,Other,Rainy,1,0.8299825866708881,51-60,False
+b02e356c-e299-4bfc-8a8c-5102d6608281,2024-07-03,July,Wednesday,Beer,Budweiser,1,38.92,0.13,38.92,5.06,33.86,Debit Card,36,Male,Cloudy,1,0.8699897225077081,31-40,False
+51b7058b-c1ef-47d8-90f4-690f1c74884f,2024-09-26,September,Thursday,Wine,Yellow Tail,4,28.76,0.08,115.04,9.2,105.84,Mobile Payment,34,Male,Snowy,0,3.6801112656467314,31-40,False
+e355fd9a-edbd-4f09-af45-36a521d4895c,2024-12-17,December,Tuesday,Wine,Sutter Home,5,118.24,0.18,591.2,106.42,484.78,Credit Card,61,Other,Cloudy,1,4.099966170500677,61-70,False
+b93eb20d-dbd5-41a7-bc28-6be3d4f56441,2024-06-02,June,Sunday,Beer,Heineken,4,59.69,0.08,238.76,19.1,219.66,Cash,25,Female,Snowy,0,3.6800134025799967,21-30,True
+3815731c-7d7a-4494-bbef-35057d78be14,2024-10-29,October,Tuesday,Brandy,E&J,4,118.61,0.02,474.44,9.49,464.95,Debit Card,22,Male,Cloudy,0,3.9199898828092063,21-30,False
+4dc042fb-cbd9-41ef-b86c-06c4f6bdafd1,2025-03-14,March,Friday,Wine,Sutter Home,4,40.05,0.05,160.2,8.01,152.19,Mobile Payment,40,Female,Sunny,0,3.8000000000000003,31-40,False
+07370683-ca7d-4c9b-8c68-ad3f1d1267b7,2024-10-22,October,Tuesday,Whiskey,Chivas Regal,1,65.32,0.18,65.32,11.76,53.56,Credit Card,28,Female,Rainy,0,0.819963257807716,21-30,False
+37e4837d-8fe2-4063-8229-c6a7a75415e9,2025-05-06,May,Tuesday,Gin,Tanqueray,1,83.82,0.06,83.82,5.03,78.79,Debit Card,45,Female,Cloudy,0,0.9399904557384874,41-50,False
+24bb33fc-f053-404d-95e3-bdc2b587dff8,2025-03-16,March,Sunday,Rum,Bacardi,5,114.99,0.18,574.95,103.49,471.46,Mobile Payment,48,Male,Sunny,0,4.100008696408383,41-50,True
+a7eb5992-2b7e-454a-936a-759be4e59636,2025-05-14,May,Wednesday,Wine,Barefoot,5,72.83,0.13,364.15,47.34,316.81,Mobile Payment,34,Female,Rainy,0,4.3499931346972405,31-40,False
+72e90c63-cf5f-411c-a22c-6a0a27207def,2024-09-30,September,Monday,Gin,Tanqueray,6,69.52,0.21,417.12,87.6,329.52,Debit Card,49,Male,Sunny,0,4.739930955120829,41-50,False
+7b914910-d84b-4051-848c-bb8d97159d8e,2024-11-24,November,Sunday,Beer,Budweiser,3,54.98,0.16,164.94,26.39,138.55,Credit Card,49,Other,Rainy,1,2.5200072753728633,41-50,True
+bda60150-4bc2-487d-9c4d-c73b1e565a15,2024-11-04,November,Monday,Rum,Bacardi,6,115.78,0.13,694.68,90.31,604.37,Cash,22,Male,Cloudy,1,5.219986180687511,21-30,False
+67df941f-1f9c-45e7-a48f-f6d504bcf2c2,2024-11-25,November,Monday,Rum,Malibu,3,52.83,0.16,158.49,25.36,133.13,Credit Card,30,Male,Sunny,1,2.5199697141775506,21-30,False
+2f6f9c04-e7c1-4c14-9b37-4c605fb53e29,2024-09-20,September,Friday,Rum,Bacardi,1,106.71,0.18,106.71,19.21,87.5,Mobile Payment,43,Male,Snowy,0,0.8199793833755038,41-50,False
+cb29a104-cd9c-40f9-91fd-2de08de0b49a,2024-07-15,July,Monday,Rum,Captain Morgan,1,34.18,0.21,34.18,7.18,27.0,Debit Card,26,Other,Sunny,1,0.7899356348741955,21-30,False
+c76f61d5-9fa4-426c-9c17-8a98e4f10662,2025-01-27,January,Monday,Wine,Yellow Tail,1,110.29,0.02,110.29,2.21,108.08,Credit Card,22,Other,Rainy,0,0.9799619185782935,21-30,False
+3a39314c-ecb4-4bce-b95e-6e40434fbd54,2025-03-07,March,Friday,Rum,Captain Morgan,2,51.96,0.03,103.92,3.12,100.8,Credit Card,58,Male,Rainy,0,1.9399538106235565,51-60,False
+f7e2148e-3e30-4470-bc54-c1ee0896a8b5,2024-11-15,November,Friday,Brandy,Paul Masson,6,92.48,0.2,554.88,110.98,443.9,Mobile Payment,21,Female,Snowy,1,4.799956747404844,21-30,False
+0e1d1a9e-f819-4766-8f4c-f0c1abca3f53,2024-06-05,June,Wednesday,Tequila,Jose Cuervo,2,45.49,0.13,90.98,11.83,79.15,Cash,44,Female,Snowy,0,1.7399428445812266,41-50,False
+a8c6aeac-9af0-4029-ac98-60574698d206,2024-07-02,July,Tuesday,Wine,Yellow Tail,5,29.8,0.12,149.0,17.88,131.12,Mobile Payment,52,Male,Cloudy,1,4.4,51-60,False
+78d8813b-acef-4c0c-af32-5ab7f8f007a8,2025-03-23,March,Sunday,Vodka,Grey Goose,3,19.68,0.19,59.04,11.22,47.82,Mobile Payment,53,Male,Cloudy,0,2.429878048780488,51-60,True
+f2514312-a909-49c1-be57-8435462cc9ae,2024-09-12,September,Thursday,Whiskey,Jameson,6,59.79,0.02,358.74,7.17,351.57,Debit Card,39,Other,Rainy,0,5.880080280983442,31-40,False
+2378752d-df29-4bed-a0eb-c01992333caa,2024-10-24,October,Thursday,Tequila,Don Julio,3,99.22,0.08,297.66,23.81,273.85,Credit Card,60,Female,Sunny,0,2.760028220116912,51-60,False
+442a7c7d-6e53-4bcd-94dd-5caab704cfa0,2024-09-09,September,Monday,Wine,Barefoot,2,72.6,0.09,145.2,13.07,132.13,Mobile Payment,52,Other,Cloudy,0,1.8199724517906337,51-60,False
+ab100202-56c4-4c36-a3f2-734a9cffb7f7,2025-03-31,March,Monday,Beer,Heineken,2,94.62,0.16,189.24,30.28,158.96,Debit Card,30,Other,Sunny,0,1.67998309025576,21-30,False
+2ca58292-4b90-46da-95c8-af25aa331447,2025-04-14,April,Monday,Brandy,Hennessy,1,63.67,0.2,63.67,12.73,50.94,Cash,44,Male,Cloudy,0,0.8000628239359195,41-50,False
+27f81146-2126-4944-b611-07141fce1cf7,2024-10-16,October,Wednesday,Wine,Sutter Home,6,59.03,0.2,354.18,70.84,283.34,Debit Card,26,Other,Sunny,0,4.799932237845163,21-30,False
+922c4302-c9dd-4025-8afe-f8405bce19fb,2024-10-03,October,Thursday,Brandy,E&J,5,75.24,0.0,376.2,0.0,376.2,Credit Card,38,Female,Snowy,0,5.0,31-40,False
+b08f3deb-b7aa-43c5-b377-2507e017dbc6,2025-04-04,April,Friday,Beer,Heineken,5,26.53,0.19,132.65,25.2,107.45,Mobile Payment,45,Male,Snowy,0,4.050131926121372,41-50,False
+522516cd-a64d-43fc-b964-e4282f2f2779,2025-04-20,April,Sunday,Tequila,Don Julio,1,79.08,0.08,79.08,6.33,72.75,Mobile Payment,51,Female,Sunny,0,0.9199544764795144,51-60,True
+01c798e6-38e6-46b6-bb7c-914746dbc03d,2024-10-27,October,Sunday,Whiskey,Jack Daniels,4,69.89,0.18,279.56,50.32,229.24,Credit Card,50,Male,Sunny,0,3.2800114465588783,41-50,True
+3c56e3e3-865c-4429-be39-f86f5d5d69e3,2025-01-20,January,Monday,Brandy,Hennessy,6,107.66,0.21,645.96,135.65,510.31,Mobile Payment,61,Male,Snowy,0,4.740014861601337,61-70,False
+430a4042-009b-4688-8aff-bb0c2f5efed1,2025-02-08,February,Saturday,Whiskey,Jameson,5,91.47,0.17,457.35,77.75,379.6,Debit Card,32,Other,Snowy,0,4.149994533726905,31-40,True
+927fc711-b03e-4b64-9b7c-4a4dd91af020,2025-01-19,January,Sunday,Vodka,Smirnoff,4,119.36,0.04,477.44,19.1,458.34,Cash,62,Female,Snowy,0,3.8399798927613937,61-70,True
+64b636d1-ee95-4cd4-b0ee-d49f560cb206,2025-03-01,March,Saturday,Brandy,Hennessy,6,98.02,0.07,588.12,41.17,546.95,Credit Card,60,Male,Snowy,0,5.579983676800653,51-60,True
+91b52190-b617-45e7-83b0-d6f71cb1a3aa,2025-03-08,March,Saturday,Brandy,Hennessy,1,43.35,0.06,43.35,2.6,40.75,Cash,65,Male,Cloudy,0,0.9400230680507496,61-70,True
+6bab4557-7f26-4015-b2ff-d7efe463306e,2024-09-25,September,Wednesday,Rum,Captain Morgan,6,106.72,0.08,640.32,51.23,589.09,Cash,42,Other,Sunny,0,5.519958770614693,41-50,False
+5f6ca21f-27c6-42a6-b8cf-40a6be64dc23,2024-06-01,June,Saturday,Gin,Bombay Sapphire,6,115.63,0.16,693.78,111.0,582.78,Mobile Payment,52,Male,Cloudy,0,5.040041511718412,51-60,True
+bb27c833-2cd3-4587-803b-57f9d4982372,2024-06-08,June,Saturday,Beer,Corona,3,99.06,0.01,297.18,2.97,294.21,Mobile Payment,55,Other,Sunny,0,2.970018170805572,51-60,True
+431cb123-3db3-4fdd-a18f-68dc5cb998ef,2025-02-12,February,Wednesday,Vodka,Grey Goose,5,89.44,0.16,447.2,71.55,375.65,Debit Card,50,Other,Rainy,0,4.20002236135957,41-50,False
+56d0150d-14fa-49fe-b26b-09568e01f44e,2024-11-09,November,Saturday,Gin,Beefeater,5,97.43,0.17,487.15,82.82,404.33,Mobile Payment,58,Other,Cloudy,1,4.149953812993944,51-60,True
+fd40540d-79f9-4e02-b691-b61ff50f51b9,2024-09-28,September,Saturday,Gin,Tanqueray,2,26.96,0.04,53.92,2.16,51.76,Cash,61,Female,Snowy,0,1.919881305637982,61-70,True
+f1fa3fd5-aaa7-4702-93d2-2aae794b72d5,2024-12-22,December,Sunday,Gin,Beefeater,2,95.67,0.23,191.34,44.01,147.33,Credit Card,25,Other,Cloudy,1,1.5399811853245533,21-30,True
+004bf7dd-06ba-4d2f-a460-a07d3bd6b81c,2024-10-24,October,Thursday,Gin,Beefeater,3,72.34,0.21,217.02,45.57,171.45,Mobile Payment,64,Female,Sunny,0,2.3700580591650535,61-70,False
+f763ec15-10ce-4d51-a2a5-e5c8e8edb113,2024-07-01,July,Monday,Gin,Beefeater,3,72.88,0.12,218.64,26.24,192.4,Debit Card,29,Male,Cloudy,1,2.6399560922063667,21-30,False
+a9972be0-7858-4696-b204-863cd225511d,2024-07-11,July,Thursday,Rum,Captain Morgan,2,115.72,0.06,231.44,13.89,217.55,Credit Card,32,Female,Sunny,1,1.8799688904251644,31-40,False
+99660698-fd2c-4868-a109-cf31b2989999,2024-06-25,June,Tuesday,Gin,Beefeater,4,105.43,0.18,421.72,75.91,345.81,Credit Card,44,Other,Rainy,0,3.2799962060134686,41-50,False
+f351d49d-1b23-4999-90a5-892913f8e9bd,2024-09-14,September,Saturday,Gin,Tanqueray,5,30.95,0.22,154.75,34.05,120.7,Mobile Payment,43,Male,Sunny,0,3.89983844911147,41-50,True
+99e4b4c7-e0f8-4eba-a154-5b7f9921124b,2025-04-11,April,Friday,Brandy,Paul Masson,5,11.3,0.09,56.5,5.08,51.41,Cash,56,Female,Sunny,0,4.5495575221238935,51-60,False
+c6d7fe6d-f59e-47c9-8d85-922d367cf32f,2024-09-08,September,Sunday,Wine,Sutter Home,4,93.25,0.08,373.0,29.84,343.16,Credit Card,64,Female,Cloudy,0,3.68,61-70,True
+47d0c7d0-abf5-4934-9b42-a1963e930b41,2025-04-01,April,Tuesday,Wine,Barefoot,2,12.91,0.05,25.82,1.29,24.53,Mobile Payment,26,Other,Cloudy,0,1.9000774593338499,21-30,False
+2b7d726f-8d36-4b47-bdfc-d03adc5514eb,2024-12-10,December,Tuesday,Vodka,Absolut,5,29.78,0.16,148.9,23.82,125.08,Debit Card,48,Male,Cloudy,1,4.200134318334452,41-50,False
+5afd6995-c43a-4db4-b82c-89384bec9540,2025-05-10,May,Saturday,Wine,Sutter Home,2,106.06,0.11,212.12,23.33,188.79,Credit Card,42,Other,Rainy,0,1.7800301716009805,41-50,True
+c345b6fe-a318-4615-8214-13d785a76aed,2024-07-28,July,Sunday,Whiskey,Chivas Regal,6,102.17,0.11,613.02,67.43,545.59,Mobile Payment,42,Other,Rainy,1,5.340021532739552,41-50,True
+ae647e21-f98f-4ba2-8285-08920d04d111,2025-01-28,January,Tuesday,Vodka,Smirnoff,4,17.11,0.06,68.44,4.11,64.33,Mobile Payment,33,Male,Cloudy,0,3.7597895967270603,31-40,False
+546b267b-4563-46a7-b8a1-68c169d4e461,2024-09-02,September,Monday,Brandy,Paul Masson,2,81.85,0.17,163.7,27.83,135.87,Mobile Payment,62,Male,Sunny,0,1.6599877825290166,61-70,False
+abbaa0b8-7c79-4190-80f5-ff8dfbac8f33,2024-07-20,July,Saturday,Beer,Budweiser,6,40.75,0.2,244.5,48.9,195.6,Mobile Payment,26,Female,Sunny,1,4.8,21-30,True
+4ff53e9a-26ca-48d4-868b-96652f05e98b,2025-04-17,April,Thursday,Vodka,Grey Goose,4,64.27,0.25,257.08,64.27,192.81,Debit Card,61,Male,Sunny,0,3.0,61-70,False
+f57f0320-8a7d-482a-85b5-1284768adf13,2024-08-16,August,Friday,Brandy,Paul Masson,3,97.87,0.17,293.61,49.91,243.7,Mobile Payment,54,Female,Sunny,0,2.4900378052518644,51-60,False
+4a160f7b-7ce0-4330-bbda-80cf91321472,2025-05-02,May,Friday,Wine,Yellow Tail,6,42.54,0.2,255.24,51.05,204.19,Debit Card,61,Female,Cloudy,0,4.799952985425482,61-70,False
+474d220d-7bc4-4a4e-bdc8-9247c0925fb6,2025-04-28,April,Monday,Rum,Captain Morgan,2,35.35,0.17,70.7,12.02,58.68,Debit Card,55,Male,Rainy,0,1.65997171145686,51-60,False
+25133fd5-0d4f-4a50-bc20-2316cc4c6d3b,2024-10-27,October,Sunday,Whiskey,Jack Daniels,2,46.54,0.02,93.08,1.86,91.22,Debit Card,25,Female,Sunny,0,1.9600343790287924,21-30,True
+df353c2d-4ebb-4a85-93e0-fa91037259d5,2025-03-25,March,Tuesday,Vodka,Grey Goose,5,72.51,0.08,362.55,29.0,333.55,Credit Card,41,Female,Snowy,0,4.600055164804854,41-50,False
+52b633a4-3e63-4b3b-8ca8-b9eecff8d909,2024-11-09,November,Saturday,Rum,Captain Morgan,3,59.34,0.14,178.02,24.92,153.1,Credit Card,21,Male,Sunny,1,2.5800471857094704,21-30,True
+e47c481f-7f5d-4d79-a63f-f01e4b86ec1a,2025-01-24,January,Friday,Rum,Bacardi,2,84.32,0.06,168.64,10.12,158.52,Mobile Payment,37,Other,Sunny,0,1.879981024667932,31-40,False
+34e7b16e-e2b0-47d5-9ab8-42e03af0e50f,2025-04-24,April,Thursday,Beer,Corona,2,63.97,0.12,127.94,15.35,112.59,Debit Card,28,Other,Cloudy,0,1.76004377051743,21-30,False
+a65fa7e3-1d2d-4797-9b98-d705faebd69a,2025-04-06,April,Sunday,Brandy,Hennessy,5,16.05,0.1,80.25,8.03,72.22,Credit Card,30,Female,Sunny,0,4.499688473520249,21-30,True
+b6c5f33b-6c98-4227-b9c2-41179acdb293,2024-11-10,November,Sunday,Beer,Corona,2,111.24,0.03,222.48,6.67,215.81,Cash,62,Other,Snowy,1,1.9400395541172242,61-70,True
+b7795fcf-5123-4b91-8906-f97da9db9891,2024-09-08,September,Sunday,Tequila,Patron,3,38.44,0.12,115.32,13.84,101.48,Debit Card,41,Other,Rainy,0,2.6399583766909474,41-50,True
+6823d9c8-6324-4317-9241-808f79ebeee5,2024-12-16,December,Monday,Vodka,Smirnoff,4,93.76,0.23,375.04,86.26,288.78,Debit Card,31,Female,Cloudy,1,3.079991467576791,31-40,False
+e5ace795-862e-4fb4-98b3-74df67b75474,2024-07-28,July,Sunday,Whiskey,Chivas Regal,4,99.21,0.14,396.84,55.56,341.28,Credit Card,26,Female,Snowy,1,3.4399758088902326,21-30,True
+a8981cfa-9bd8-4490-aa6c-6bc43957f9bc,2024-12-18,December,Wednesday,Whiskey,Jameson,5,67.59,0.02,337.95,6.76,331.19,Cash,46,Male,Snowy,1,4.899985204911969,41-50,False
+e30b4864-ce11-4808-bf6a-ec68868edf47,2024-09-01,September,Sunday,Rum,Bacardi,3,24.42,0.01,73.26,0.73,72.53,Cash,26,Male,Cloudy,0,2.97010647010647,21-30,True
+6252ea5f-935a-43fd-9238-0b46fe1ba142,2024-12-28,December,Saturday,Brandy,E&J,5,92.49,0.01,462.45,4.62,457.83,Cash,57,Female,Snowy,1,4.950048653908531,51-60,True
+2d9bfa74-a056-4ea8-ada7-15f213052b28,2025-04-02,April,Wednesday,Wine,Yellow Tail,6,30.23,0.01,181.38,1.81,179.57,Cash,39,Female,Snowy,0,5.940125702944095,31-40,False
+bd1b4e75-8558-449c-a4b5-0ad5e89cdc94,2024-11-07,November,Thursday,Rum,Malibu,3,52.73,0.1,158.19,15.82,142.37,Mobile Payment,44,Other,Cloudy,1,2.6999810354636833,41-50,False
+3b2f3f99-0495-4877-815f-3a74b035f6b5,2024-07-17,July,Wednesday,Brandy,E&J,5,53.13,0.02,265.65,5.31,260.34,Credit Card,35,Female,Sunny,1,4.900056465273856,31-40,False
+6d738c59-fffa-4d99-8f1a-2bd7531b5f20,2024-11-14,November,Thursday,Gin,Tanqueray,3,114.54,0.05,343.62,17.18,326.44,Credit Card,50,Male,Snowy,1,2.8500087305744715,41-50,False
+f76ad759-77bf-4267-8955-67c2bba694f3,2024-08-12,August,Monday,Beer,Budweiser,3,109.28,0.08,327.84,26.23,301.61,Credit Card,22,Male,Cloudy,0,2.7599743777452415,21-30,False
+3a6c5164-4741-4018-93c7-a1d583d47ab8,2025-05-21,May,Wednesday,Rum,Malibu,2,96.63,0.13,193.26,25.12,168.14,Cash,21,Female,Rainy,0,1.740039325261306,21-30,False
+2250b9d0-c833-4e7c-b090-c3f176d23efd,2024-07-29,July,Monday,Wine,Barefoot,3,60.22,0.03,180.66,5.42,175.24,Cash,23,Female,Sunny,1,2.909996678844238,21-30,False
+392f7b37-bf9d-409d-b116-bd9f26f7aab4,2024-06-14,June,Friday,Brandy,E&J,5,56.05,0.09,280.25,25.22,255.03,Credit Card,40,Other,Sunny,0,4.550044603033006,31-40,False
+fc01b894-6e50-4acf-9541-3f99649d0320,2024-11-19,November,Tuesday,Brandy,E&J,2,11.43,0.24,22.86,5.49,17.37,Cash,64,Other,Snowy,1,1.519685039370079,61-70,False
+efb4ef9e-e43e-490c-86b8-23300592f939,2024-11-18,November,Monday,Wine,Barefoot,3,88.95,0.2,266.85,53.37,213.48,Cash,47,Female,Rainy,1,2.4,41-50,False
+d754141b-6d39-44c1-addf-62b183af52a5,2025-01-05,January,Sunday,Rum,Captain Morgan,4,109.65,0.06,438.6,26.32,412.28,Mobile Payment,47,Male,Rainy,0,3.759963520291837,41-50,True
+dc06f86c-1500-422a-bdb6-b5860f69ba73,2025-02-11,February,Tuesday,Whiskey,Jack Daniels,3,93.8,0.18,281.4,50.65,230.75,Debit Card,34,Male,Snowy,0,2.4600213219616207,31-40,False
+c6e98d82-173a-4bb6-a8ed-258048c2a925,2025-04-27,April,Sunday,Brandy,Hennessy,4,46.6,0.23,186.4,42.87,143.53,Credit Card,63,Other,Sunny,0,3.0800429184549354,61-70,True
+e45a3890-a78b-4108-a0ae-17ac1b48fed7,2025-03-10,March,Monday,Rum,Captain Morgan,6,77.97,0.02,467.82,9.36,458.46,Debit Card,31,Female,Cloudy,0,5.879953828395537,31-40,False
+231676fd-6344-4500-bb16-84d448d00553,2025-01-22,January,Wednesday,Gin,Tanqueray,1,97.51,0.08,97.51,7.8,89.71,Credit Card,34,Female,Sunny,0,0.9200082042867397,31-40,False
+44eab94b-de66-49d3-83ec-670084afe820,2025-05-01,May,Thursday,Vodka,Absolut,2,77.73,0.12,155.46,18.66,136.8,Mobile Payment,61,Other,Cloudy,0,1.7599382477807797,61-70,False
+16badc40-9f41-478a-aab2-59fc7ce16d34,2025-01-03,January,Friday,Gin,Tanqueray,3,40.86,0.16,122.58,19.61,102.97,Debit Card,59,Male,Rainy,0,2.520068526676456,51-60,False
+677ef86b-3846-4d1b-b8ce-1bdc712f9fd7,2024-07-29,July,Monday,Wine,Barefoot,3,74.08,0.11,222.24,24.45,197.79,Cash,37,Male,Snowy,1,2.669951403887689,31-40,False
+10767f63-2250-4057-b6f9-e40593b515d9,2024-06-29,June,Saturday,Beer,Heineken,2,14.92,0.19,29.84,5.67,24.17,Credit Card,35,Other,Snowy,0,1.6199731903485255,31-40,True
+69ba8fa1-526d-4029-be30-88d53e563663,2024-09-02,September,Monday,Rum,Malibu,2,54.76,0.22,109.52,24.09,85.43,Mobile Payment,61,Other,Sunny,0,1.5600803506208913,61-70,False
+1dbf96e1-246b-451e-b063-d879c766a276,2024-09-06,September,Friday,Tequila,Patron,3,58.52,0.18,175.56,31.6,143.96,Mobile Payment,60,Other,Cloudy,0,2.460013670539986,51-60,False
+dff4e77f-c109-4501-ae85-40c5ad1c2a55,2025-03-17,March,Monday,Beer,Corona,4,53.85,0.12,215.4,25.85,189.55,Credit Card,43,Other,Cloudy,0,3.519962859795729,41-50,False
+f029fd73-1591-4d0e-8e63-84c2bdbddbdc,2024-10-02,October,Wednesday,Rum,Bacardi,3,111.59,0.13,334.77,43.52,291.25,Credit Card,49,Male,Rainy,0,2.6100008961376466,41-50,False
+c5968051-e44f-45f3-8628-eaa041dc3e14,2025-05-08,May,Thursday,Tequila,Patron,2,116.17,0.03,232.34,6.97,225.37,Mobile Payment,44,Male,Cloudy,0,1.9400017216148748,41-50,False
+21c0b4bb-99dd-4267-972e-16e783d314ad,2025-05-13,May,Tuesday,Vodka,Absolut,3,24.34,0.18,73.02,13.14,59.88,Credit Card,51,Male,Cloudy,0,2.4601479046836485,51-60,False
+e2602a86-f9be-4517-a50f-20fc1caf7751,2025-04-16,April,Wednesday,Vodka,Smirnoff,2,82.26,0.21,164.52,34.55,129.97,Debit Card,34,Other,Sunny,0,1.5799902747386334,31-40,False
+dfb133c9-def7-438a-a453-ef1e8ef3dc14,2025-04-26,April,Saturday,Rum,Captain Morgan,4,86.49,0.07,345.96,24.22,321.74,Mobile Payment,39,Other,Snowy,0,3.719967626315181,31-40,True
+3c4ad8b8-3dc3-4886-a5e8-1bb60cf69227,2025-01-25,January,Saturday,Beer,Budweiser,4,105.38,0.11,421.52,46.37,375.15,Mobile Payment,60,Female,Sunny,0,3.5599734294932626,51-60,True
+b4d66c28-9d37-4d67-be52-37da4fad56cf,2024-08-13,August,Tuesday,Tequila,Patron,5,38.79,0.22,193.95,42.67,151.28,Mobile Payment,54,Male,Rainy,0,3.899974220159835,51-60,False
+85a932a5-ee0d-4be3-a2a3-cfb6a6874ad4,2024-11-24,November,Sunday,Gin,Bombay Sapphire,5,66.63,0.25,333.15,83.29,249.86,Cash,46,Female,Cloudy,1,3.7499624793636506,41-50,True
+63c4ac4a-b793-47a7-9558-497ff21edaa2,2025-03-01,March,Saturday,Whiskey,Chivas Regal,1,29.52,0.1,29.52,2.95,26.57,Debit Card,65,Male,Cloudy,0,0.9000677506775068,61-70,True
+4adbc658-c7b4-4e6f-9c21-6582f0f02f98,2024-06-03,June,Monday,Tequila,Patron,4,99.1,0.16,396.4,63.42,332.98,Mobile Payment,21,Female,Cloudy,0,3.3600403632694253,21-30,False
+26c3030b-9ded-4875-8554-477bef18b516,2024-12-21,December,Saturday,Whiskey,Jack Daniels,3,98.59,0.23,295.77,68.03,227.74,Cash,46,Male,Sunny,1,2.309970585252054,41-50,True
+a7db1484-d9b1-4633-afb1-121da33b6f4f,2024-12-16,December,Monday,Whiskey,Jameson,6,101.71,0.17,610.26,103.74,506.52,Debit Card,65,Female,Snowy,1,4.980041293874742,61-70,False
+2e337f73-a7e3-4947-9d9d-31d1a36ee947,2024-10-15,October,Tuesday,Gin,Bombay Sapphire,1,11.28,0.1,11.28,1.13,10.15,Debit Card,50,Male,Sunny,0,0.8998226950354611,41-50,False
+646ef092-c214-4f06-94cd-f706ac3ae794,2025-01-27,January,Monday,Wine,Yellow Tail,2,34.45,0.17,68.9,11.71,57.19,Credit Card,28,Other,Rainy,0,1.660087082728592,21-30,False
+87811abf-ce56-4ef6-9e27-b71793f523f1,2024-12-29,December,Sunday,Wine,Yellow Tail,6,33.69,0.16,202.14,32.34,169.8,Credit Card,65,Female,Snowy,1,5.0400712377560115,61-70,True
+f73d68fd-76ed-4b31-8ba8-9a19fc92d315,2024-08-28,August,Wednesday,Tequila,Patron,5,76.13,0.22,380.65,83.74,296.91,Mobile Payment,57,Other,Rainy,0,3.9000394062787342,51-60,False
+ef953c02-21c7-4338-ba1c-3eec61c9b3e6,2024-12-04,December,Wednesday,Brandy,Hennessy,3,79.58,0.09,238.74,21.49,217.25,Mobile Payment,55,Other,Rainy,1,2.7299572756974113,51-60,False
+298d6808-9f7f-408c-87aa-cde8fb3e66c5,2024-11-08,November,Friday,Rum,Captain Morgan,2,83.23,0.09,166.46,14.98,151.48,Credit Card,26,Other,Cloudy,1,1.8200168208578635,21-30,False
+a5aad637-1f3d-4134-996e-10786c1b2529,2025-05-19,May,Monday,Vodka,Smirnoff,6,31.76,0.19,190.56,36.21,154.35,Credit Card,65,Female,Snowy,0,4.859886649874055,61-70,False
+265df061-52b5-43c5-8504-fd462baaa157,2024-06-23,June,Sunday,Vodka,Absolut,5,22.59,0.15,112.95,16.94,96.01,Debit Card,31,Other,Cloudy,0,4.250110668437362,31-40,True
+0f587d1b-c046-430b-b395-402f3244cc67,2024-06-07,June,Friday,Wine,Yellow Tail,2,112.92,0.2,225.84,45.17,180.67,Cash,42,Other,Sunny,0,1.5999822883457313,41-50,False
+3988f2f6-5bb9-4c0b-8d23-5b6c6ec92ddd,2024-09-15,September,Sunday,Rum,Bacardi,4,77.87,0.24,311.48,74.76,236.72,Credit Card,25,Other,Snowy,0,3.0399383588031332,21-30,True
+2161334f-e5a8-4c60-870e-182fe6fb4544,2024-06-15,June,Saturday,Brandy,Hennessy,4,36.1,0.05,144.4,7.22,137.18,Debit Card,47,Other,Rainy,0,3.8,41-50,True
+0bf12ab2-2366-4d95-a1f3-22923091a08e,2024-06-18,June,Tuesday,Vodka,Smirnoff,4,96.63,0.07,386.52,27.06,359.46,Cash,23,Female,Snowy,0,3.719962744489289,21-30,False
+d75b1039-2703-49e7-939f-e8496d849434,2024-09-02,September,Monday,Vodka,Grey Goose,5,43.52,0.24,217.6,52.22,165.38,Cash,22,Male,Snowy,0,3.8000919117647056,21-30,False
+bb4605e9-ba9e-451f-9b06-868abb3ffab0,2025-02-03,February,Monday,Whiskey,Jameson,2,111.95,0.21,223.9,47.02,176.88,Credit Card,47,Female,Cloudy,0,1.5799910674408217,41-50,False
+ab8747a2-de35-4821-8047-39c38ceb9267,2024-08-15,August,Thursday,Gin,Beefeater,3,118.76,0.13,356.28,46.32,309.96,Cash,49,Female,Cloudy,0,2.6099696867632196,41-50,False
+00e3af28-bd24-45f3-b80d-08b32f08dbe5,2024-12-19,December,Thursday,Beer,Heineken,2,109.56,0.22,219.12,48.21,170.91,Cash,49,Other,Sunny,1,1.5599671412924425,41-50,False
+980ff4e0-c591-4741-9ac2-b29ad48ee134,2025-02-03,February,Monday,Wine,Barefoot,1,84.01,0.21,84.01,17.64,66.37,Cash,26,Female,Rainy,0,0.7900249970241638,21-30,False
+024f88e6-15c4-42c7-bee7-b2f787544a5d,2025-02-06,February,Thursday,Tequila,Jose Cuervo,1,51.46,0.15,51.46,7.72,43.74,Cash,38,Other,Rainy,0,0.8499805674310144,31-40,False
+64c91f04-c899-4e4f-88de-ab2fd620fdb8,2024-08-24,August,Saturday,Vodka,Absolut,1,35.15,0.18,35.15,6.33,28.82,Mobile Payment,60,Other,Snowy,0,0.8199146514935989,51-60,True
+58505276-6ac0-40ca-8303-ea3c37993969,2025-05-13,May,Tuesday,Beer,Heineken,1,72.16,0.17,72.16,12.27,59.89,Debit Card,29,Other,Snowy,0,0.8299611973392461,21-30,False
+07a8c1d8-e2d1-49f1-9095-014aab16f9a9,2024-11-12,November,Tuesday,Rum,Malibu,5,84.39,0.07,421.95,29.54,392.41,Credit Card,64,Male,Sunny,1,4.649958525891694,61-70,False
+a09e0c43-e414-4bc3-8eca-33f2749eb941,2025-01-05,January,Sunday,Wine,Yellow Tail,5,36.49,0.07,182.45,12.77,169.68,Debit Card,25,Other,Rainy,0,4.650041107152645,21-30,True
+19a3ff49-e320-487e-b33a-854897b5ef6a,2025-04-29,April,Tuesday,Tequila,Patron,1,45.05,0.24,45.05,10.81,34.24,Cash,64,Other,Cloudy,0,0.7600443951165373,61-70,False
+285ed975-9f2f-4ae5-b680-11e95b11b610,2025-02-09,February,Sunday,Tequila,Jose Cuervo,2,38.98,0.11,77.96,8.58,69.38,Credit Card,22,Male,Snowy,0,1.779887121600821,21-30,True
+bc000e98-7e8e-4657-b650-179cd487cf46,2024-11-21,November,Thursday,Vodka,Grey Goose,6,50.71,0.09,304.26,27.38,276.88,Debit Card,44,Male,Rainy,1,5.460067047919543,41-50,False
+a7ab6ea7-4521-4e40-8f35-e7a79e6c2da5,2025-03-09,March,Sunday,Whiskey,Jack Daniels,4,115.37,0.25,461.48,115.37,346.11,Cash,29,Other,Snowy,0,3.0,21-30,True
+b553bbe6-508d-4bb0-aa16-cf5fc804db70,2024-06-17,June,Monday,Tequila,Don Julio,6,40.23,0.08,241.38,19.31,222.07,Cash,26,Male,Cloudy,0,5.520009942828735,21-30,False
+56660307-03ab-4a1f-a1bd-e718c1630a44,2025-05-18,May,Sunday,Whiskey,Jameson,1,28.39,0.24,28.39,6.81,21.58,Cash,38,Other,Rainy,0,0.7601268052131032,31-40,True
+74ce3ea7-93d3-4655-b4a3-b6b3415258e6,2025-01-20,January,Monday,Gin,Beefeater,1,24.93,0.01,24.93,0.25,24.68,Cash,56,Female,Rainy,0,0.9899719213798637,51-60,False
+31541c0f-3c04-4468-a026-dd48b2952459,2024-06-18,June,Tuesday,Whiskey,Jack Daniels,6,97.61,0.06,585.66,35.14,550.52,Debit Card,59,Other,Sunny,0,5.639995902059215,51-60,False
+6eb68e84-cf6f-493f-a83e-734f1898bb58,2024-10-26,October,Saturday,Gin,Tanqueray,3,36.86,0.22,110.58,24.33,86.25,Cash,45,Female,Sunny,0,2.3399348887683127,41-50,True
+a75fc56a-107e-4552-b0c6-53e22e80c2d0,2025-01-01,January,Wednesday,Whiskey,Jameson,4,46.95,0.24,187.8,45.07,142.73,Mobile Payment,34,Other,Sunny,0,3.040042598509052,31-40,False
+78d36fa6-33b0-472f-b25d-1a4ab142a926,2024-11-09,November,Saturday,Whiskey,Jameson,3,51.84,0.23,155.52,35.77,119.75,Credit Card,49,Female,Cloudy,1,2.309992283950617,41-50,True
+3285e175-69f0-4dd5-a0ca-0c3fc8821f7c,2024-12-24,December,Tuesday,Rum,Malibu,4,30.89,0.03,123.56,3.71,119.85,Credit Card,24,Male,Sunny,1,3.879896406604079,21-30,False
+6afd4e7f-912f-4784-88a9-34b6498d9364,2024-08-03,August,Saturday,Brandy,Paul Masson,6,49.78,0.24,298.68,71.68,227.0,Credit Card,60,Other,Rainy,0,4.5600642828445155,51-60,True
+f952c618-ccd5-4ee9-9001-0f9ba5095658,2024-11-20,November,Wednesday,Rum,Malibu,2,28.17,0.16,56.34,9.01,47.33,Cash,23,Female,Cloudy,1,1.680156194533191,21-30,False
+4640659c-9455-4b32-8d88-30ef05c54af7,2025-05-28,May,Wednesday,Tequila,Don Julio,6,118.05,0.23,708.3,162.91,545.39,Mobile Payment,43,Female,Rainy,0,4.61999152901313,41-50,False
+a7fd7c4c-595e-4a16-90ae-5f4f31898113,2025-05-10,May,Saturday,Wine,Sutter Home,4,24.33,0.17,97.32,16.54,80.78,Mobile Payment,34,Male,Sunny,0,3.320180846691328,31-40,True
+d4e60fa8-a887-42a6-8581-856d211b2f69,2024-09-15,September,Sunday,Tequila,Patron,4,48.0,0.03,192.0,5.76,186.24,Credit Card,34,Male,Sunny,0,3.8800000000000003,31-40,True
+5b9210ec-2d5d-471e-a982-efd5bd569ab9,2024-08-16,August,Friday,Vodka,Smirnoff,6,24.61,0.23,147.66,33.96,113.7,Mobile Payment,31,Female,Cloudy,0,4.620073140999594,31-40,False
+4f197a61-acf4-4de7-b880-dacf049d4f71,2024-10-21,October,Monday,Rum,Captain Morgan,2,68.92,0.13,137.84,17.92,119.92,Credit Card,55,Other,Sunny,0,1.7399883923389436,51-60,False
+22cc35f0-e8d1-4e6f-ab33-90304f352860,2024-08-31,August,Saturday,Vodka,Absolut,4,20.39,0.16,81.56,13.05,68.51,Credit Card,24,Female,Sunny,0,3.3599803825404613,21-30,True
+d8452a9d-4bed-40c2-8b6e-e87d4df2f0d7,2024-07-23,July,Tuesday,Rum,Bacardi,6,94.43,0.25,566.58,141.65,424.94,Debit Card,47,Female,Rainy,1,4.500052949274594,41-50,False
+77cedfd5-88c0-44ba-9484-50f66fbae290,2025-02-06,February,Thursday,Whiskey,Chivas Regal,3,13.26,0.2,39.78,7.96,31.82,Credit Card,41,Male,Rainy,0,2.3996983408748114,41-50,False
+4618f38f-45e4-4a8e-b59b-b07556d37e98,2025-03-30,March,Sunday,Beer,Heineken,4,26.96,0.21,107.84,22.65,85.19,Debit Card,26,Male,Sunny,0,3.1598664688427296,21-30,True
+658dc5d7-5b37-4182-abf5-8d51f0703199,2025-05-11,May,Sunday,Beer,Budweiser,2,19.87,0.23,39.74,9.14,30.6,Debit Card,43,Male,Rainy,0,1.5400100654252642,41-50,True
+f458890f-67d7-4865-82d5-e17c5122d3b8,2025-04-25,April,Friday,Wine,Sutter Home,6,16.08,0.17,96.48,16.4,80.08,Debit Card,51,Other,Cloudy,0,4.980099502487563,51-60,False
+f425bbc1-28ce-46ec-ba22-5958bfb334c6,2024-09-24,September,Tuesday,Vodka,Smirnoff,5,66.92,0.21,334.6,70.27,264.33,Credit Card,48,Other,Cloudy,0,3.9499402271368793,41-50,False
+8df84444-0b5e-47fe-a6e2-2db0a9719763,2024-09-29,September,Sunday,Gin,Bombay Sapphire,6,67.25,0.06,403.5,24.21,379.29,Debit Card,52,Female,Snowy,0,5.640000000000001,51-60,True
+a5b3080c-030b-41af-be8f-eea0dc24c0f1,2025-02-08,February,Saturday,Brandy,Paul Masson,2,118.05,0.18,236.1,42.5,193.6,Cash,60,Male,Rainy,0,1.63998305802626,51-60,True
+e3a3551c-b112-4bff-914b-b4d5b75d1e6b,2024-09-27,September,Friday,Rum,Bacardi,5,87.18,0.05,435.9,21.8,414.11,Mobile Payment,49,Female,Rainy,0,4.750057352603808,41-50,False
+ae571908-b2d4-4315-b4c0-cc1c035a4c1b,2024-08-27,August,Tuesday,Brandy,Paul Masson,5,59.3,0.19,296.5,56.34,240.16,Credit Card,49,Female,Rainy,0,4.04991568296796,41-50,False
+63b6e983-6f83-43cf-9c1a-ab8c80972100,2025-03-27,March,Thursday,Brandy,E&J,1,40.54,0.0,40.54,0.0,40.54,Credit Card,29,Female,Sunny,0,1.0,21-30,False
+6e389791-8fdb-4cfe-a78e-504de812dd57,2025-01-15,January,Wednesday,Wine,Sutter Home,4,97.24,0.03,388.96,11.67,377.29,Mobile Payment,32,Other,Cloudy,0,3.8799876593994247,31-40,False
+5fe2948c-511e-46a5-b5b1-2b321f46c3ed,2024-09-01,September,Sunday,Gin,Tanqueray,1,30.69,0.09,30.69,2.76,27.93,Credit Card,37,Female,Cloudy,0,0.9100684261974584,31-40,True
+76bfde84-a51c-45aa-b17b-1001ba56dc50,2025-01-06,January,Monday,Gin,Beefeater,4,10.62,0.18,42.48,7.65,34.83,Credit Card,62,Male,Snowy,0,3.2796610169491527,61-70,False
+9eec591f-2047-4f60-8556-01bee4a50bb0,2024-06-08,June,Saturday,Wine,Sutter Home,1,28.71,0.15,28.71,4.31,24.4,Cash,56,Male,Cloudy,0,0.8498780912574015,51-60,True
+c1173efa-25fe-47da-8081-3c5b57819212,2025-04-13,April,Sunday,Brandy,E&J,5,104.83,0.17,524.15,89.11,435.04,Debit Card,57,Male,Snowy,0,4.149957073356863,51-60,True
+3082e1ca-fb29-42f0-b1fd-38a93f6644db,2024-12-16,December,Monday,Gin,Bombay Sapphire,3,26.39,0.24,79.17,19.0,60.17,Mobile Payment,61,Male,Sunny,1,2.2800303145130734,61-70,False
+84bac79f-3467-4d50-a082-5b6370ca09d1,2024-12-20,December,Friday,Gin,Tanqueray,2,65.01,0.18,130.02,23.4,106.62,Cash,65,Male,Snowy,1,1.6400553760959853,61-70,False
+4a455f97-234c-4c3d-996f-d169eea15a86,2024-08-16,August,Friday,Beer,Heineken,4,117.07,0.1,468.28,46.83,421.45,Mobile Payment,36,Male,Cloudy,0,3.5999829162039805,31-40,False
+0c0e02c8-c063-4b85-a94e-6b10b7f70ff2,2025-01-19,January,Sunday,Beer,Corona,3,96.11,0.21,288.33,60.55,227.78,Debit Card,28,Other,Sunny,0,2.3699927166788055,21-30,True
+7a10f979-4bf3-4c5f-bdfa-a31d354bb532,2025-04-12,April,Saturday,Beer,Heineken,3,119.21,0.13,357.63,46.49,311.14,Cash,42,Other,Snowy,0,2.6100159382602133,41-50,True
+dd6eb77c-7739-4a3e-8671-fc5bb45da765,2025-03-02,March,Sunday,Tequila,Jose Cuervo,4,86.5,0.01,346.0,3.46,342.54,Credit Card,36,Male,Rainy,0,3.9600000000000004,31-40,True
+1db0d83c-fc00-4bd8-a171-b40558854e79,2024-09-19,September,Thursday,Rum,Malibu,5,46.21,0.25,231.05,57.76,173.29,Debit Card,41,Female,Snowy,0,3.7500541008439727,41-50,False
+89f70e30-6725-4cd3-8dd3-a140ba6b911b,2025-05-23,May,Friday,Beer,Heineken,2,95.9,0.03,191.8,5.75,186.05,Cash,34,Female,Rainy,0,1.9400417101147027,31-40,False
+5d39bfdc-f5d1-4083-8791-e093be2ae21c,2024-06-27,June,Thursday,Brandy,Hennessy,6,40.0,0.1,240.0,24.0,216.0,Mobile Payment,33,Male,Snowy,0,5.4,31-40,False
+81507420-5717-4d40-9591-08f6e5d89426,2025-05-27,May,Tuesday,Beer,Corona,3,15.1,0.01,45.3,0.45,44.85,Mobile Payment,46,Male,Sunny,0,2.9701986754966887,41-50,False
+c4910122-7acb-482c-acc2-713357692c42,2025-01-23,January,Thursday,Tequila,Don Julio,4,16.98,0.22,67.92,14.94,52.98,Mobile Payment,41,Female,Sunny,0,3.1201413427561833,41-50,False
+4653126a-22bd-469d-b199-80dd27c91f6f,2025-05-14,May,Wednesday,Brandy,E&J,3,61.79,0.05,185.37,9.27,176.1,Cash,27,Male,Cloudy,0,2.849975724227221,21-30,False
+a6a37993-e3a2-4071-82c1-eb7ec80631fb,2024-06-21,June,Friday,Whiskey,Jack Daniels,4,79.58,0.15,318.32,47.75,270.57,Debit Card,60,Male,Cloudy,0,3.399974868057301,51-60,False
+53414c97-88bb-4216-88fc-d0c0060d7323,2025-04-23,April,Wednesday,Vodka,Absolut,6,39.64,0.03,237.84,7.14,230.7,Credit Card,31,Female,Rainy,0,5.819878910191725,31-40,False
+c6fef438-8a83-47ed-8c60-f57ef672e6ba,2024-08-16,August,Friday,Whiskey,Jameson,1,91.59,0.2,91.59,18.32,73.27,Mobile Payment,48,Female,Rainy,0,0.7999781635549732,41-50,False
+096c899f-a554-4578-905b-ecbecd25a8f8,2024-08-12,August,Monday,Gin,Bombay Sapphire,4,85.42,0.19,341.68,64.92,276.76,Mobile Payment,65,Male,Rainy,0,3.2399906345118237,61-70,False
+a310c319-7ada-4888-9ee7-0141768785b0,2024-08-24,August,Saturday,Brandy,E&J,3,111.19,0.24,333.57,80.06,253.51,Mobile Payment,25,Female,Sunny,0,2.279971220433492,21-30,True
+4a9ad084-29e5-4f56-9d88-78cad24b3378,2024-09-04,September,Wednesday,Tequila,Don Julio,2,90.66,0.22,181.32,39.89,141.43,Mobile Payment,43,Other,Rainy,0,1.5600044120891243,41-50,False
+d62a81e4-3eeb-4f61-a06a-f0624ddff208,2024-12-29,December,Sunday,Tequila,Patron,1,51.38,0.08,51.38,4.11,47.27,Mobile Payment,24,Female,Cloudy,1,0.9200077851304009,21-30,True
+4cb9f791-60ea-40bc-a3f2-1dd20601b6be,2024-12-04,December,Wednesday,Gin,Beefeater,3,84.18,0.06,252.54,15.15,237.39,Credit Card,62,Other,Sunny,1,2.8200285103349962,61-70,False
+f315a401-b7d6-4624-b6b5-504fe39c3517,2024-09-16,September,Monday,Vodka,Absolut,4,66.96,0.21,267.84,56.25,211.59,Mobile Payment,65,Other,Rainy,0,3.15994623655914,61-70,False
+3f8aad7e-a834-46c3-95c3-aac8df9baff3,2024-11-26,November,Tuesday,Beer,Corona,1,50.68,0.23,50.68,11.66,39.02,Mobile Payment,27,Female,Sunny,1,0.7699289660615628,21-30,False
+8df66760-951a-44fe-a68c-a872b0f05b5b,2024-11-19,November,Tuesday,Wine,Barefoot,3,28.06,0.08,84.18,6.73,77.45,Mobile Payment,36,Female,Snowy,1,2.7601568068424807,31-40,False
+f61d1837-74d2-4658-884d-93afca44ad1f,2024-07-05,July,Friday,Gin,Bombay Sapphire,1,105.2,0.09,105.2,9.47,95.73,Mobile Payment,48,Female,Cloudy,1,0.9099809885931559,41-50,False
+bd12994f-2211-496c-bac7-cf00a3dbb808,2025-05-10,May,Saturday,Tequila,Patron,5,25.31,0.23,126.55,29.11,97.44,Cash,58,Other,Rainy,0,3.849861714737258,51-60,True
+ddaf7958-5431-4c49-9b83-7f2aae5c0a59,2024-06-18,June,Tuesday,Vodka,Smirnoff,5,47.2,0.14,236.0,33.04,202.96,Cash,39,Female,Rainy,0,4.3,31-40,False
+9ffaf07f-0b84-43fd-aba3-df6bca94c2a2,2024-06-15,June,Saturday,Beer,Corona,3,44.15,0.2,132.45,26.49,105.96,Cash,60,Female,Cloudy,0,2.4,51-60,True
+325bbd22-4711-47d4-8875-3694f94eac1d,2024-08-21,August,Wednesday,Gin,Bombay Sapphire,6,117.04,0.13,702.24,91.29,610.95,Credit Card,57,Other,Rainy,0,5.22001025290499,51-60,False
+575c1caf-96dd-446c-ac0f-dd540d48c419,2025-04-27,April,Sunday,Rum,Malibu,6,111.34,0.19,668.04,126.93,541.11,Mobile Payment,59,Female,Cloudy,0,4.859978444404526,51-60,True
+22abd4a2-4e9d-4d9b-8ef1-74d1073fee49,2024-07-30,July,Tuesday,Brandy,Hennessy,5,31.6,0.09,158.0,14.22,143.78,Debit Card,51,Male,Cloudy,1,4.55,51-60,False
+45370acc-c8e2-4b03-9bcf-b4d8f81fb9cb,2025-03-11,March,Tuesday,Brandy,Paul Masson,6,78.54,0.04,471.24,18.85,452.39,Debit Card,46,Other,Cloudy,0,5.75999490705373,41-50,False
+b902b3d0-ad80-4eb9-9da2-36723ecab7c9,2024-08-28,August,Wednesday,Rum,Captain Morgan,3,27.05,0.21,81.15,17.04,64.11,Mobile Payment,43,Female,Rainy,0,2.370055452865065,41-50,False
+3e99124e-e8d8-42ed-b523-83f417ac620b,2024-12-11,December,Wednesday,Whiskey,Jameson,3,18.95,0.06,56.85,3.41,53.44,Credit Card,26,Male,Sunny,1,2.820052770448549,21-30,False
+343e6565-c415-4340-bc8e-22c39d819df0,2025-02-23,February,Sunday,Beer,Corona,2,102.76,0.03,205.52,6.17,199.35,Cash,35,Female,Sunny,0,1.9399571817827947,31-40,True
+1e8f0daf-2312-4fa6-be2a-d298189725fc,2024-07-26,July,Friday,Tequila,Jose Cuervo,5,49.07,0.1,245.35,24.54,220.81,Debit Card,27,Male,Snowy,1,4.499898104748318,21-30,False
+0bd30883-a638-484e-868d-502a6b14583e,2025-03-28,March,Friday,Beer,Corona,4,37.82,0.18,151.28,27.23,124.05,Mobile Payment,46,Female,Rainy,0,3.2800105764145955,41-50,False
+f187bbac-a34a-4b80-b037-7dea7af9bf9d,2024-10-03,October,Thursday,Wine,Yellow Tail,4,97.82,0.22,391.28,86.08,305.2,Mobile Payment,60,Other,Cloudy,0,3.120016356573298,51-60,False
+b725692f-2c84-4071-9453-e2e25495d97a,2024-06-01,June,Saturday,Gin,Tanqueray,3,36.07,0.13,108.21,14.07,94.14,Debit Card,23,Other,Cloudy,0,2.609925145550319,21-30,True
+f733a383-5ade-4ea9-b6ff-a2e71d92a28d,2024-06-28,June,Friday,Brandy,Hennessy,1,94.64,0.2,94.64,18.93,75.71,Credit Card,41,Female,Sunny,0,0.7999788672865595,41-50,False
+d44ad783-dd01-4cec-8076-d8fa841dbd06,2024-08-18,August,Sunday,Tequila,Jose Cuervo,4,102.94,0.04,411.76,16.47,395.29,Mobile Payment,25,Female,Rainy,0,3.8400038857586947,21-30,True
+1dcd1d39-59f2-4ac4-b8e6-d21f48ac14fe,2024-12-13,December,Friday,Whiskey,Chivas Regal,5,43.97,0.19,219.85,41.77,178.08,Debit Card,46,Other,Sunny,1,4.050034114168752,41-50,False
+4cce546f-5ec5-4434-99c1-2b6089d5e663,2025-02-13,February,Thursday,Whiskey,Jack Daniels,6,77.26,0.0,463.56,0.0,463.56,Debit Card,32,Male,Cloudy,0,6.0,31-40,False
+6a47d5b5-34bc-4f34-84ab-4640e5d8434f,2024-09-02,September,Monday,Brandy,Paul Masson,3,57.21,0.23,171.63,39.47,132.16,Debit Card,64,Male,Snowy,0,2.3100856493619997,61-70,False
+5d86bd46-a5be-45d7-8df3-82789846f5e7,2024-06-06,June,Thursday,Beer,Corona,3,76.26,0.22,228.78,50.33,178.45,Credit Card,34,Other,Sunny,0,2.3400209808549697,31-40,False
+0d4fa2c3-d5c3-4a8c-baf9-3cee56aaa29b,2025-02-19,February,Wednesday,Tequila,Don Julio,1,76.08,0.08,76.08,6.09,69.99,Mobile Payment,44,Other,Snowy,0,0.9199526813880126,41-50,False
+c4d02c82-0000-4bbf-acad-85b9c4c84cac,2024-10-29,October,Tuesday,Tequila,Don Julio,5,82.86,0.03,414.3,12.43,401.87,Debit Card,39,Female,Snowy,0,4.84998793145064,31-40,False
+15d912ab-8fe6-4879-8eb6-e4412d97c252,2025-03-21,March,Friday,Wine,Sutter Home,3,76.91,0.21,230.73,48.45,182.28,Mobile Payment,48,Other,Cloudy,0,2.37004290729424,41-50,False
+983bc1de-abd3-4285-8337-9dc77caaa5b0,2025-02-06,February,Thursday,Whiskey,Chivas Regal,5,74.7,0.11,373.5,41.09,332.42,Cash,44,Female,Sunny,0,4.450066934404284,41-50,False
+bbf2a23a-8434-4d1c-963f-fa5e0f57fce8,2024-06-09,June,Sunday,Beer,Corona,5,62.08,0.09,310.4,27.94,282.46,Cash,46,Female,Sunny,0,4.549935567010309,41-50,True
+843862e3-51fc-43bd-8da9-21685cd0234a,2024-07-06,July,Saturday,Beer,Heineken,1,33.59,0.05,33.59,1.68,31.91,Mobile Payment,40,Female,Rainy,1,0.9499851146174456,31-40,True
+6160955e-bede-40a3-9072-9f1c41432979,2024-12-25,December,Wednesday,Brandy,Hennessy,5,103.92,0.2,519.6,103.92,415.68,Debit Card,47,Female,Cloudy,1,4.0,41-50,False
+8da1d8e0-fb08-49c1-9921-95166fa6f033,2025-01-29,January,Wednesday,Wine,Barefoot,2,74.42,0.07,148.84,10.42,138.42,Debit Card,31,Other,Sunny,0,1.8599838753023379,31-40,False
+69a02167-fbf4-40c1-b145-78dd475e03e5,2025-02-23,February,Sunday,Tequila,Patron,4,53.27,0.08,213.08,17.05,196.03,Credit Card,57,Male,Sunny,0,3.679932419748451,51-60,True
+affb7c16-5b73-46ac-a49e-d80003ccb4f8,2024-11-05,November,Tuesday,Whiskey,Chivas Regal,4,67.56,0.08,270.24,21.62,248.62,Debit Card,50,Other,Snowy,1,3.6799881586737713,41-50,False
+e4905d1d-83fe-44fa-883e-73e18f0da07f,2025-02-26,February,Wednesday,Rum,Bacardi,3,36.21,0.0,108.63,0.0,108.63,Mobile Payment,55,Male,Snowy,0,3.0,51-60,False
+f5636560-d82f-46f1-a987-6af1aabe625d,2024-10-08,October,Tuesday,Beer,Heineken,3,86.11,0.02,258.33,5.17,253.16,Mobile Payment,27,Male,Rainy,0,2.9399605156195565,21-30,False
+a5e8e675-9e9f-495d-98d0-9177bd11c49c,2025-05-02,May,Friday,Vodka,Absolut,3,108.31,0.23,324.93,74.73,250.2,Mobile Payment,45,Female,Rainy,0,2.3100360077555164,41-50,False
+649bb45d-7bb8-46ca-a7cf-2b5583ed076a,2025-04-24,April,Thursday,Beer,Budweiser,1,104.27,0.16,104.27,16.68,87.59,Debit Card,62,Female,Snowy,0,0.8400306895559605,61-70,False
+5c7e0242-cb6c-45aa-9f41-86d39013282c,2024-07-18,July,Thursday,Brandy,Paul Masson,2,61.93,0.02,123.86,2.48,121.38,Credit Card,61,Female,Snowy,1,1.959954787663491,61-70,False
+b8cba55f-c855-4c34-9031-2a19b8f080a3,2025-02-01,February,Saturday,Wine,Barefoot,2,112.01,0.09,224.02,20.16,203.86,Credit Card,49,Female,Cloudy,0,1.8200160699937507,41-50,True
+d8991607-3f3e-47cb-953d-9738e4c1e35c,2024-11-06,November,Wednesday,Whiskey,Jack Daniels,3,117.98,0.2,353.94,70.79,283.15,Mobile Payment,60,Male,Cloudy,1,2.399983047974233,51-60,False
+9e60ed93-64ca-493c-bd29-6b8cee4e3a6a,2025-05-08,May,Thursday,Rum,Captain Morgan,6,93.32,0.18,559.92,100.79,459.13,Cash,28,Male,Snowy,0,4.919952850407201,21-30,False
+0c47ed2f-7a6d-482a-92db-9646f4ef8eb7,2025-05-01,May,Thursday,Whiskey,Jack Daniels,1,37.68,0.15,37.68,5.65,32.03,Debit Card,65,Female,Sunny,0,0.8500530785562633,61-70,False
+678418d8-ee9f-4949-bcb8-f8286a7effdd,2024-07-11,July,Thursday,Whiskey,Chivas Regal,1,42.45,0.01,42.45,0.42,42.03,Cash,39,Male,Sunny,1,0.9901060070671378,31-40,False
+e8b63f7b-157a-43d7-bf94-38da8a664bd3,2024-08-19,August,Monday,Rum,Captain Morgan,5,85.62,0.06,428.1,25.69,402.41,Credit Card,40,Other,Snowy,0,4.699953281943471,31-40,False
+a7288909-f65e-4758-962f-9881a55194c2,2024-06-26,June,Wednesday,Tequila,Patron,1,31.16,0.05,31.16,1.56,29.6,Mobile Payment,60,Other,Cloudy,0,0.9499358151476252,51-60,False
+1907eb6e-904a-429e-ad59-fb07c89503de,2024-06-08,June,Saturday,Vodka,Grey Goose,3,72.01,0.05,216.03,10.8,205.23,Mobile Payment,41,Other,Snowy,0,2.8500208304402164,41-50,True
+3fa064ad-b743-4c9a-8e92-70763f7cda64,2025-05-23,May,Friday,Wine,Barefoot,2,107.44,0.24,214.88,51.57,163.31,Mobile Payment,58,Male,Snowy,0,1.520011169024572,51-60,False
+df9ff777-b610-45c4-9735-a4f9ebd7d77a,2025-02-19,February,Wednesday,Rum,Malibu,6,93.45,0.06,560.7,33.64,527.06,Cash,24,Other,Sunny,0,5.640021401819154,21-30,False
+42b8484a-f6d3-4603-857d-05346a27393d,2025-05-20,May,Tuesday,Wine,Yellow Tail,1,85.47,0.1,85.47,8.55,76.92,Cash,39,Female,Cloudy,0,0.8999648999649,31-40,False
+bd1a8278-fb17-433e-86eb-f133e7c18581,2024-10-29,October,Tuesday,Brandy,Hennessy,3,14.66,0.07,43.98,3.08,40.9,Mobile Payment,57,Male,Sunny,0,2.7899045020463844,51-60,False
+36a2cbd8-a295-44f5-b75a-2a1d6153f339,2024-08-19,August,Monday,Whiskey,Jack Daniels,6,110.14,0.15,660.84,99.13,561.71,Debit Card,65,Male,Rainy,0,5.0999636825858,61-70,False
+d0c7a8df-04b2-475b-96d4-4e72c34e32f3,2024-07-09,July,Tuesday,Wine,Barefoot,2,89.99,0.15,179.98,27.0,152.98,Credit Card,34,Female,Cloudy,1,1.6999666629625514,31-40,False
+1368dfaf-6dfc-4ce2-92ba-188e8b436225,2025-01-12,January,Sunday,Whiskey,Jack Daniels,2,103.5,0.16,207.0,33.12,173.88,Debit Card,61,Female,Snowy,0,1.68,61-70,True
+688bc1b7-c736-4d9e-aaa8-36618bd14a2b,2025-04-13,April,Sunday,Vodka,Grey Goose,2,50.77,0.13,101.54,13.2,88.34,Debit Card,45,Male,Sunny,0,1.7400039393342526,41-50,True
+3c5dedc9-b903-4037-91e6-9af6bcb80ae1,2025-05-30,May,Friday,Rum,Captain Morgan,3,119.73,0.0,359.19,0.0,359.19,Credit Card,31,Male,Rainy,0,3.0,31-40,False
+688f495c-4915-4e22-9bb0-e9237b59228f,2024-08-09,August,Friday,Vodka,Grey Goose,2,47.05,0.03,94.1,2.82,91.28,Mobile Payment,45,Male,Rainy,0,1.9400637619553667,41-50,False
+1d76362f-e8d4-4d39-a9d6-a6237c927597,2024-11-08,November,Friday,Rum,Captain Morgan,3,64.72,0.05,194.16,9.71,184.45,Credit Card,45,Female,Snowy,1,2.8499690976514214,41-50,False
+00d73983-7bf9-4917-8363-1f8e7bb18dd4,2024-06-07,June,Friday,Vodka,Smirnoff,4,35.29,0.12,141.16,16.94,124.22,Debit Card,55,Other,Sunny,0,3.5199773306885804,51-60,False
+80aeccf1-1358-4694-8fea-7306fe3ee4a0,2024-09-06,September,Friday,Beer,Heineken,3,18.31,0.23,54.93,12.63,42.3,Debit Card,22,Male,Sunny,0,2.310212998361551,21-30,False
+1c767f7b-594a-4308-8578-79064be12e9a,2024-07-24,July,Wednesday,Vodka,Grey Goose,2,18.26,0.03,36.52,1.1,35.42,Mobile Payment,24,Male,Sunny,1,1.9397590361445782,21-30,False
+df9937f7-a47f-40cf-969b-4595412622e2,2024-09-17,September,Tuesday,Tequila,Jose Cuervo,2,24.26,0.08,48.52,3.88,44.64,Debit Card,58,Male,Sunny,0,1.840065952184666,51-60,False
+97bdfe2e-6c9b-40fb-b908-d3d3d34a093c,2025-03-20,March,Thursday,Wine,Barefoot,5,101.38,0.06,506.9,30.41,476.49,Mobile Payment,54,Male,Snowy,0,4.700039455513909,51-60,False
+06f29f7f-1e67-42d6-89b5-d8a77c9596ff,2024-07-25,July,Thursday,Rum,Bacardi,5,76.45,0.21,382.25,80.27,301.98,Mobile Payment,59,Other,Snowy,1,3.9500327011118377,51-60,False
+7f442d3e-1bac-46c0-9006-32971aa3c17b,2025-03-20,March,Thursday,Rum,Malibu,2,46.06,0.24,92.12,22.11,70.01,Credit Card,64,Other,Cloudy,0,1.5199739470256188,61-70,False
+e34904a6-f4c0-413e-819d-a5c6504bfd3f,2024-07-28,July,Sunday,Rum,Captain Morgan,4,63.27,0.24,253.08,60.74,192.34,Credit Card,55,Male,Rainy,1,3.0399873557768293,51-60,True
+dcb3e1cd-f368-4035-8075-613595258c91,2024-10-19,October,Saturday,Vodka,Grey Goose,2,86.6,0.19,173.2,32.91,140.29,Cash,42,Male,Snowy,0,1.6199769053117783,41-50,True
+31f8bb7e-db51-483a-933d-6d1b916d7803,2025-02-20,February,Thursday,Whiskey,Jack Daniels,2,13.14,0.18,26.28,4.73,21.55,Credit Card,50,Other,Snowy,0,1.6400304414003044,41-50,False
+26dc85f4-64bc-45b4-aa41-bc28293d4d69,2025-01-21,January,Tuesday,Whiskey,Jack Daniels,3,115.14,0.1,345.42,34.54,310.88,Debit Card,21,Female,Cloudy,0,2.7000173701580685,21-30,False
+c8658e8d-af63-40d7-8c09-4a0c57ea46b3,2024-11-07,November,Thursday,Beer,Corona,1,29.28,0.19,29.28,5.56,23.72,Credit Card,26,Male,Sunny,1,0.8101092896174863,21-30,False
+af6a80b1-ff3a-40cd-9c79-043e8be3ec65,2024-07-12,July,Friday,Whiskey,Chivas Regal,6,14.76,0.18,88.56,15.94,72.62,Cash,53,Male,Snowy,1,4.920054200542006,51-60,False
+24df5474-93d8-4ed7-9881-c2d9dfca648a,2024-06-25,June,Tuesday,Vodka,Absolut,3,104.17,0.2,312.51,62.5,250.01,Mobile Payment,50,Female,Sunny,0,2.4000191993856195,41-50,False
+6491c8d6-77bf-4b14-b28a-4109d3edf484,2024-11-10,November,Sunday,Whiskey,Chivas Regal,5,72.9,0.19,364.5,69.25,295.25,Cash,52,Male,Rainy,1,4.050068587105624,51-60,True
+0f0a4376-ba7a-4f3d-aff2-fb7ecfecf27a,2025-05-02,May,Friday,Gin,Bombay Sapphire,2,79.46,0.19,158.92,30.19,128.73,Debit Card,60,Male,Snowy,0,1.6200604077523282,51-60,False
+36bbcb28-822e-433f-b31c-888355812bdc,2024-11-11,November,Monday,Brandy,Paul Masson,3,40.57,0.17,121.71,20.69,101.02,Credit Card,34,Male,Snowy,1,2.4900172541286665,31-40,False
+f69c9c13-20cb-4c0f-86cc-0f4e86c66cc7,2025-03-29,March,Saturday,Brandy,E&J,2,108.69,0.07,217.38,15.22,202.16,Credit Card,28,Male,Rainy,0,1.8599687183733553,21-30,True
+f82556d8-bd0f-4d2d-9b9d-7acdc9c87cdd,2025-02-13,February,Thursday,Beer,Budweiser,1,89.0,0.05,89.0,4.45,84.55,Mobile Payment,30,Male,Snowy,0,0.95,21-30,False
+6de61002-4034-4065-a52f-1d05b41be5f7,2024-12-16,December,Monday,Beer,Budweiser,5,98.54,0.08,492.7,39.42,453.28,Mobile Payment,54,Other,Cloudy,1,4.59995940734727,51-60,False
+cd3f585c-6807-4eaf-a32a-2e5da7a56953,2025-03-30,March,Sunday,Tequila,Jose Cuervo,6,53.82,0.03,322.92,9.69,313.23,Debit Card,28,Other,Rainy,0,5.819955406911929,21-30,True
+6904a66b-056e-4e65-bed6-afba8df2cdac,2024-11-24,November,Sunday,Gin,Bombay Sapphire,4,56.1,0.23,224.4,51.61,172.79,Credit Card,38,Other,Rainy,1,3.0800356506238855,31-40,True
+72db3ce0-5392-4098-8e62-1d2602cb1074,2025-03-23,March,Sunday,Tequila,Jose Cuervo,4,39.8,0.22,159.2,35.02,124.18,Credit Card,37,Male,Rainy,0,3.120100502512563,31-40,True
+3eed0629-3c0d-408a-9289-ab52c1f288ab,2025-03-29,March,Saturday,Gin,Bombay Sapphire,6,72.9,0.13,437.4,56.86,380.54,Cash,60,Female,Rainy,0,5.220027434842249,51-60,True
+cd300481-a4c0-45b0-8c4a-11cec6d482b8,2025-04-14,April,Monday,Whiskey,Chivas Regal,5,42.81,0.08,214.05,17.12,196.93,Credit Card,34,Male,Snowy,0,4.600093436113058,31-40,False
+0382e519-ad18-4814-88af-4a44c28baea4,2024-06-19,June,Wednesday,Tequila,Patron,3,13.61,0.17,40.83,6.94,33.89,Debit Card,57,Male,Sunny,0,2.4900808229243205,51-60,False
+1d96c12e-269f-4550-b267-514ed9fc32c7,2024-07-16,July,Tuesday,Wine,Yellow Tail,1,103.07,0.15,103.07,15.46,87.61,Credit Card,38,Other,Rainy,1,0.850004851072087,31-40,False
+2164916b-ab88-4174-9bb0-d90a9c277f45,2024-09-25,September,Wednesday,Vodka,Grey Goose,1,32.54,0.13,32.54,4.23,28.31,Debit Card,50,Male,Snowy,0,0.8700061462814996,41-50,False
+7fad157a-7366-4eac-80ec-b1ea239da433,2024-10-21,October,Monday,Wine,Sutter Home,2,62.35,0.05,124.7,6.24,118.47,Cash,26,Male,Rainy,0,1.9000801924619086,21-30,False
+ed0cfd90-0da4-4ccd-9ddb-1d9babbe31f9,2024-08-05,August,Monday,Tequila,Patron,5,11.7,0.12,58.5,7.02,51.48,Cash,42,Male,Sunny,0,4.4,41-50,False
+f54dc225-04b3-4f3e-932a-52520e8dedf8,2025-03-13,March,Thursday,Wine,Yellow Tail,5,13.11,0.17,65.55,11.14,54.41,Mobile Payment,48,Female,Snowy,0,4.1502669717772696,41-50,False
+ce33a46c-bf8d-48fc-9480-ff3ffc5c1b39,2025-04-04,April,Friday,Vodka,Absolut,4,118.38,0.14,473.52,66.29,407.23,Debit Card,24,Other,Cloudy,0,3.440023652644028,21-30,False
+aac26599-54c3-4f25-af45-e69c0cc26ab8,2025-02-04,February,Tuesday,Beer,Budweiser,5,38.32,0.03,191.6,5.75,185.85,Credit Card,53,Other,Rainy,0,4.849947807933194,51-60,False
+de6c9c6c-e36e-4946-b4e2-8dfa2ac8168f,2025-03-08,March,Saturday,Gin,Bombay Sapphire,5,14.24,0.18,71.2,12.82,58.38,Debit Card,60,Other,Sunny,0,4.099719101123596,51-60,True
+f34af770-2a6b-46d4-928a-ed4636c72ca7,2024-10-01,October,Tuesday,Wine,Sutter Home,1,98.23,0.23,98.23,22.59,75.64,Mobile Payment,49,Female,Snowy,0,0.7700295225491194,41-50,False
+391887a6-4a16-46b6-81f9-3fa32240c6c6,2025-02-27,February,Thursday,Rum,Bacardi,6,115.81,0.17,694.86,118.13,576.73,Debit Card,44,Other,Snowy,0,4.979967187634919,41-50,False
+13907025-3c7c-485d-b680-384c805aa914,2025-02-20,February,Thursday,Wine,Yellow Tail,2,78.47,0.04,156.94,6.28,150.66,Debit Card,37,Male,Sunny,0,1.9199694150630815,31-40,False
+31252cde-4ff8-4858-8be9-a30e888c3b06,2025-03-10,March,Monday,Rum,Bacardi,5,30.96,0.06,154.8,9.29,145.51,Debit Card,43,Female,Snowy,0,4.699935400516796,41-50,False
+e65772f2-caeb-4883-b964-24f6bd83e416,2024-09-25,September,Wednesday,Wine,Barefoot,6,35.59,0.1,213.54,21.35,192.19,Mobile Payment,36,Other,Sunny,0,5.400112391121101,31-40,False
+0a696358-75bc-43c1-ae18-c9ad9dffed93,2025-05-19,May,Monday,Vodka,Absolut,3,18.36,0.11,55.08,6.06,49.02,Credit Card,55,Male,Sunny,0,2.669934640522876,51-60,False
+7cba143e-3bf7-40d9-ab4c-b4f1d58e60de,2024-06-15,June,Saturday,Wine,Barefoot,4,21.29,0.21,85.16,17.88,67.28,Mobile Payment,27,Male,Rainy,0,3.1601690934711133,21-30,True
+9573c960-e43c-4931-9b16-53ff72b71aa9,2025-05-15,May,Thursday,Whiskey,Chivas Regal,3,70.64,0.11,211.92,23.31,188.61,Cash,42,Other,Cloudy,0,2.670016987542469,41-50,False
+8a7142d9-9ec8-41a8-aea0-9fd08d2ef057,2024-11-15,November,Friday,Beer,Corona,3,23.81,0.13,71.43,9.29,62.14,Mobile Payment,56,Female,Snowy,1,2.6098278034439315,51-60,False
+5358bd7e-09b7-4090-9e5b-8915276328b3,2024-07-26,July,Friday,Wine,Sutter Home,2,83.22,0.23,166.44,38.28,128.16,Mobile Payment,33,Male,Snowy,1,1.5400144196106704,31-40,False
+704ad0fc-cc14-49d9-9b68-b55501d72d49,2025-01-30,January,Thursday,Whiskey,Chivas Regal,4,87.5,0.03,350.0,10.5,339.5,Debit Card,54,Other,Cloudy,0,3.88,51-60,False
+80b5f577-db0c-4ac6-b554-8308409052cc,2024-08-06,August,Tuesday,Rum,Malibu,1,17.61,0.0,17.61,0.0,17.61,Mobile Payment,30,Female,Rainy,0,1.0,21-30,False
+432853b0-a5ae-415a-9cb0-57deff42daea,2024-11-27,November,Wednesday,Vodka,Grey Goose,2,40.27,0.04,80.54,3.22,77.32,Credit Card,54,Male,Rainy,1,1.9200397318102802,51-60,False
+8457f4bd-c840-487f-8faa-39dc5143881d,2025-03-04,March,Tuesday,Tequila,Jose Cuervo,4,80.3,0.09,321.2,28.91,292.29,Mobile Payment,49,Male,Sunny,0,3.6399750933997512,41-50,False
+2fad6620-8461-469b-a8f6-5a4d675d60c0,2025-01-14,January,Tuesday,Brandy,Paul Masson,3,108.97,0.23,326.91,75.19,251.72,Mobile Payment,56,Female,Cloudy,0,2.3099935762136368,51-60,False
+e4809e44-8d85-44e8-aa25-7af0e194f788,2025-04-20,April,Sunday,Tequila,Patron,3,16.93,0.11,50.79,5.59,45.2,Credit Card,24,Other,Rainy,0,2.669816893089191,21-30,True
+65edb77b-6606-4830-9099-1dc61a2fda7d,2024-07-12,July,Friday,Vodka,Smirnoff,1,115.42,0.2,115.42,23.08,92.34,Debit Card,22,Female,Sunny,1,0.8000346560388147,21-30,False
+5d3a1082-2e5f-4eac-895d-1f9d9467e857,2024-12-26,December,Thursday,Tequila,Jose Cuervo,5,67.5,0.16,337.5,54.0,283.5,Mobile Payment,40,Male,Snowy,1,4.2,31-40,False
+738ac642-f37a-4066-8392-25c34477c293,2025-05-27,May,Tuesday,Brandy,Paul Masson,1,69.89,0.16,69.89,11.18,58.71,Mobile Payment,63,Female,Sunny,0,0.8400343396766348,61-70,False
+d9e66123-d70c-4819-ba5a-5a4b3ea77dca,2025-05-12,May,Monday,Tequila,Don Julio,3,103.63,0.11,310.89,34.2,276.69,Mobile Payment,47,Other,Snowy,0,2.6699797355978,41-50,False
+6e94965e-627f-47d4-8cef-079c50ff4f43,2024-11-09,November,Saturday,Beer,Heineken,1,71.59,0.2,71.59,14.32,57.27,Mobile Payment,50,Male,Sunny,1,0.7999720631373097,41-50,True
+85438d74-067c-4b13-a980-467351548f68,2024-09-05,September,Thursday,Beer,Corona,5,100.58,0.15,502.9,75.43,427.46,Credit Card,32,Male,Sunny,0,4.2499502883277,31-40,False
+3663896c-3dda-4d32-b17e-8084625f1ade,2025-01-26,January,Sunday,Tequila,Jose Cuervo,4,30.86,0.01,123.44,1.23,122.21,Debit Card,21,Other,Snowy,0,3.960142579390797,21-30,True
+5568efa5-70ca-4e74-93c5-66ffad834dc9,2025-01-24,January,Friday,Gin,Tanqueray,4,58.18,0.22,232.72,51.2,181.52,Cash,21,Female,Snowy,0,3.1199724991405984,21-30,False
+4fac2160-c748-4937-b976-dcd366e4a414,2025-05-29,May,Thursday,Vodka,Grey Goose,6,98.03,0.15,588.18,88.23,499.95,Credit Card,35,Other,Snowy,0,5.0999693971233295,31-40,False
+9d8ea7d2-3efd-4cbb-8133-6fc9b0161d97,2024-12-02,December,Monday,Tequila,Patron,1,59.64,0.23,59.64,13.72,45.92,Mobile Payment,39,Female,Snowy,1,0.7699530516431925,31-40,False
+aa488a9a-48ec-48a6-a5dc-f1eb37561e97,2025-04-30,April,Wednesday,Vodka,Grey Goose,4,89.59,0.1,358.36,35.84,322.52,Credit Card,54,Other,Rainy,0,3.599955352159839,51-60,False
+0b26f49a-ad0b-4cd0-924e-a55353ebb1fb,2024-07-21,July,Sunday,Rum,Bacardi,3,117.22,0.0,351.66,0.0,351.66,Mobile Payment,63,Female,Cloudy,1,3.0000000000000004,61-70,True
+557ef8f3-e047-4dbb-8428-13a846b3530c,2024-09-25,September,Wednesday,Tequila,Jose Cuervo,1,68.94,0.16,68.94,11.03,57.91,Mobile Payment,35,Male,Rainy,0,0.8400058021467943,31-40,False
+95fbe4a7-27a3-4426-994b-38c1ae1a4bf6,2024-12-18,December,Wednesday,Vodka,Absolut,3,32.1,0.17,96.3,16.37,79.93,Debit Card,59,Male,Rainy,1,2.4900311526479753,51-60,False
+293585ba-762e-414f-aeb4-55026acdecdf,2025-01-07,January,Tuesday,Wine,Yellow Tail,5,98.24,0.24,491.2,117.89,373.31,Mobile Payment,53,Male,Snowy,0,3.7999796416938114,51-60,False
+0b9e8b2b-5247-43ae-ba95-b06ec8b12096,2024-08-03,August,Saturday,Beer,Heineken,5,12.79,0.11,63.95,7.03,56.92,Mobile Payment,63,Other,Sunny,0,4.450351837372948,61-70,True
+7da1b151-bbb7-4905-9112-9401d83adf12,2025-04-15,April,Tuesday,Rum,Bacardi,2,70.91,0.06,141.82,8.51,133.31,Cash,56,Male,Snowy,0,1.8799887180933579,51-60,False
+93e467cb-99d4-415e-8689-2dccfad1ae55,2024-12-25,December,Wednesday,Wine,Barefoot,5,41.14,0.02,205.7,4.11,201.59,Debit Card,63,Female,Cloudy,1,4.900097228974234,61-70,False
+24d7ba0a-36b2-4782-bd1c-6c9efb543c1c,2025-01-05,January,Sunday,Brandy,E&J,3,100.17,0.09,300.51,27.05,273.46,Credit Card,37,Other,Cloudy,0,2.7299590695817106,31-40,True
+a87f2b22-7c22-4c05-9ee4-414b6c99c35b,2025-03-19,March,Wednesday,Rum,Captain Morgan,6,84.91,0.1,509.46,50.95,458.51,Cash,31,Male,Cloudy,0,5.3999528912966674,31-40,False
+641bc7b6-cd8c-4f69-b7dc-c29603212fd4,2024-10-28,October,Monday,Brandy,E&J,4,23.36,0.05,93.44,4.67,88.77,Credit Card,37,Male,Cloudy,0,3.800085616438356,31-40,False
+0b70a3a5-8d6e-448d-9948-8e6086d02ac8,2024-12-11,December,Wednesday,Vodka,Grey Goose,6,65.04,0.24,390.24,93.66,296.58,Debit Card,33,Male,Cloudy,1,4.559963099630996,31-40,False
+8824b697-ab35-4a66-82fe-c51d098a47e5,2024-10-19,October,Saturday,Tequila,Patron,2,69.98,0.17,139.96,23.79,116.17,Credit Card,24,Female,Cloudy,0,1.6600457273506715,21-30,True
+30eb072b-dd99-4515-8e59-9c2723212f0f,2025-01-12,January,Sunday,Tequila,Jose Cuervo,2,48.02,0.15,96.04,14.41,81.63,Debit Card,64,Male,Rainy,0,1.6999167013744272,61-70,True
+59527ea7-ddaa-4771-86e2-bcedc3c2698c,2025-05-29,May,Thursday,Tequila,Jose Cuervo,3,118.36,0.06,355.08,21.3,333.78,Cash,53,Other,Rainy,0,2.8200405542412974,51-60,False
+36b3beaa-ea3d-45c2-b684-945575504aee,2025-01-15,January,Wednesday,Vodka,Grey Goose,5,70.49,0.09,352.45,31.72,320.73,Mobile Payment,29,Other,Sunny,0,4.5500070932047105,21-30,False
+5098ef34-6584-46ca-88e2-1b652d45276c,2025-04-30,April,Wednesday,Brandy,E&J,1,39.68,0.16,39.68,6.35,33.33,Debit Card,25,Female,Cloudy,0,0.8399697580645161,21-30,False
+9ecdc7f8-7b24-4d3d-9174-384d8afd31ec,2024-08-21,August,Wednesday,Brandy,Paul Masson,1,32.57,0.2,32.57,6.51,26.06,Credit Card,30,Male,Rainy,0,0.8001228124040528,21-30,False
+7817e837-7d16-4a30-8688-cdbfdf2a339f,2025-04-19,April,Saturday,Rum,Captain Morgan,6,77.83,0.21,466.98,98.07,368.91,Mobile Payment,49,Female,Sunny,0,4.739946036232816,41-50,True
+2efe051b-cc28-47b0-8482-2b9fab3678c6,2025-02-27,February,Thursday,Vodka,Absolut,5,49.64,0.19,248.2,47.16,201.04,Mobile Payment,36,Male,Cloudy,0,4.049959709911362,31-40,False
+4887fd78-dfb6-4406-bd4e-528f8511bba9,2024-12-14,December,Saturday,Brandy,Hennessy,6,37.48,0.05,224.88,11.24,213.64,Cash,63,Other,Cloudy,1,5.700106723585913,61-70,True
+e962d687-015e-4104-a03e-e47a5fb1f3be,2024-06-06,June,Thursday,Beer,Budweiser,3,88.05,0.05,264.15,13.21,250.94,Cash,52,Female,Rainy,0,2.8499716070414536,51-60,False
+970d124c-f9a1-44a2-95be-2c14d3d2d293,2025-03-15,March,Saturday,Beer,Heineken,1,46.99,0.15,46.99,7.05,39.94,Debit Card,62,Other,Sunny,0,0.8499680783145349,61-70,True
+f5bd9c6c-84c2-40f2-842a-af235f4979ff,2024-12-25,December,Wednesday,Tequila,Jose Cuervo,1,22.12,0.22,22.12,4.87,17.25,Cash,61,Other,Rainy,1,0.7798372513562387,61-70,False
+d0f0bba4-5fc3-435c-870b-69ed973d904f,2024-08-25,August,Sunday,Tequila,Patron,4,72.76,0.19,291.04,55.3,235.74,Cash,54,Female,Cloudy,0,3.2399670148433204,51-60,True
+5dcce6c2-acf5-48aa-b45e-4c000647c012,2025-02-03,February,Monday,Brandy,Paul Masson,5,107.66,0.1,538.3,53.83,484.47,Cash,36,Female,Cloudy,0,4.5,31-40,False
+acf8bc8c-8fb7-472b-8077-840c2f169d70,2025-02-27,February,Thursday,Wine,Yellow Tail,5,98.52,0.17,492.6,83.74,408.86,Debit Card,63,Female,Rainy,0,4.15002030044661,61-70,False
+33256b84-0d5b-445f-ac37-2f81a516669e,2024-09-19,September,Thursday,Tequila,Don Julio,6,65.06,0.08,390.36,31.23,359.13,Mobile Payment,64,Female,Cloudy,0,5.5199815554872425,61-70,False
+6dbd9197-07e7-4b9f-92cb-262a9de9e9ad,2024-08-28,August,Wednesday,Vodka,Smirnoff,5,97.11,0.13,485.55,63.12,422.43,Cash,56,Female,Sunny,0,4.350015446400989,51-60,False
+e216499b-17aa-4623-84b0-da9c5a11c570,2025-02-03,February,Monday,Tequila,Patron,4,44.66,0.12,178.64,21.44,157.2,Mobile Payment,57,Male,Snowy,0,3.5199283475145546,51-60,False
+97c025ab-b932-4915-872f-cc7e5093c77d,2025-05-06,May,Tuesday,Tequila,Don Julio,2,63.36,0.09,126.72,11.4,115.32,Cash,55,Female,Snowy,0,1.8200757575757576,51-60,False
+ba94d70c-bc24-4b60-8d0a-0f3a8e4d6b9f,2024-08-17,August,Saturday,Brandy,Paul Masson,4,103.26,0.24,413.04,99.13,313.91,Mobile Payment,60,Other,Cloudy,0,3.0399961262831687,51-60,True
+6b216933-e1e9-4f0e-a969-5b5f88eef9c8,2024-11-22,November,Friday,Beer,Corona,3,115.26,0.12,345.78,41.49,304.29,Mobile Payment,29,Other,Sunny,1,2.640031233732431,21-30,False
+fd77de3f-be65-487e-9040-04c3040d4214,2024-10-31,October,Thursday,Rum,Malibu,3,18.15,0.13,54.45,7.08,47.37,Debit Card,33,Other,Rainy,0,2.609917355371901,31-40,False
+8d19554e-ad97-49ea-8b38-b75e7b27b631,2025-02-13,February,Thursday,Beer,Corona,4,86.07,0.1,344.28,34.43,309.85,Credit Card,59,Other,Sunny,0,3.599976763099803,51-60,False
+04aa1106-af32-4d1d-99b5-00f2b052f99d,2024-11-04,November,Monday,Vodka,Smirnoff,5,33.61,0.19,168.05,31.93,136.12,Mobile Payment,36,Other,Cloudy,1,4.049985123475157,31-40,False
+7a42bac6-05a1-4ff6-95b4-ef20a4839b57,2025-01-21,January,Tuesday,Whiskey,Jameson,6,76.75,0.06,460.5,27.63,432.87,Mobile Payment,23,Female,Cloudy,0,5.64,21-30,False
+3f8e938b-a3dd-45f7-aca5-5563462935d8,2025-04-16,April,Wednesday,Rum,Malibu,6,16.16,0.07,96.96,6.79,90.17,Cash,42,Male,Snowy,0,5.579826732673268,41-50,False
+ca9a35b9-c8d2-42e9-a424-272d1762ae8a,2024-10-04,October,Friday,Tequila,Jose Cuervo,1,52.78,0.19,52.78,10.03,42.75,Credit Card,55,Female,Rainy,0,0.8099658961727927,51-60,False
+e973cc80-1503-4bc9-b8a2-b6a0ade99469,2024-11-07,November,Thursday,Brandy,E&J,1,34.63,0.06,34.63,2.08,32.55,Credit Card,57,Female,Sunny,1,0.9399364712676869,51-60,False
+59cd5406-c8b0-4579-848f-510b73bbde8e,2025-04-26,April,Saturday,Wine,Sutter Home,3,39.85,0.1,119.55,11.96,107.6,Mobile Payment,25,Other,Sunny,0,2.700125470514429,21-30,True
+415c03ff-59d2-4d97-9a70-94c9d1c97792,2024-12-16,December,Monday,Brandy,Hennessy,1,15.09,0.17,15.09,2.57,12.52,Mobile Payment,62,Male,Cloudy,1,0.8296885354539429,61-70,False
+e6872926-3658-469c-a383-ad474e5b5c26,2025-02-14,February,Friday,Rum,Bacardi,2,85.97,0.13,171.94,22.35,149.59,Cash,37,Female,Snowy,0,1.7400255903222055,31-40,False
+37542e6d-a534-44b1-b257-1b452942eeae,2025-01-31,January,Friday,Whiskey,Jameson,2,55.22,0.11,110.44,12.15,98.29,Cash,26,Other,Rainy,0,1.7799710249909455,21-30,False
+9e891559-68ca-4bb9-9c0e-339660b45651,2024-11-29,November,Friday,Brandy,Hennessy,6,100.25,0.09,601.5,54.13,547.37,Credit Card,64,Female,Cloudy,1,5.460049875311721,61-70,False
+9334a577-b6bf-4304-8d72-91bae91740b8,2025-01-04,January,Saturday,Whiskey,Chivas Regal,2,61.35,0.13,122.7,15.95,106.75,Credit Card,29,Other,Rainy,0,1.7400162999185003,21-30,True
+ad448ba8-0e17-4de2-bc3c-f4608920ea50,2024-09-15,September,Sunday,Beer,Budweiser,3,49.21,0.05,147.63,7.38,140.25,Debit Card,50,Other,Cloudy,0,2.850030481609429,41-50,True
+7e871f75-f2a9-41c6-84d0-0de13776dff1,2025-04-21,April,Monday,Gin,Bombay Sapphire,4,36.88,0.05,147.52,7.38,140.14,Cash,63,Female,Snowy,0,3.7998915401301514,61-70,False
+d9d6d5af-0ff3-495a-b9cb-44e665c6839e,2024-07-08,July,Monday,Vodka,Grey Goose,1,71.77,0.09,71.77,6.46,65.31,Cash,54,Female,Rainy,1,0.909990246621151,51-60,False
+4c3d27ee-16cf-4d52-b2c8-b084438c5f1a,2025-03-28,March,Friday,Gin,Tanqueray,2,76.04,0.19,152.08,28.9,123.18,Cash,58,Female,Rainy,0,1.6199368753287744,51-60,False
+1ffcd57f-d727-4cf4-bb8f-464c172f405a,2025-04-16,April,Wednesday,Rum,Bacardi,3,34.08,0.04,102.24,4.09,98.15,Credit Card,64,Other,Cloudy,0,2.8799882629107985,61-70,False
+0b216899-e991-49b1-9352-215259e6bfc4,2024-10-25,October,Friday,Wine,Yellow Tail,3,102.02,0.17,306.06,52.03,254.03,Cash,62,Female,Snowy,0,2.4900019603999217,61-70,False
+02decba5-48a1-4657-a5bf-47a209b90dd8,2024-06-27,June,Thursday,Wine,Yellow Tail,6,91.15,0.16,546.9,87.5,459.4,Mobile Payment,59,Female,Cloudy,0,5.040043883708173,51-60,False
+20602ebd-3a82-4389-a1da-6d56d187724a,2024-10-20,October,Sunday,Wine,Yellow Tail,6,93.9,0.19,563.4,107.05,456.35,Cash,50,Male,Sunny,0,4.859957401490948,41-50,True
+7691a66c-0e13-491a-a819-fe47b84de76f,2025-05-14,May,Wednesday,Wine,Sutter Home,5,64.94,0.05,324.7,16.23,308.46,Mobile Payment,38,Female,Cloudy,0,4.749923005851555,31-40,False
+aa69c167-53cd-4fc8-b734-42126d5e2139,2025-02-14,February,Friday,Whiskey,Jack Daniels,3,28.2,0.11,84.6,9.31,75.29,Mobile Payment,28,Female,Sunny,0,2.669858156028369,21-30,False
+01a2277d-65fb-4717-a6df-8e51c825f723,2024-07-15,July,Monday,Tequila,Don Julio,4,84.38,0.17,337.52,57.38,280.14,Debit Card,24,Female,Rainy,1,3.3199810381607016,21-30,False
+993dcef2-258d-4591-9e7e-a66d8e6f1924,2025-05-12,May,Monday,Beer,Heineken,3,82.69,0.0,248.07,0.0,248.07,Credit Card,50,Other,Sunny,0,3.0,41-50,False
+03698130-2ea3-4be0-ba1a-d486d22d6b8f,2024-12-06,December,Friday,Rum,Captain Morgan,1,41.08,0.19,41.08,7.81,33.27,Cash,36,Male,Cloudy,1,0.8098831548198638,31-40,False
+75118a33-aefb-48a1-8e35-523974214dc4,2024-10-15,October,Tuesday,Beer,Corona,4,113.54,0.08,454.16,36.33,417.83,Debit Card,26,Female,Rainy,0,3.6800246609124536,21-30,False
+56a578ed-b183-41e1-8300-ecaa29b21912,2025-01-17,January,Friday,Brandy,Hennessy,6,117.05,0.06,702.3,42.14,660.16,Mobile Payment,37,Other,Snowy,0,5.63998291328492,31-40,False
+151e4bf8-0784-499d-b0a9-3ca4c8a24007,2025-05-17,May,Saturday,Brandy,Paul Masson,3,96.42,0.19,289.26,54.96,234.3,Cash,63,Female,Snowy,0,2.429993777224642,61-70,True
+7e04bfca-3ec1-4450-b20c-b3a7b4d2cfaf,2024-12-01,December,Sunday,Brandy,Paul Masson,4,52.81,0.14,211.24,29.57,181.67,Credit Card,41,Other,Sunny,1,3.4400681689074033,41-50,True
+10816e6b-4c61-4f01-a7ea-59133e500927,2025-05-01,May,Thursday,Wine,Sutter Home,2,23.21,0.05,46.42,2.32,44.1,Mobile Payment,54,Female,Cloudy,0,1.900043084877208,51-60,False
+f459ae81-96ae-4671-84d4-f1d883b8a3f9,2024-12-04,December,Wednesday,Gin,Bombay Sapphire,5,38.45,0.03,192.25,5.77,186.48,Cash,31,Female,Cloudy,1,4.849934980494147,31-40,False
+b47b37e0-6e2d-44fe-ab04-4f9ba2e3b40e,2024-12-19,December,Thursday,Whiskey,Chivas Regal,4,78.64,0.1,314.56,31.46,283.1,Cash,56,Other,Rainy,1,3.599949135300102,51-60,False
+e9bc10ec-0274-45d2-bd25-1f8fb653192d,2024-10-08,October,Tuesday,Rum,Malibu,4,15.72,0.06,62.88,3.77,59.11,Cash,30,Male,Rainy,0,3.760178117048346,21-30,False
+7d7615fd-f000-4c4e-8c60-6bece8d520c1,2024-12-16,December,Monday,Whiskey,Jack Daniels,3,98.94,0.2,296.82,59.36,237.46,Mobile Payment,41,Female,Rainy,1,2.4000404285425514,41-50,False
+4b89b233-f625-416f-85d6-40daf2ec77d7,2024-09-09,September,Monday,Whiskey,Jack Daniels,2,26.57,0.08,53.14,4.25,48.89,Cash,27,Female,Snowy,0,1.8400451637184796,21-30,False
+d83e71eb-d199-487c-bc4e-bc9622026066,2024-10-17,October,Thursday,Whiskey,Jameson,4,19.62,0.19,78.48,14.91,63.57,Debit Card,46,Other,Sunny,0,3.2400611620795106,41-50,False
+890cbcf5-c602-42a1-96ec-1eb3d06286c9,2024-12-16,December,Monday,Tequila,Don Julio,2,90.15,0.03,180.3,5.41,174.89,Cash,37,Female,Cloudy,1,1.9399889073765944,31-40,False
+ba4d1ebb-d17c-4301-acce-ea72e328f0c1,2025-04-06,April,Sunday,Whiskey,Jack Daniels,1,40.57,0.17,40.57,6.9,33.67,Debit Card,27,Other,Sunny,0,0.8299235888587627,21-30,True
+3de4400d-f48d-4042-a105-08418af6d501,2024-10-01,October,Tuesday,Vodka,Grey Goose,1,50.94,0.08,50.94,4.08,46.86,Cash,22,Other,Rainy,0,0.9199057714958775,21-30,False
+f944c73b-487a-42f5-a71e-74658880ee71,2025-01-27,January,Monday,Rum,Captain Morgan,6,87.27,0.21,523.62,109.96,413.66,Cash,24,Other,Sunny,0,4.740002291738284,21-30,False
+b33b0e3d-a063-40e2-b779-b84d333b44d6,2024-06-09,June,Sunday,Wine,Barefoot,5,103.75,0.08,518.75,41.5,477.25,Mobile Payment,34,Male,Sunny,0,4.6,31-40,True
+20628dda-e604-465e-b200-2215519dc7d1,2024-09-08,September,Sunday,Beer,Corona,2,96.3,0.15,192.6,28.89,163.71,Debit Card,53,Other,Rainy,0,1.7000000000000002,51-60,True
+3e59fc8b-6ea3-4404-a1fc-a42a097d3966,2024-06-17,June,Monday,Gin,Tanqueray,2,99.79,0.09,199.58,17.96,181.62,Credit Card,45,Female,Cloudy,0,1.820022046297224,41-50,False
+1a7b8074-ab13-4217-9998-010bec359434,2024-11-24,November,Sunday,Tequila,Jose Cuervo,5,103.88,0.2,519.4,103.88,415.52,Cash,56,Male,Sunny,1,4.0,51-60,True
+9832f52e-18f6-40ea-af63-9cb66d25fb02,2024-06-05,June,Wednesday,Whiskey,Jameson,4,51.73,0.2,206.92,41.38,165.54,Mobile Payment,46,Female,Cloudy,0,3.200077324569882,41-50,False
+c2901048-d628-4f16-986a-2ed27a16febc,2025-03-25,March,Tuesday,Beer,Heineken,1,47.81,0.1,47.81,4.78,43.03,Mobile Payment,41,Other,Rainy,0,0.9000209161263334,41-50,False
+811a39c0-0839-4355-9180-ab6c22fd8e14,2024-10-12,October,Saturday,Brandy,E&J,5,52.11,0.07,260.55,18.24,242.31,Credit Card,45,Male,Cloudy,0,4.649971214738054,41-50,True
+e25095e0-d721-46d9-bb6d-d8d61264218a,2024-10-25,October,Friday,Vodka,Absolut,3,18.11,0.07,54.33,3.8,50.53,Credit Card,53,Female,Rainy,0,2.790171176145776,51-60,False
+380d6a94-5209-415a-a366-d0b87acb884f,2025-03-25,March,Tuesday,Beer,Budweiser,5,91.48,0.07,457.4,32.02,425.38,Cash,33,Male,Cloudy,0,4.6499781372977695,31-40,False
+01f6c2a9-6a64-4927-b968-b2b3d42e1b1b,2025-02-09,February,Sunday,Brandy,E&J,2,39.45,0.04,78.9,3.16,75.74,Credit Card,35,Female,Cloudy,0,1.9198986058301646,31-40,True
+77158a21-f781-4bde-8b52-3d14fad7f0a3,2025-03-23,March,Sunday,Vodka,Absolut,3,94.57,0.21,283.71,59.58,224.13,Mobile Payment,45,Male,Sunny,0,2.369990483239928,41-50,True
+ea24a7e2-4098-4c50-8f2f-4f0daef52401,2024-12-30,December,Monday,Whiskey,Jack Daniels,5,46.69,0.09,233.45,21.01,212.44,Credit Card,60,Other,Cloudy,1,4.550010708931249,51-60,False
+3618e2ec-3c01-4b48-8b45-ccef879319fa,2024-06-23,June,Sunday,Gin,Beefeater,1,117.19,0.07,117.19,8.2,108.99,Cash,59,Male,Cloudy,0,0.9300281593992661,51-60,True
+599afabf-68d2-42a4-b82d-5ce1087256bd,2024-08-18,August,Sunday,Gin,Tanqueray,1,18.78,0.0,18.78,0.0,18.78,Cash,46,Male,Cloudy,0,1.0,41-50,True
+fc5b253f-507c-474a-a27f-9cd16e4d9293,2025-05-19,May,Monday,Beer,Heineken,1,88.25,0.15,88.25,13.24,75.01,Mobile Payment,30,Male,Rainy,0,0.849971671388102,21-30,False
+a5ce3d39-1000-480f-88de-86b4704b00b5,2025-01-21,January,Tuesday,Beer,Heineken,6,53.06,0.01,318.36,3.18,315.18,Debit Card,22,Female,Sunny,0,5.940067847719563,21-30,False
+1ee0fcce-bf83-4fb3-8cbc-032f3823e7dd,2024-07-04,July,Thursday,Whiskey,Jack Daniels,3,67.24,0.15,201.72,30.26,171.46,Credit Card,60,Other,Cloudy,1,2.5499702558001194,51-60,False
+91bf5cfb-dd50-4102-a1f4-4e9d2c9548b6,2025-01-31,January,Friday,Tequila,Don Julio,5,77.59,0.04,387.95,15.52,372.43,Credit Card,22,Female,Snowy,0,4.799974223482407,21-30,False
+06190cbb-0d3f-4772-ba88-b86633009156,2024-10-18,October,Friday,Vodka,Smirnoff,5,54.75,0.21,273.75,57.49,216.26,Credit Card,41,Male,Snowy,0,3.9499543378995434,41-50,False
+ac111509-e294-499c-98f8-8a858ffe03c8,2024-06-26,June,Wednesday,Wine,Barefoot,5,74.6,0.02,373.0,7.46,365.54,Mobile Payment,36,Female,Snowy,0,4.9,31-40,False
+1a9938b0-5c03-4997-8c42-5b55d4c5cf0e,2025-02-02,February,Sunday,Gin,Tanqueray,2,94.2,0.12,188.4,22.61,165.79,Credit Card,58,Other,Snowy,0,1.7599787685774946,51-60,True
+5a2ea990-de87-4b1f-86d5-79401fa054e5,2025-05-22,May,Thursday,Gin,Bombay Sapphire,4,57.17,0.05,228.68,11.43,217.25,Mobile Payment,25,Female,Cloudy,0,3.8000699667657862,21-30,False
+dc22f102-f918-4911-aeb7-bb3d7c62eb06,2025-06-01,June,Sunday,Beer,Corona,3,108.67,0.14,326.01,45.64,280.37,Debit Card,51,Other,Snowy,0,2.5800128830403977,51-60,True
+2824e08e-3941-4589-873f-8018d931993b,2024-09-14,September,Saturday,Beer,Budweiser,5,117.2,0.05,586.0,29.3,556.7,Credit Card,29,Female,Cloudy,0,4.75,21-30,True
+6c493cc3-d69e-4675-baaa-cf6bc0d68b5e,2024-12-31,December,Tuesday,Beer,Corona,5,38.43,0.16,192.15,30.74,161.41,Mobile Payment,26,Female,Rainy,1,4.200104085349987,21-30,False
+38e5b78e-17b8-413f-9987-7b3a9be883d4,2024-11-17,November,Sunday,Brandy,Paul Masson,5,111.72,0.15,558.6,83.79,474.81,Cash,36,Other,Sunny,1,4.25,31-40,True
+8af77c41-8dc4-43a1-bf04-5b47a155647d,2024-07-07,July,Sunday,Gin,Tanqueray,3,26.93,0.02,80.79,1.62,79.17,Debit Card,45,Other,Cloudy,1,2.9398440401039734,41-50,True
+9702e827-19be-4047-be2e-751a49a44598,2025-05-15,May,Thursday,Tequila,Jose Cuervo,4,25.44,0.22,101.76,22.39,79.37,Cash,40,Female,Sunny,0,3.1198899371069184,31-40,False
+fb884731-2afd-4b5a-931c-b2a28fa16fdf,2024-06-05,June,Wednesday,Whiskey,Jack Daniels,1,83.52,0.16,83.52,13.36,70.16,Credit Card,51,Other,Cloudy,0,0.8400383141762452,51-60,False
+6541ff8e-7c0a-4c5c-8d1b-c53237005b0b,2024-06-21,June,Friday,Whiskey,Jameson,6,92.15,0.17,552.9,93.99,458.91,Credit Card,63,Other,Cloudy,0,4.980032555615844,61-70,False
+97e12319-0142-4434-8dcb-16079a4da531,2025-05-24,May,Saturday,Brandy,E&J,3,17.12,0.19,51.36,9.76,41.6,Debit Card,42,Female,Snowy,0,2.4299065420560746,41-50,True
+300d9ce8-bb52-403a-a287-496ba3b72e65,2024-09-07,September,Saturday,Vodka,Smirnoff,3,64.56,0.11,193.68,21.3,172.38,Credit Card,57,Other,Cloudy,0,2.670074349442379,51-60,True
+492d54f2-bebc-490a-960f-e867757fbb95,2024-12-27,December,Friday,Vodka,Grey Goose,4,29.6,0.19,118.4,22.5,95.9,Mobile Payment,33,Other,Sunny,1,3.239864864864865,31-40,False
+f993d433-9775-4300-8ea0-4bc383605b0d,2024-08-25,August,Sunday,Brandy,E&J,1,51.0,0.01,51.0,0.51,50.49,Credit Card,34,Male,Cloudy,0,0.99,31-40,True
+f8f260fc-6e0d-47d6-843f-e031817e8629,2025-05-08,May,Thursday,Beer,Corona,1,114.83,0.07,114.83,8.04,106.79,Mobile Payment,43,Female,Sunny,0,0.9299834538012716,41-50,False
+31cc0414-6cba-47c0-b22b-053a9c9b5fe5,2024-10-24,October,Thursday,Gin,Beefeater,2,85.49,0.17,170.98,29.07,141.91,Cash,24,Other,Rainy,0,1.659960229266581,21-30,False
+cb8e90f1-a2a7-45ae-8fdc-1fc4b8fe1eee,2024-08-27,August,Tuesday,Rum,Captain Morgan,6,34.15,0.09,204.9,18.44,186.46,Debit Card,62,Other,Cloudy,0,5.460029282576867,61-70,False
+82536b0c-b432-41b0-85e5-5f6e4ac23431,2024-09-16,September,Monday,Rum,Bacardi,6,74.97,0.07,449.82,31.49,418.33,Debit Card,46,Other,Rainy,0,5.579965319461118,41-50,False
+d5b74e70-5a3e-4667-bb93-49159c38c651,2025-02-22,February,Saturday,Vodka,Grey Goose,4,23.51,0.08,94.04,7.52,86.52,Debit Card,21,Female,Cloudy,0,3.680136112292641,21-30,True
+149241a1-2aa5-46d7-a0f0-16ed0e5170be,2024-09-01,September,Sunday,Whiskey,Jack Daniels,4,76.85,0.04,307.4,12.3,295.1,Mobile Payment,45,Male,Rainy,0,3.839947950553026,41-50,True
+3d57a3f2-39b1-42e0-9050-1b457ff6ef3e,2025-04-15,April,Tuesday,Gin,Tanqueray,4,61.38,0.18,245.52,44.19,201.33,Credit Card,46,Male,Snowy,0,3.280058651026393,41-50,False
+5289b0b3-f2a4-4bb7-bc32-bc99d9f6208c,2024-11-09,November,Saturday,Whiskey,Chivas Regal,2,73.0,0.17,146.0,24.82,121.18,Cash,47,Male,Sunny,1,1.6600000000000001,41-50,True
+dbb59c89-821e-4d56-acc6-813a4e417700,2024-10-12,October,Saturday,Gin,Bombay Sapphire,5,35.7,0.05,178.5,8.93,169.57,Mobile Payment,58,Other,Cloudy,0,4.74985994397759,51-60,True
+178d9735-fcda-414b-a79c-aa543c04b0cb,2025-05-30,May,Friday,Brandy,Hennessy,4,84.79,0.18,339.16,61.05,278.11,Credit Card,55,Other,Snowy,0,3.2799858473876635,51-60,False
+ae7b511f-9bb9-47f9-8218-7e7f9c462bec,2025-02-04,February,Tuesday,Wine,Yellow Tail,6,62.09,0.1,372.54,37.25,335.29,Cash,51,Other,Cloudy,0,5.400064422612337,51-60,False
+a1acc984-ed4e-458e-983f-f6f59884b5b6,2025-04-12,April,Saturday,Beer,Corona,6,87.68,0.06,526.08,31.56,494.52,Debit Card,45,Male,Snowy,0,5.640054744525547,41-50,True
+9f17fb2f-974e-4300-9fc2-1eeb391b3090,2025-03-25,March,Tuesday,Tequila,Don Julio,4,83.56,0.13,334.24,43.45,290.79,Debit Card,33,Male,Sunny,0,3.480014360938248,31-40,False
+222e2663-98aa-4c21-b27a-2f5fa428cd81,2025-05-25,May,Sunday,Vodka,Smirnoff,3,113.8,0.05,341.4,17.07,324.33,Cash,33,Female,Sunny,0,2.85,31-40,True
+f620e6fe-b7c5-4871-9089-6a8f01132fae,2024-10-15,October,Tuesday,Whiskey,Jameson,1,11.63,0.05,11.63,0.58,11.05,Credit Card,39,Other,Sunny,0,0.9501289767841788,31-40,False
+f35fc81e-2cf9-46bb-895f-ea60dea611e4,2024-06-11,June,Tuesday,Gin,Beefeater,4,96.31,0.11,385.24,42.38,342.86,Mobile Payment,61,Male,Rainy,0,3.5599626207039767,61-70,False
+51553529-7b68-4b76-be13-9b2f31661ae2,2024-07-04,July,Thursday,Tequila,Patron,1,38.96,0.02,38.96,0.78,38.18,Cash,52,Female,Rainy,1,0.9799794661190965,51-60,False
+c3279b1c-3bc7-417d-b639-0f925f393bed,2024-07-17,July,Wednesday,Beer,Budweiser,4,56.03,0.22,224.12,49.31,174.81,Debit Card,43,Female,Rainy,1,3.1199357487060504,41-50,False
+cd530eb5-7735-4ad5-b710-b52d871b1f3b,2025-01-09,January,Thursday,Wine,Sutter Home,4,96.03,0.09,384.12,34.57,349.55,Debit Card,29,Other,Rainy,0,3.64000833072998,21-30,False
+8ed598b6-4264-41fb-9ea0-483f10bb9367,2024-07-19,July,Friday,Beer,Corona,5,101.02,0.1,505.1,50.51,454.59,Cash,58,Male,Rainy,1,4.5,51-60,False
+596976ed-4083-4bd0-936f-6b1cdb69f6e2,2025-02-10,February,Monday,Vodka,Smirnoff,3,23.78,0.1,71.34,7.13,64.21,Cash,23,Female,Snowy,0,2.700168208578637,21-30,False
+871e636e-4719-40ad-adfd-f665e9ba09a1,2024-10-21,October,Monday,Brandy,Hennessy,2,73.43,0.12,146.86,17.62,129.24,Credit Card,38,Female,Snowy,0,1.7600435789186981,31-40,False
+431711f8-f815-4b3e-b00a-b32158b70815,2025-05-14,May,Wednesday,Whiskey,Chivas Regal,6,113.51,0.16,681.06,108.97,572.09,Debit Card,31,Other,Rainy,0,5.039996476081402,31-40,False
+0bbfcd24-1e86-4c94-9704-3857fdffa4ed,2025-04-01,April,Tuesday,Wine,Yellow Tail,5,40.45,0.05,202.25,10.11,192.14,Cash,62,Other,Snowy,0,4.7500618046971566,61-70,False
+07cf3f00-7f38-4ec9-99d5-6b6aee33469f,2025-05-10,May,Saturday,Brandy,Paul Masson,4,36.49,0.0,145.96,0.0,145.96,Mobile Payment,27,Female,Sunny,0,4.0,21-30,True
+a4935954-23ff-48f2-b74c-1251891679fc,2025-03-09,March,Sunday,Wine,Barefoot,4,64.1,0.03,256.4,7.69,248.71,Credit Card,40,Male,Snowy,0,3.8800312012480505,31-40,True
+391df385-e084-48d2-bda4-b5812b895edc,2025-02-01,February,Saturday,Whiskey,Jameson,4,62.19,0.24,248.76,59.7,189.06,Cash,24,Other,Sunny,0,3.0400385914134107,21-30,True
+692f1a00-115b-4e83-876e-f94eee9cd023,2025-03-01,March,Saturday,Rum,Captain Morgan,4,30.12,0.08,120.48,9.64,110.84,Debit Card,56,Male,Rainy,0,3.6799468791500662,51-60,True
+4eaf3e20-ce2c-415c-b9d3-582442bfc0a4,2024-06-07,June,Friday,Tequila,Don Julio,6,60.26,0.12,361.56,43.39,318.17,Cash,36,Other,Snowy,0,5.279953534683041,31-40,False
+4afbd185-f060-409c-bb2e-298bd1594f63,2025-01-06,January,Monday,Beer,Heineken,4,10.1,0.07,40.4,2.83,37.57,Cash,56,Other,Cloudy,0,3.71980198019802,51-60,False
+02aa55f1-1324-4df3-82dd-1aea8ca33ae5,2025-01-25,January,Saturday,Gin,Bombay Sapphire,5,36.75,0.07,183.75,12.86,170.89,Mobile Payment,31,Female,Snowy,0,4.650068027210884,31-40,True
+37cdb643-b5ae-4fbc-af6d-e9c252bc4237,2024-06-29,June,Saturday,Gin,Bombay Sapphire,6,28.43,0.15,170.58,25.59,144.99,Mobile Payment,30,Female,Rainy,0,5.0998944776644395,21-30,True
+5463c0c1-5781-49bb-acfd-ca79e1146940,2024-06-25,June,Tuesday,Rum,Malibu,3,90.06,0.12,270.18,32.42,237.76,Credit Card,33,Male,Sunny,0,2.6400177659338215,31-40,False
+99aaf7bb-daef-4675-9f0e-7de0c5099e12,2024-11-12,November,Tuesday,Beer,Heineken,2,88.83,0.24,177.66,42.64,135.02,Credit Card,42,Male,Sunny,1,1.5199819880670946,41-50,False
+ec667f57-21e3-49c9-941a-95c414f81f7d,2024-08-14,August,Wednesday,Vodka,Smirnoff,6,80.88,0.14,485.28,67.94,417.34,Cash,45,Female,Rainy,0,5.159990108803165,41-50,False
+3358fa82-1229-444d-90d1-a3a8857bb160,2024-08-15,August,Thursday,Tequila,Jose Cuervo,2,96.97,0.11,193.94,21.33,172.61,Cash,56,Male,Cloudy,0,1.7800350623904302,51-60,False
+445c2542-3335-4725-a761-2a37b1d6db0b,2025-05-29,May,Thursday,Beer,Heineken,1,82.13,0.22,82.13,18.07,64.06,Credit Card,30,Male,Cloudy,0,0.7799829538536467,21-30,False
+470b3967-fb3c-4e32-a3ad-a0747a23a45f,2025-01-04,January,Saturday,Brandy,Paul Masson,5,47.88,0.05,239.4,11.97,227.43,Debit Card,41,Other,Snowy,0,4.75,41-50,True
+18e7c7d9-8ae3-48f9-b9de-27cbb2876f81,2025-03-26,March,Wednesday,Tequila,Patron,4,77.63,0.21,310.52,65.21,245.31,Cash,50,Other,Sunny,0,3.159989694705655,41-50,False
+2eea103a-c52a-4e63-872e-546d5e0460e1,2024-08-23,August,Friday,Gin,Beefeater,5,26.66,0.1,133.3,13.33,119.97,Cash,58,Other,Snowy,0,4.5,51-60,False
+ebc2571a-eb7f-49b0-9468-431c956f17d4,2025-01-15,January,Wednesday,Wine,Barefoot,2,81.58,0.24,163.16,39.16,124.0,Debit Card,25,Female,Snowy,0,1.5199803873498408,21-30,False
+9b8a5665-c2ec-41ab-a527-9d5bf7625ee5,2025-02-03,February,Monday,Brandy,Hennessy,5,12.58,0.11,62.9,6.92,55.98,Debit Card,32,Other,Sunny,0,4.449920508744038,31-40,False
+853d1aca-e633-4acb-a97a-447aac5e8256,2024-10-09,October,Wednesday,Wine,Barefoot,3,102.18,0.02,306.54,6.13,300.41,Debit Card,50,Female,Rainy,0,2.9400078293208063,41-50,False
+733048cc-f0bf-4b25-bc4f-432dffc71b69,2025-02-17,February,Monday,Wine,Sutter Home,1,60.98,0.03,60.98,1.83,59.15,Cash,63,Other,Sunny,0,0.969990160708429,61-70,False
+10ff070b-d2e1-464a-ba23-984bc77604b9,2025-03-17,March,Monday,Gin,Beefeater,2,29.78,0.09,59.56,5.36,54.2,Debit Card,37,Female,Rainy,0,1.8200134318334453,31-40,False
+e1067412-fcc7-44f7-af3d-7035548bf0f1,2024-07-05,July,Friday,Whiskey,Jameson,5,86.07,0.07,430.35,30.12,400.23,Mobile Payment,25,Other,Snowy,1,4.650052283025445,21-30,False
+8d61b01e-8d65-4a07-ba1a-282f3cece756,2025-02-01,February,Saturday,Wine,Yellow Tail,1,43.21,0.17,43.21,7.35,35.86,Mobile Payment,35,Other,Snowy,0,0.8299004859986114,31-40,True
+4ec797ee-2959-4448-bb2e-a79d9d30de42,2024-10-04,October,Friday,Tequila,Don Julio,1,91.28,0.01,91.28,0.91,90.37,Debit Card,39,Male,Sunny,0,0.9900306748466258,31-40,False
+c39ddc35-74f7-45a4-93e6-153dcf2942a7,2025-04-30,April,Wednesday,Vodka,Grey Goose,5,45.1,0.01,225.5,2.25,223.25,Debit Card,53,Male,Cloudy,0,4.950110864745011,51-60,False
+add8d64b-1d0e-4255-85aa-6a8635918a12,2024-08-17,August,Saturday,Tequila,Don Julio,1,67.24,0.18,67.24,12.1,55.14,Mobile Payment,49,Male,Sunny,0,0.8200475907198097,41-50,True
+3b988270-363d-48ca-af71-36b4f5d5148c,2024-10-01,October,Tuesday,Whiskey,Jack Daniels,1,16.88,0.01,16.88,0.17,16.71,Cash,22,Male,Cloudy,0,0.9899289099526067,21-30,False
+0d05b764-8563-4187-a8ea-a454c2f7a523,2025-02-10,February,Monday,Vodka,Smirnoff,2,54.69,0.23,109.38,25.16,84.22,Credit Card,45,Female,Sunny,0,1.5399524593161455,41-50,False
+204587c0-1062-4d7a-985e-a27453fe31ea,2024-12-31,December,Tuesday,Brandy,Paul Masson,1,98.75,0.16,98.75,15.8,82.95,Credit Card,34,Female,Sunny,1,0.8400000000000001,31-40,False
+b8da83af-1174-4399-bc19-01d177957f89,2025-05-14,May,Wednesday,Beer,Heineken,2,47.69,0.16,95.38,15.26,80.12,Debit Card,55,Male,Snowy,0,1.6800167750052424,51-60,False
+828f3d69-2a4d-4cae-99ee-66681318b538,2025-01-06,January,Monday,Whiskey,Jack Daniels,2,90.53,0.06,181.06,10.86,170.2,Mobile Payment,21,Other,Cloudy,0,1.8800397658234838,21-30,False
+84e18551-2f1c-4fdd-bc52-027924dacc6c,2024-09-19,September,Thursday,Wine,Yellow Tail,1,11.2,0.04,11.2,0.45,10.75,Mobile Payment,49,Other,Sunny,0,0.9598214285714286,41-50,False
+aa5591f4-2487-4b0d-afd8-14ffdb349b06,2025-02-04,February,Tuesday,Vodka,Grey Goose,5,91.16,0.23,455.8,104.83,350.97,Mobile Payment,42,Male,Sunny,0,3.8500438788942524,41-50,False
+2d7ec957-8c33-4bf0-b3e4-73a9629414bb,2024-08-12,August,Monday,Brandy,Paul Masson,2,117.69,0.09,235.38,21.18,214.2,Mobile Payment,57,Female,Sunny,0,1.8200356869742544,51-60,False
+00e82b15-1244-439c-ab34-ed1a5ff707c2,2024-07-02,July,Tuesday,Whiskey,Chivas Regal,2,90.66,0.18,181.32,32.64,148.68,Mobile Payment,39,Other,Cloudy,1,1.639973527465255,31-40,False
+e523fed3-6c08-45c9-80c7-78fd852350ef,2025-01-15,January,Wednesday,Rum,Bacardi,4,32.83,0.18,131.32,23.64,107.68,Cash,45,Female,Cloudy,0,3.2799268961315873,41-50,False
+109e5317-6fa0-4f79-b15d-eebcd4ce638d,2024-12-29,December,Sunday,Wine,Sutter Home,5,115.24,0.23,576.2,132.53,443.67,Debit Card,55,Female,Cloudy,1,3.8499652898299206,51-60,True
+e2f26749-9751-490d-b7eb-77a2981334c8,2025-03-10,March,Monday,Tequila,Patron,5,86.69,0.19,433.45,82.36,351.09,Debit Card,48,Female,Rainy,0,4.049948090898604,41-50,False
+f1256b2c-61a6-47c6-93f9-141d5e7e3896,2024-08-30,August,Friday,Vodka,Absolut,5,85.22,0.2,426.1,85.22,340.88,Mobile Payment,55,Other,Sunny,0,4.0,51-60,False
+0d00f137-ad1a-4933-8fa5-8a9a1ec6744f,2025-02-19,February,Wednesday,Vodka,Grey Goose,4,20.25,0.21,81.0,17.01,63.99,Debit Card,34,Male,Snowy,0,3.16,31-40,False
+219b13a0-b75a-4e84-9945-85f69cb8f3fc,2025-05-30,May,Friday,Beer,Heineken,1,62.94,0.18,62.94,11.33,51.61,Mobile Payment,50,Female,Rainy,0,0.8199872894820465,41-50,False
+405f2844-9a75-442d-8973-94459bc29616,2024-09-21,September,Saturday,Vodka,Absolut,1,14.48,0.11,14.48,1.59,12.89,Credit Card,22,Other,Snowy,0,0.8901933701657458,21-30,True
+e1d10d17-d187-4462-bb08-377288ea62b6,2024-07-14,July,Sunday,Brandy,E&J,5,17.64,0.05,88.2,4.41,83.79,Debit Card,63,Female,Cloudy,1,4.75,61-70,True
+5a1d1a30-d98c-4251-b788-d87755447006,2025-04-16,April,Wednesday,Rum,Captain Morgan,2,94.8,0.04,189.6,7.58,182.02,Cash,63,Male,Cloudy,0,1.9200421940928272,61-70,False
+b732b67b-ba00-4aee-aaff-31fd59152a0e,2024-06-13,June,Thursday,Rum,Malibu,3,66.22,0.02,198.66,3.97,194.69,Debit Card,22,Male,Cloudy,0,2.940048323769254,21-30,False
+b4bd7bf1-b66a-4179-903b-d9deb680479a,2024-10-01,October,Tuesday,Gin,Bombay Sapphire,2,79.06,0.11,158.12,17.39,140.73,Debit Card,21,Other,Sunny,0,1.7800404755881607,21-30,False
+a8a152bb-04dc-4984-974b-7644e164cc86,2025-04-30,April,Wednesday,Beer,Budweiser,2,49.19,0.21,98.38,20.66,77.72,Debit Card,29,Female,Sunny,0,1.579995934132954,21-30,False
+f1321abf-b45f-4e67-a574-a9885537fb00,2024-08-24,August,Saturday,Wine,Barefoot,3,52.12,0.18,156.36,28.14,128.22,Debit Card,38,Other,Cloudy,0,2.460092095165004,31-40,True
+a7bea289-2c4d-4d91-95ce-5f1fa47fe6e2,2024-09-04,September,Wednesday,Vodka,Absolut,3,79.43,0.06,238.29,14.3,223.99,Debit Card,22,Male,Snowy,0,2.819967266775777,21-30,False
+a24bbd6c-c4c5-43c2-87fb-cfe72125e389,2025-05-28,May,Wednesday,Beer,Heineken,2,64.48,0.0,128.96,0.0,128.96,Credit Card,57,Female,Rainy,0,2.0,51-60,False
+a499892f-5ee0-4f73-8b86-0d329af711a7,2024-08-18,August,Sunday,Vodka,Smirnoff,5,38.84,0.14,194.2,27.19,167.01,Credit Card,61,Female,Cloudy,0,4.299948506694129,61-70,True
+27746e6d-9ce8-4dc9-a3b8-894ff3b7711f,2025-04-16,April,Wednesday,Gin,Bombay Sapphire,6,110.08,0.16,660.48,105.68,554.8,Mobile Payment,58,Female,Cloudy,0,5.039970930232558,51-60,False
+4422556e-01f4-4edd-9cd7-99a2d1bba768,2024-07-26,July,Friday,Vodka,Absolut,3,101.45,0.13,304.35,39.57,264.78,Cash,34,Male,Sunny,1,2.609955643173977,31-40,False
+158e6516-516c-40b9-834f-0a4e9a3ed74e,2025-02-23,February,Sunday,Brandy,Hennessy,4,66.12,0.06,264.48,15.87,248.61,Cash,24,Other,Rainy,0,3.759981851179673,21-30,True
+671dc30a-85a8-455e-9a56-c95ec7d4a6ab,2024-10-25,October,Friday,Vodka,Grey Goose,4,79.3,0.19,317.2,60.27,256.93,Cash,48,Male,Cloudy,0,3.239974779319042,41-50,False
+058ffc64-4315-4836-9b2e-1e2d5a14b0b9,2025-02-14,February,Friday,Whiskey,Jameson,6,38.94,0.21,233.64,49.06,184.58,Credit Card,61,Other,Sunny,0,4.740112994350283,61-70,False
+fc0ee23d-388c-4c09-8842-18d4347783c4,2024-07-09,July,Tuesday,Rum,Bacardi,6,46.42,0.09,278.52,25.07,253.45,Cash,29,Other,Rainy,1,5.459931064196467,21-30,False
+99125f9f-7742-4ef7-849d-d53ebb884b7a,2024-07-15,July,Monday,Whiskey,Jack Daniels,6,68.22,0.12,409.32,49.12,360.2,Cash,27,Female,Rainy,1,5.279976546467312,21-30,False
+7c1388d2-613b-48c8-9f5a-eca6c41e4457,2024-09-06,September,Friday,Gin,Tanqueray,4,37.47,0.18,149.88,26.98,122.9,Credit Card,28,Other,Sunny,0,3.2799572991726715,21-30,False
+bf8668f0-081e-4f93-8bf6-de2e6002c6ae,2024-06-30,June,Sunday,Beer,Heineken,1,109.08,0.0,109.08,0.0,109.08,Mobile Payment,32,Male,Sunny,0,1.0,31-40,True
+73ad31f5-7c0f-451e-9609-0d26f67ded67,2025-04-03,April,Thursday,Gin,Beefeater,4,54.38,0.23,217.52,50.03,167.49,Cash,60,Other,Sunny,0,3.079992644354542,51-60,False
+3ec077d8-00b1-44f1-b671-b38a4ef7810f,2024-08-26,August,Monday,Vodka,Smirnoff,1,113.41,0.22,113.41,24.95,88.46,Mobile Payment,25,Other,Rainy,0,0.7800017635129177,21-30,False
+d90ac32d-589e-4768-970e-ed9812b16f93,2024-09-18,September,Wednesday,Brandy,E&J,1,119.49,0.09,119.49,10.75,108.74,Cash,30,Other,Sunny,0,0.9100343124947694,21-30,False
+d053c1a7-df97-437b-a83a-25bf04382b00,2025-01-30,January,Thursday,Wine,Sutter Home,5,37.56,0.1,187.8,18.78,169.02,Credit Card,56,Male,Rainy,0,4.5,51-60,False
+1a71fec7-219f-406c-b095-e541592a6a62,2024-07-17,July,Wednesday,Gin,Beefeater,4,68.79,0.02,275.16,5.5,269.66,Debit Card,31,Other,Sunny,1,3.920046518389301,31-40,False
+a5b3e775-3552-462e-a926-7299567a6caf,2025-03-20,March,Thursday,Brandy,Hennessy,2,81.23,0.12,162.46,19.5,142.96,Cash,60,Male,Sunny,0,1.759940908531331,51-60,False
+5a9e0702-57dc-4c6c-a079-72ab444cf283,2024-07-25,July,Thursday,Gin,Bombay Sapphire,2,58.74,0.14,117.48,16.45,101.03,Cash,38,Female,Rainy,1,1.7199523323118828,31-40,False
+b4a5bd3d-0a13-48e3-a516-2ffe3a40074d,2024-10-28,October,Monday,Tequila,Patron,5,43.66,0.15,218.3,32.74,185.55,Cash,52,Male,Cloudy,0,4.2498854786990385,51-60,False
+2c0fcf67-3fcb-4d51-b7d0-891ae3eacc67,2024-10-03,October,Thursday,Wine,Yellow Tail,6,48.01,0.16,288.06,46.09,241.97,Debit Card,55,Female,Rainy,0,5.039991668402417,51-60,False
+7ae42acc-6b0f-4a16-a630-ab034cd6ab2a,2025-04-22,April,Tuesday,Tequila,Patron,1,22.4,0.08,22.4,1.79,20.61,Cash,64,Male,Snowy,0,0.9200892857142857,61-70,False
+63b67a16-0944-4582-94aa-8a122137e3be,2024-10-19,October,Saturday,Gin,Beefeater,6,118.71,0.1,712.26,71.23,641.03,Debit Card,34,Male,Rainy,0,5.39996630443939,31-40,True
+9c0632d9-5a07-46aa-bc12-3fd9a89a144c,2024-09-09,September,Monday,Rum,Malibu,2,93.56,0.17,187.12,31.81,155.31,Mobile Payment,49,Other,Cloudy,0,1.6600042753313382,41-50,False
+0164eb3c-91d9-4299-9360-4b00de61e574,2024-07-28,July,Sunday,Beer,Budweiser,3,104.31,0.21,312.93,65.72,247.21,Credit Card,38,Female,Cloudy,1,2.3699549419998083,31-40,True
+0111cead-62e1-4f7e-b078-8832021e77ed,2025-01-05,January,Sunday,Whiskey,Jameson,4,118.17,0.09,472.68,42.54,430.14,Cash,42,Female,Sunny,0,3.6400101548616397,41-50,True
+0a0a612c-2576-4bd5-a12b-1c1278c967b8,2025-05-05,May,Monday,Tequila,Jose Cuervo,1,115.84,0.22,115.84,25.48,90.36,Debit Card,42,Male,Sunny,0,0.7800414364640884,41-50,False
+5649e414-e96b-4cd6-879c-1ab0eb5303d1,2025-01-26,January,Sunday,Tequila,Patron,3,64.35,0.03,193.05,5.79,187.26,Credit Card,47,Other,Rainy,0,2.91002331002331,41-50,True
+4068bbe3-3088-4ed8-8d3e-f958da2aeff1,2024-09-10,September,Tuesday,Tequila,Don Julio,4,58.96,0.06,235.84,14.15,221.69,Debit Card,23,Male,Rainy,0,3.7600067842605154,21-30,False
+ac5a73a5-9e41-445f-84db-9474fbe9ff72,2024-10-14,October,Monday,Whiskey,Jameson,2,81.29,0.16,162.58,26.01,136.57,Credit Card,65,Other,Rainy,0,1.680034444581129,61-70,False
+4adab6f6-d9f2-4e75-b485-cebaa1fa7fc7,2024-07-30,July,Tuesday,Beer,Heineken,3,117.91,0.15,353.73,53.06,300.67,Mobile Payment,52,Male,Sunny,1,2.549995759477568,51-60,False
+9740f65d-afaa-47db-9bcd-89e1827b8c98,2024-08-18,August,Sunday,Wine,Barefoot,5,35.31,0.11,176.55,19.42,157.13,Mobile Payment,25,Other,Sunny,0,4.450014160294534,21-30,True
+d3ceedab-a38b-47ee-930b-257843e2a48f,2025-04-21,April,Monday,Wine,Barefoot,4,39.59,0.17,158.36,26.92,131.44,Credit Card,34,Other,Snowy,0,3.320030310684516,31-40,False
+aeb91bdc-d1a3-44a8-a07e-814d9f2e1a31,2024-11-21,November,Thursday,Whiskey,Jack Daniels,2,12.7,0.14,25.4,3.56,21.84,Cash,47,Other,Rainy,1,1.7196850393700789,41-50,False
+a6677049-940a-4105-b01c-1ef056461358,2024-12-11,December,Wednesday,Rum,Bacardi,2,39.53,0.05,79.06,3.95,75.11,Credit Card,36,Female,Sunny,1,1.9000758917278016,31-40,False
+c97196b8-b950-4485-9806-b042ebab71c8,2024-09-29,September,Sunday,Beer,Heineken,6,93.56,0.22,561.36,123.5,437.86,Credit Card,39,Female,Rainy,0,4.679991449337324,31-40,True
+3538c2e0-82eb-4444-bbdd-a6d78335f144,2024-12-16,December,Monday,Gin,Bombay Sapphire,4,84.72,0.03,338.88,10.17,328.71,Debit Card,46,Female,Sunny,1,3.879957507082153,41-50,False
+acc0cdf4-cd69-4be9-84a3-4bbccc6746de,2024-12-29,December,Sunday,Vodka,Smirnoff,3,72.54,0.08,217.62,17.41,200.21,Debit Card,57,Other,Rainy,1,2.759994485800937,51-60,True
+18332933-da6f-441a-a75e-d6f3428d62c3,2025-06-01,June,Sunday,Beer,Corona,4,109.88,0.11,439.52,48.35,391.17,Debit Card,60,Male,Cloudy,0,3.5599745176556246,51-60,True
+98dcecf2-df00-49ff-8e03-7841744c15ab,2024-10-01,October,Tuesday,Whiskey,Jack Daniels,3,58.39,0.2,175.17,35.03,140.14,Mobile Payment,52,Female,Cloudy,0,2.4000685048809727,51-60,False
+94638b51-587b-44a9-aead-1d7922f77301,2024-10-02,October,Wednesday,Wine,Yellow Tail,3,18.83,0.23,56.49,12.99,43.5,Debit Card,65,Female,Rainy,0,2.310143388210303,61-70,False
+d50e5111-8a46-470b-bfc3-82716a8c49e0,2025-03-28,March,Friday,Brandy,Paul Masson,2,92.96,0.1,185.92,18.59,167.33,Mobile Payment,52,Female,Cloudy,0,1.8000215146299485,51-60,False
+fc685da7-b9ac-410c-9a17-4e5eff24ab88,2025-03-20,March,Thursday,Brandy,E&J,6,78.17,0.02,469.02,9.38,459.64,Mobile Payment,55,Male,Rainy,0,5.880005117052577,51-60,False
+9364e27e-89b6-40ff-9751-70108dfacb6b,2024-12-26,December,Thursday,Tequila,Don Julio,6,87.41,0.11,524.46,57.69,466.77,Mobile Payment,21,Other,Cloudy,1,5.340006864203181,21-30,False
+3fb99b26-6604-4c25-b574-9427665600d6,2024-12-16,December,Monday,Rum,Bacardi,3,58.44,0.13,175.32,22.79,152.53,Mobile Payment,42,Male,Rainy,1,2.6100273785078714,41-50,False
+bad2b3ed-6113-48cc-bab2-2b2b3ae9a964,2024-08-25,August,Sunday,Brandy,E&J,2,47.05,0.15,94.1,14.11,79.98,Debit Card,52,Male,Snowy,0,1.699893730074389,51-60,True
+903d2d59-2f5d-45f7-8108-46e22c64294b,2025-04-17,April,Thursday,Tequila,Jose Cuervo,2,22.09,0.0,44.18,0.0,44.18,Debit Card,39,Female,Cloudy,0,2.0,31-40,False
+b29edd3d-5813-4e2d-bf12-de313209dbc3,2024-11-21,November,Thursday,Gin,Tanqueray,6,112.02,0.17,672.12,114.26,557.86,Cash,36,Other,Sunny,1,4.980003570790931,31-40,False
+a71c8539-66b2-4eb7-8cf8-00b5a6d858e5,2024-07-11,July,Thursday,Whiskey,Chivas Regal,6,64.04,0.03,384.24,11.53,372.71,Mobile Payment,38,Other,Rainy,1,5.8199562773266695,31-40,False
+ce046205-2799-43ce-97fd-764cc7a6ea00,2025-05-13,May,Tuesday,Tequila,Don Julio,1,42.29,0.08,42.29,3.38,38.91,Credit Card,29,Male,Sunny,0,0.9200756680066209,21-30,False
+ca6ad1dd-61ed-4dfa-8659-d245f5f776a4,2024-11-30,November,Saturday,Tequila,Jose Cuervo,1,117.63,0.19,117.63,22.35,95.28,Debit Card,36,Other,Sunny,1,0.8099974496301964,31-40,True
+66004831-ecfa-4c8b-99d2-28936b690052,2024-10-26,October,Saturday,Gin,Bombay Sapphire,2,106.6,0.06,213.2,12.79,200.41,Credit Card,65,Female,Sunny,0,1.8800187617260788,61-70,True
+d60a2d77-8750-4dc1-8d1f-538e75ff62ad,2025-02-17,February,Monday,Tequila,Jose Cuervo,5,68.82,0.14,344.1,48.17,295.93,Mobile Payment,36,Other,Sunny,0,4.300058122638768,31-40,False
+3c14dcca-4e55-45f6-b3f6-48542f241e16,2024-11-27,November,Wednesday,Vodka,Grey Goose,3,81.77,0.03,245.31,7.36,237.95,Mobile Payment,60,Female,Sunny,1,2.9099914394032043,51-60,False
+b2329232-97a3-45f9-b2f2-26fe15292fe4,2024-07-16,July,Tuesday,Rum,Captain Morgan,5,34.45,0.08,172.25,13.78,158.47,Cash,57,Other,Cloudy,1,4.6,51-60,False
+e7780c30-0d0e-4296-9e28-7db229303c15,2024-07-25,July,Thursday,Vodka,Absolut,1,47.43,0.11,47.43,5.22,42.21,Debit Card,53,Other,Snowy,1,0.8899430740037951,51-60,False
+da3dc724-775e-4bb7-8266-f1b7af6e4bb5,2024-10-31,October,Thursday,Brandy,E&J,3,30.59,0.1,91.77,9.18,82.59,Cash,33,Female,Cloudy,0,2.6999019287348807,31-40,False
+69e44006-7c85-4cdb-a287-b24400d0540d,2024-07-14,July,Sunday,Whiskey,Jack Daniels,1,112.76,0.13,112.76,14.66,98.1,Debit Card,53,Male,Snowy,1,0.8699893579283433,51-60,True
+4d6a150a-da9f-4b86-b023-38af340c9ebc,2025-05-23,May,Friday,Whiskey,Chivas Regal,1,116.63,0.02,116.63,2.33,114.3,Credit Card,54,Other,Sunny,0,0.9800222927205693,51-60,False
+219d8b40-cd5e-4b69-9123-43681c5c63f5,2025-01-19,January,Sunday,Gin,Beefeater,1,54.2,0.09,54.2,4.88,49.32,Credit Card,56,Male,Rainy,0,0.9099630996309963,51-60,True
+91de6b03-9556-4620-a962-93e0ca046f62,2024-07-21,July,Sunday,Gin,Beefeater,2,23.47,0.03,46.94,1.41,45.53,Credit Card,48,Male,Sunny,1,1.9399233063485302,41-50,True
+72a48b30-f72e-4841-8c1e-d5dd34d9f59c,2024-08-17,August,Saturday,Whiskey,Chivas Regal,4,26.93,0.1,107.72,10.77,96.95,Debit Card,51,Male,Sunny,0,3.6000742666171557,51-60,True
+d69d52b2-18fd-420e-919a-4d218fd435db,2025-05-10,May,Saturday,Beer,Corona,2,98.59,0.1,197.18,19.72,177.46,Debit Card,60,Male,Sunny,0,1.7999797139669338,51-60,True
+e049fc5f-b0c3-4697-8afb-4ab6d7ffea52,2024-12-30,December,Monday,Beer,Corona,6,94.2,0.09,565.2,50.87,514.33,Cash,22,Other,Sunny,1,5.4599787685774945,21-30,False
+1447fdd8-f809-412a-80dd-c211f13688ec,2025-01-24,January,Friday,Vodka,Absolut,5,20.81,0.24,104.05,24.97,79.08,Mobile Payment,52,Male,Rainy,0,3.8000961076405577,51-60,False
+f7d50402-234f-433a-98e2-7b6735af0996,2025-04-17,April,Thursday,Brandy,E&J,4,91.74,0.03,366.96,11.01,355.95,Credit Card,53,Other,Rainy,0,3.879986919555265,51-60,False
+1136ae88-f626-40e4-b440-3e2392ef8b80,2024-09-20,September,Friday,Tequila,Jose Cuervo,5,58.38,0.03,291.9,8.76,283.14,Cash,57,Male,Snowy,0,4.84994861253854,51-60,False
+430ab097-1a48-42e3-a47a-404babb9e9b4,2025-03-21,March,Friday,Whiskey,Jameson,6,68.17,0.24,409.02,98.16,310.86,Debit Card,49,Other,Sunny,0,4.560070412204782,41-50,False
+1a2a2ea0-7c1f-4abb-80b8-015a877e91f0,2024-08-02,August,Friday,Rum,Malibu,6,91.53,0.07,549.18,38.44,510.74,Debit Card,47,Female,Cloudy,0,5.580028405987108,41-50,False
+7ae30483-049e-4044-99c1-afc5bac885bb,2024-10-18,October,Friday,Whiskey,Chivas Regal,3,11.81,0.03,35.43,1.06,34.37,Credit Card,51,Male,Snowy,0,2.910245554614733,51-60,False
+b7734f40-45b0-498a-b6ee-46a4a8d19626,2025-03-17,March,Monday,Brandy,Paul Masson,4,70.08,0.23,280.32,64.47,215.85,Credit Card,45,Other,Snowy,0,3.0800513698630136,41-50,False
+a6a475f9-443c-45fd-85d3-c5949a6386dc,2025-04-12,April,Saturday,Whiskey,Chivas Regal,5,33.16,0.21,165.8,34.82,130.98,Mobile Payment,30,Other,Snowy,0,3.9499396863691194,21-30,True
+4bc26175-2894-42d8-8b51-10eb5e1d4d7c,2025-05-29,May,Thursday,Beer,Budweiser,3,79.65,0.02,238.95,4.78,234.17,Debit Card,57,Other,Sunny,0,2.9399874450721906,51-60,False
+0a01d183-b651-49d3-b75a-12025775ac7c,2025-01-01,January,Wednesday,Brandy,Hennessy,5,97.31,0.22,486.55,107.04,379.51,Credit Card,37,Male,Rainy,0,3.9000102764361317,31-40,False
+bf52a201-9120-4ed4-a6aa-14609522d8e4,2025-05-08,May,Thursday,Vodka,Grey Goose,2,51.83,0.2,103.66,20.73,82.93,Cash,47,Female,Snowy,0,1.600038587690527,41-50,False
+a017b9f2-1c36-406e-9098-1e288aec0608,2025-02-18,February,Tuesday,Whiskey,Jack Daniels,2,97.5,0.12,195.0,23.4,171.6,Debit Card,29,Male,Cloudy,0,1.76,21-30,False
+5cc43b9a-6121-4044-8334-79c2c40d4f0a,2024-07-03,July,Wednesday,Brandy,Paul Masson,6,83.7,0.14,502.2,70.31,431.89,Mobile Payment,26,Male,Cloudy,1,5.159976105137395,21-30,False
+53d6b177-90bc-411e-b2e2-9371caea55e2,2024-08-30,August,Friday,Brandy,Paul Masson,4,53.92,0.18,215.68,38.82,176.86,Cash,51,Male,Rainy,0,3.280044510385757,51-60,False
+d8b2211f-a610-48c7-bddb-2251535f6a10,2025-02-23,February,Sunday,Beer,Budweiser,4,114.02,0.07,456.08,31.93,424.15,Mobile Payment,61,Male,Rainy,0,3.7199614102788985,61-70,True
+f0cc6b68-5d44-49b2-84e0-1f02f3fc184f,2025-02-01,February,Saturday,Vodka,Smirnoff,4,26.24,0.23,104.96,24.14,80.82,Mobile Payment,23,Female,Cloudy,0,3.080030487804878,21-30,True
+7e24aa86-85e8-4ef3-a9c2-0c946d475f0d,2025-05-18,May,Sunday,Rum,Bacardi,2,11.85,0.22,23.7,5.21,18.49,Cash,40,Female,Cloudy,0,1.560337552742616,31-40,True
+bd4c3a2e-1891-45a6-bcf0-b4d2f64d9ce4,2025-01-03,January,Friday,Beer,Heineken,1,51.6,0.03,51.6,1.55,50.05,Cash,61,Other,Sunny,0,0.9699612403100775,61-70,False
+80a5c199-d40c-4590-abdc-cf3ab75dea96,2025-05-14,May,Wednesday,Vodka,Grey Goose,4,75.19,0.25,300.76,75.19,225.57,Mobile Payment,44,Female,Rainy,0,3.0,41-50,False
+ee31a039-118f-42a8-af34-156c392d328a,2024-07-10,July,Wednesday,Whiskey,Chivas Regal,4,37.53,0.11,150.12,16.51,133.61,Debit Card,57,Male,Sunny,1,3.5600852651212365,51-60,False
+a33138e8-53d2-46a1-b892-eb27252fbaff,2024-12-13,December,Friday,Vodka,Absolut,6,34.67,0.09,208.02,18.72,189.3,Credit Card,31,Other,Sunny,1,5.460051918084799,31-40,False
+cce40943-8159-4a0d-a6c4-1802e1e9a45e,2024-06-29,June,Saturday,Whiskey,Chivas Regal,4,113.54,0.21,454.16,95.37,358.79,Cash,31,Female,Rainy,0,3.1600317068874406,31-40,True
+6b11a694-4ac6-4c5a-affe-72cbc4d3ae6d,2025-03-20,March,Thursday,Brandy,Paul Masson,3,57.71,0.17,173.13,29.43,143.7,Cash,37,Male,Cloudy,0,2.490036388840755,31-40,False
+d762e3cd-16eb-412d-a4b1-8a08350a5bbf,2024-12-27,December,Friday,Vodka,Smirnoff,3,39.88,0.21,119.64,25.12,94.52,Mobile Payment,56,Female,Snowy,1,2.3701103309929787,51-60,False
+b7174d7f-8d7b-483d-b51d-20a49d66fe87,2025-05-08,May,Thursday,Wine,Barefoot,4,73.61,0.21,294.44,61.83,232.61,Debit Card,57,Other,Rainy,0,3.160032604265725,51-60,False
+4772bc60-3017-48a4-9e7d-4cbee257d158,2024-08-23,August,Friday,Beer,Budweiser,1,79.23,0.17,79.23,13.47,65.76,Cash,23,Male,Rainy,0,0.8299886406664143,21-30,False
+ff7da6cf-543a-4b40-9ee5-74737b08c251,2024-07-19,July,Friday,Tequila,Don Julio,4,63.79,0.1,255.16,25.52,229.64,Cash,33,Female,Cloudy,1,3.599937294246747,31-40,False
+f9e9f6c0-767e-4c7d-84f9-8273492117e1,2025-03-21,March,Friday,Beer,Heineken,4,54.66,0.09,218.64,19.68,198.96,Credit Card,21,Other,Snowy,0,3.639956092206367,21-30,False
+6be014c7-cac8-483d-8bc7-df2e586da7c4,2024-12-08,December,Sunday,Tequila,Patron,1,96.48,0.22,96.48,21.23,75.25,Cash,34,Other,Cloudy,1,0.7799543946932006,31-40,True
+3d8fca61-70e4-41b4-b8a5-09f5cb0a5864,2025-01-22,January,Wednesday,Tequila,Don Julio,6,77.85,0.06,467.1,28.03,439.07,Cash,54,Male,Rainy,0,5.639948619139371,51-60,False
+68d36f95-9da4-4d29-bae9-ede866288cf7,2024-09-21,September,Saturday,Beer,Budweiser,4,44.05,0.18,176.2,31.72,144.48,Debit Card,50,Male,Snowy,0,3.279909194097616,41-50,True
+f9a14e24-00a8-4dbf-836f-d36d8a267ac6,2024-10-16,October,Wednesday,Tequila,Patron,3,108.2,0.25,324.6,81.15,243.45,Debit Card,55,Other,Sunny,0,2.25,51-60,False
