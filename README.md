@@ -98,7 +98,7 @@ Key queries and insights from the `Liquor Store.sql` script:
 
 ## 📬 Contact
 
-**Himali Thakkar**  
+**Himali Patel**  
 📧 himalipatel0895@gmail.com 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/himalipatel) 
