@@ -10,7 +10,7 @@ This project delivers comprehensive sales and customer behavior insights for a l
 - 📁 **Data Source:** Cleaned transactional dataset (CSV) with customer demographics, dates, payment methods, and discount fields.
 - 🛠 **Tools Used:** 
   - **SQL** for querying and aggregating performance metrics
-  - **Python (Pandas/Matplotlib)** for data cleaning and EDA
+  - **Python (Pandas)** for data cleaning and EDA
   - **Tableau** for building four interactive dashboards
   - **BRD** (Business Requirement Document) for scoping and planning
 
@@ -59,14 +59,26 @@ Key queries and insights from the `Liquor Store.sql` script:
 
 ## 📊 Tableau Dashboards (from `.twb` file)
 
-1. **Sales Overview Dashboard**  
+1. **Sales Performance Overview Dashboard**  
    - Total revenue, units sold, top brands
-2. **Customer Demographics Dashboard**  
+   
+![image](https://github.com/user-attachments/assets/99dc3c88-c41a-495a-a6df-67ff9ae94f97)
+
+2. **Customer Demographics & Preferences Dashboard**  
    - Gender & age breakdown with average spend
-3. **Promotions & Discounts Dashboard**  
+
+![image](https://github.com/user-attachments/assets/92ca942e-7db8-4717-9c5a-7b647f21c60f)
+
+3. **Promotions & Seasonal Trends Dashboard**  
    - Discount impact on sales, lost revenue insights
-4. **Seasonality & Holiday Trends Dashboard**  
+  
+![image](https://github.com/user-attachments/assets/1ee88d87-ac19-4e94-a67b-079acd16c7cb)
+
+4. **Product Performance Dashboard**  
    - Revenue patterns across months, weekdays, and holidays
+
+![image](https://github.com/user-attachments/assets/291b6d62-c954-41d8-9655-77604f76c172)
+
 
 📌 *All dashboards align with BRD user stories and success metrics.*
 
